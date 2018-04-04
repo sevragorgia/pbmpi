@@ -1,5 +1,5 @@
 CC=mpic++
-CPPFLAGS= -w -O3 -c
+CPPFLAGS= -w -O3 -c -fpermissive
 LDFLAGS= -O3
 SRCS=  TaxonSet.cpp Tree.cpp Random.cpp SequenceAlignment.cpp CodonSequenceAlignment.cpp \
 	StateSpace.cpp CodonStateSpace.cpp ZippedSequenceAlignment.cpp SubMatrix.cpp \
@@ -36,7 +36,7 @@ ALL_SRCS=$(wildcard *.cpp)
 ALL_OBJS=$(patsubst %.cpp,%.o,$(ALL_SRCS))
 
 PROGSDIR=../data
-ALL= pb_mpi readpb_mpi tracecomp bpcomp cvrep
+ALL= pb_mpi #readpb_mpi tracecomp bpcomp cvrep
 PROGS=$(addprefix $(PROGSDIR)/, $(ALL))
 
 .PHONY: all clean
@@ -61,23 +61,23 @@ endif
 
 # Targets
 
-$(PROGSDIR)/cvrep : CVrep.o $(OBJS)
-	$(CC) CVrep.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
+#$(PROGSDIR)/cvrep : CVrep.o $(OBJS)
+#	$(CC) CVrep.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
 
-$(PROGSDIR)/jackknife: JackKnife.o $(OBJS)
-	$(CC) JackKnife.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
+#$(PROGSDIR)/jackknife: JackKnife.o $(OBJS)
+#	$(CC) JackKnife.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
 
-$(PROGSDIR)/readpb_mpi: ReadPB.o $(OBJS)
-	$(CC) ReadPB.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
+#$(PROGSDIR)/readpb_mpi: ReadPB.o $(OBJS)
+#	$(CC) ReadPB.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
 
 $(PROGSDIR)/pb_mpi: PB.o $(OBJS)
 	$(CC) PB.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
 
-$(PROGSDIR)/tracecomp: TraceComp.o $(OBJS)
-	$(CC) TraceComp.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
+#$(PROGSDIR)/tracecomp: TraceComp.o $(OBJS)
+#	$(CC) TraceComp.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
 
-$(PROGSDIR)/bpcomp: BPCompare.o $(OBJS)
-	$(CC) BPCompare.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
+#$(PROGSDIR)/bpcomp: BPCompare.o $(OBJS)
+#	$(CC) BPCompare.o $(OBJS) $(LDFLAGS) $(LIBS) -o $@
 
 clean:
 	-rm -f *.o *.d *.d.*
