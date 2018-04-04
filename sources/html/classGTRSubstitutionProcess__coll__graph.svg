@@ -8,9 +8,9 @@
  viewBox="0.00 0.00 834.50 1587.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1583)">
 <title>GTRSubstitutionProcess</title>
-<!-- Node14 -->
+<!-- Node12 -->
 <g id="node1" class="node">
-<title>Node14</title>
+<title>Node12</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="278,-.5 278,-90.5 424,-90.5 424,-.5 278,-.5"/>
 <text text-anchor="middle" x="351" y="-78.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">GTRSubstitutionProcess</text>
 <polyline fill="none" stroke="#000000" points="278,-71.5 424,-71.5 "/>
@@ -21,9 +21,9 @@
 <text text-anchor="start" x="286" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># Create()</text>
 <text text-anchor="start" x="286" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># Delete()</text>
 </g>
-<!-- Node15 -->
+<!-- Node13 -->
 <g id="node2" class="node">
-<title>Node15</title>
+<title>Node13</title>
 <g id="a_node2"><a xlink:href="classMatrixSubstitutionProcess.html" target="_top" xlink:title="{MatrixSubstitutionProcess\n||+ MatrixSubstitutionProcess()\l+ ~MatrixSubstitutionProcess()\l+ GetNstate()\l+ GetStationary()\l# Propagate()\l# SamplePaths()\l# SampleRootPaths()\l# ResampleAcceptReject()\l# ResampleUniformized()\l# SimuPropagate()\l}">
 <polygon fill="none" stroke="#000000" points="275,-167 275,-323 427,-323 427,-167 275,-167"/>
 <text text-anchor="middle" x="351" y="-311" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">MatrixSubstitutionProcess</text>
@@ -43,15 +43,15 @@
 </a>
 </g>
 </g>
-<!-- Node15&#45;&gt;Node14 -->
+<!-- Node13&#45;&gt;Node12 -->
 <g id="edge1" class="edge">
-<title>Node15&#45;&gt;Node14</title>
+<title>Node13&#45;&gt;Node12</title>
 <path fill="none" stroke="#191970" d="M351,-156.6778C351,-133.8919 351,-110.2999 351,-90.7424"/>
 <polygon fill="none" stroke="#191970" points="347.5001,-156.7249 351,-166.7249 354.5001,-156.7249 347.5001,-156.7249"/>
 </g>
-<!-- Node16 -->
+<!-- Node14 -->
 <g id="node3" class="node">
-<title>Node16</title>
+<title>Node14</title>
 <g id="a_node3"><a xlink:href="classSubstitutionProcess.html" target="_top" xlink:title="{SubstitutionProcess\n||+ SubstitutionProcess()\l+ ~SubstitutionProcess()\l+ GetNsite()\l+ GetDim()\l+ GetNstate()\l+ GetGlobalNstate()\l+ GetStationary()\l+ GetSiteMin()\l+ GetSiteMax()\l+ GetInfProbCount()\l# Create()\l# Delete()\l# CreateConditionalLikelihood\lVector()\l# DeleteConditionalLikelihood\lVector()\l# CreateProbVector()\l# CreateCondSiteLogL()\l# DeleteCondSiteLogL()\l# DrawAllocations()\l# DrawAllocationsFromPrior()\l# Reset()\l# Multiply()\l# MultiplyByStationaries()\l# Offset()\l# Initialize()\l# ComputeLikelihood()\l# ConditionalLikelihoodsTo\lStatePostProbs()\l# Propagate()\l# SimuPropagate()\l# ChooseStates()\l# ChooseStatesAtEquilibrium()\l# SetCondToStates()\l# SamplePaths()\l# SampleRootPaths()\l}">
 <polygon fill="none" stroke="#000000" points="230.5,-409.5 230.5,-851.5 381.5,-851.5 381.5,-409.5 230.5,-409.5"/>
 <text text-anchor="middle" x="306" y="-839.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">SubstitutionProcess</text>
@@ -97,15 +97,15 @@
 </a>
 </g>
 </g>
-<!-- Node16&#45;&gt;Node15 -->
+<!-- Node14&#45;&gt;Node13 -->
 <g id="edge2" class="edge">
-<title>Node16&#45;&gt;Node15</title>
+<title>Node14&#45;&gt;Node13</title>
 <path fill="none" stroke="#191970" d="M332.9911,-399.2761C336.1612,-372.1186 339.2074,-346.0234 341.8638,-323.267"/>
 <polygon fill="none" stroke="#191970" points="329.5012,-398.9869 331.8181,-409.3253 336.454,-399.7985 329.5012,-398.9869"/>
 </g>
-<!-- Node17 -->
+<!-- Node15 -->
 <g id="node4" class="node">
-<title>Node17</title>
+<title>Node15</title>
 <g id="a_node4"><a xlink:href="classRateProcess.html" target="_top" xlink:title="{RateProcess\n||+ RateProcess()\l+ ~RateProcess()\l+ GetVersion()\l+ GetNsite()\l+ GetNrate()\l+ GetRate()\l+ GetRateWeight()\l+ GetMeanRate()\l+ GetPriorMeanRate()\l+ GetAlpha()\l+ ActivateSumOverRateAllocations()\l+ InactivateSumOverRateAllocations()\l+ SumOverRateAllocations()\l+ LogRatePrior()\l+ SampleRate()\l+ ToStream()\l+ FromStream()\l# GlobalUpdateSiteRateSuffStat()\l# SlaveUpdateSiteRateSuffStat()\l# UpdateSiteRateSuffStat()\l# GetSiteRateSuffStatBeta()\l# GetSiteRateSuffStatCount()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l}">
 <polygon fill="none" stroke="#000000" points="152.5,-938 152.5,-1292 337.5,-1292 337.5,-938 152.5,-938"/>
 <text text-anchor="middle" x="245" y="-1280" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">RateProcess</text>
@@ -143,21 +143,21 @@
 </a>
 </g>
 </g>
-<!-- Node17&#45;&gt;Node14 -->
+<!-- Node15&#45;&gt;Node12 -->
 <g id="edge22" class="edge">
-<title>Node17&#45;&gt;Node14</title>
+<title>Node15&#45;&gt;Node12</title>
 <path fill="none" stroke="#191970" d="M225.8154,-927.8416C223.8216,-902.3785 222.1185,-876.564 221,-852 206.3355,-529.935 117.2493,-414.0318 266,-128 273.0214,-114.4986 283.0859,-101.9093 293.8475,-90.8328"/>
 <polygon fill="none" stroke="#191970" points="222.3384,-928.2701 226.6241,-937.9594 229.3162,-927.7123 222.3384,-928.2701"/>
 </g>
-<!-- Node17&#45;&gt;Node16 -->
+<!-- Node15&#45;&gt;Node14 -->
 <g id="edge3" class="edge">
-<title>Node17&#45;&gt;Node16</title>
+<title>Node15&#45;&gt;Node14</title>
 <path fill="none" stroke="#191970" d="M268.6102,-927.4734C271.7354,-902.6504 274.9626,-877.0186 278.1508,-851.696"/>
 <polygon fill="none" stroke="#191970" points="265.1012,-927.3256 267.3245,-937.6846 272.0464,-928.2001 265.1012,-927.3256"/>
 </g>
-<!-- Node18 -->
+<!-- Node16 -->
 <g id="node5" class="node">
-<title>Node18</title>
+<title>Node16</title>
 <g id="a_node5"><a xlink:href="classChrono.html" target="_top" xlink:title="{Chrono\n||+ Chrono()\l+ ~Chrono()\l+ Reset()\l+ Start()\l+ Stop()\l+ ToStream()\l+ FromStream()\l+ operator++()\l+ GetTime()\l+ GetTimePerCount()\l+ GetCount()\l}">
 <polygon fill="none" stroke="#000000" points="0,-1411.5 0,-1578.5 110,-1578.5 110,-1411.5 0,-1411.5"/>
 <text text-anchor="middle" x="55" y="-1566.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Chrono</text>
@@ -178,16 +178,16 @@
 </a>
 </g>
 </g>
-<!-- Node18&#45;&gt;Node17 -->
+<!-- Node16&#45;&gt;Node15 -->
 <g id="edge4" class="edge">
-<title>Node18&#45;&gt;Node17</title>
+<title>Node16&#45;&gt;Node15</title>
 <path fill="none" stroke="#404040" d="M27.0749,-1411.1591C24.7654,-1388.8693 27.6985,-1366.2322 42,-1349 69.7233,-1315.5955 103.3921,-1357.2057 138,-1331 149.0959,-1322.598 159.1146,-1312.7336 168.1489,-1301.9284"/>
 <polygon fill="none" stroke="#404040" points="168.3947,-1301.6175 168.978,-1294.43 175.8369,-1292.204 175.2537,-1299.3915 168.3947,-1301.6175"/>
 <text text-anchor="middle" x="69.5" y="-1368.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #chronorate</text>
 </g>
-<!-- Node21 -->
+<!-- Node19 -->
 <g id="node8" class="node">
-<title>Node21</title>
+<title>Node19</title>
 <g id="a_node8"><a xlink:href="classProfileProcess.html" target="_top" xlink:title="{ProfileProcess\n||+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
 <polygon fill="none" stroke="#000000" points="356,-899.5 356,-1330.5 528,-1330.5 528,-899.5 356,-899.5"/>
 <text text-anchor="middle" x="442" y="-1318.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ProfileProcess</text>
@@ -232,18 +232,18 @@
 </a>
 </g>
 </g>
-<!-- Node18&#45;&gt;Node21 -->
+<!-- Node16&#45;&gt;Node19 -->
 <g id="edge8" class="edge">
-<title>Node18&#45;&gt;Node21</title>
+<title>Node16&#45;&gt;Node19</title>
 <path fill="none" stroke="#404040" d="M96.8016,-1411.1791C112.9202,-1387.2063 133.6704,-1363.6343 159,-1349 231.2963,-1307.2304 278.2526,-1379.8032 346,-1331 346.1041,-1330.925 346.208,-1330.8499 346.3118,-1330.7747"/>
 <polygon fill="none" stroke="#404040" points="346.2376,-1330.8334 348.4644,-1323.9747 355.652,-1323.3923 353.4251,-1330.251 346.2376,-1330.8334"/>
 <text text-anchor="middle" x="186.5" y="-1379.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #chronostat</text>
 <text text-anchor="middle" x="186.5" y="-1368.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#chronorr</text>
 <text text-anchor="middle" x="186.5" y="-1357.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#chronodp</text>
 </g>
-<!-- Node19 -->
+<!-- Node17 -->
 <g id="node6" class="node">
-<title>Node19</title>
+<title>Node17</title>
 <polygon fill="none" stroke="#bfbfbf" points="268.5,-1466.5 268.5,-1523.5 297.5,-1523.5 297.5,-1466.5 268.5,-1466.5"/>
 <text text-anchor="middle" x="283" y="-1511.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">int</text>
 <polyline fill="none" stroke="#bfbfbf" points="268.5,-1504.5 297.5,-1504.5 "/>
@@ -251,9 +251,9 @@
 <polyline fill="none" stroke="#bfbfbf" points="268.5,-1485.5 297.5,-1485.5 "/>
 <text text-anchor="middle" x="283" y="-1473.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node19&#45;&gt;Node16 -->
+<!-- Node17&#45;&gt;Node14 -->
 <g id="edge13" class="edge">
-<title>Node19&#45;&gt;Node16</title>
+<title>Node17&#45;&gt;Node14</title>
 <path fill="none" stroke="#404040" d="M268.2715,-1488.7141C236.6837,-1474.7583 161.0737,-1438.7739 109,-1393 82.826,-1369.9925 72.2727,-1363.9749 61,-1331 -1.1078,-1149.3228 -8.4002,-1078.0185 61,-899 93.032,-816.3733 163.6466,-743.6011 220.8747,-694.7359"/>
 <polygon fill="none" stroke="#404040" points="221.12,-694.5294 223.1329,-687.6049 230.2989,-686.7997 228.286,-693.7242 221.12,-694.5294"/>
 <text text-anchor="middle" x="102" y="-1134.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #sitemin</text>
@@ -262,16 +262,16 @@
 <text text-anchor="middle" x="102" y="-1101.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#ratealloc</text>
 <text text-anchor="middle" x="102" y="-1090.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#sitemax</text>
 </g>
-<!-- Node19&#45;&gt;Node17 -->
+<!-- Node17&#45;&gt;Node15 -->
 <g id="edge5" class="edge">
-<title>Node19&#45;&gt;Node17</title>
+<title>Node17&#45;&gt;Node15</title>
 <path fill="none" stroke="#404040" d="M268.4303,-1476.3851C254.1632,-1456.8763 233.3845,-1424.7075 225,-1393 217.5524,-1364.8356 214.714,-1334.5429 214.7287,-1304.6805"/>
 <polygon fill="none" stroke="#404040" points="214.7327,-1304.3676 210.813,-1298.3148 214.8926,-1292.3686 218.8123,-1298.4214 214.7327,-1304.3676"/>
 <text text-anchor="middle" x="240" y="-1368.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #nsite</text>
 </g>
-<!-- Node19&#45;&gt;Node21 -->
+<!-- Node17&#45;&gt;Node19 -->
 <g id="edge10" class="edge">
-<title>Node19&#45;&gt;Node21</title>
+<title>Node17&#45;&gt;Node19</title>
 <path fill="none" stroke="#404040" d="M294.9152,-1466.4615C307.2057,-1437.029 326.9324,-1389.8018 344,-1349 346.3822,-1343.3051 348.7973,-1337.5325 351.2345,-1331.7076"/>
 <polygon fill="none" stroke="#404040" points="351.3138,-1331.5181 349.9399,-1324.439 355.9461,-1320.4482 357.3199,-1327.5272 351.3138,-1331.5181"/>
 <text text-anchor="middle" x="373" y="-1385" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #dim</text>
@@ -279,9 +279,9 @@
 <text text-anchor="middle" x="373" y="-1363" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#totstatcount</text>
 <text text-anchor="middle" x="373" y="-1352" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#nsite</text>
 </g>
-<!-- Node24 -->
+<!-- Node22 -->
 <g id="node11" class="node">
-<title>Node24</title>
+<title>Node22</title>
 <g id="a_node11"><a xlink:href="classGTRProfileProcess.html" target="_top" xlink:title="{GTRProfileProcess\n||+ GTRProfileProcess()\l+ ~GTRProfileProcess()\l+ GetNrr()\l+ GetRR()\l+ GetRRMean()\l+ SetRR()\l+ GetRRVarCoeff()\l+ GetRREntropy()\l+ rrindex()\l# Create()\l# Delete()\l# LogRRPrior()\l# SampleRR()\l# UpdateRRSuffStat()\l# GlobalUpdateRRSuffStat()\l# SlaveUpdateRRSuffStat()\l# MoveRR()\l}">
 <polygon fill="none" stroke="#000000" points="520.5,-128.5 520.5,-361.5 661.5,-361.5 661.5,-128.5 520.5,-128.5"/>
 <text text-anchor="middle" x="591" y="-349.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">GTRProfileProcess</text>
@@ -308,16 +308,16 @@
 </a>
 </g>
 </g>
-<!-- Node19&#45;&gt;Node24 -->
+<!-- Node17&#45;&gt;Node22 -->
 <g id="edge20" class="edge">
-<title>Node19&#45;&gt;Node24</title>
+<title>Node17&#45;&gt;Node22</title>
 <path fill="none" stroke="#404040" d="M297.7449,-1483.2574C320.6976,-1464.7822 366.0667,-1427.4725 402,-1393 421.2887,-1374.4955 419.6062,-1361.9305 443,-1349 480.2284,-1328.4227 509.0916,-1363.1014 537,-1331 598.4476,-1260.3205 597.0775,-646.6146 593.3561,-374.2583"/>
 <polygon fill="none" stroke="#404040" points="593.3518,-373.9444 589.2679,-368.0013 593.1831,-361.9456 597.2671,-367.8888 593.3518,-373.9444"/>
 <text text-anchor="middle" x="603" y="-873" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #Nrr</text>
 </g>
-<!-- Node20 -->
+<!-- Node18 -->
 <g id="node7" class="node">
-<title>Node20</title>
+<title>Node18</title>
 <polygon fill="none" stroke="#bfbfbf" points="431.5,-1466.5 431.5,-1523.5 466.5,-1523.5 466.5,-1466.5 431.5,-1466.5"/>
 <text text-anchor="middle" x="449" y="-1511.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">bool</text>
 <polyline fill="none" stroke="#bfbfbf" points="431.5,-1504.5 466.5,-1504.5 "/>
@@ -325,37 +325,37 @@
 <polyline fill="none" stroke="#bfbfbf" points="431.5,-1485.5 466.5,-1485.5 "/>
 <text text-anchor="middle" x="449" y="-1473.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node20&#45;&gt;Node17 -->
+<!-- Node18&#45;&gt;Node15 -->
 <g id="edge6" class="edge">
-<title>Node20&#45;&gt;Node17</title>
+<title>Node18&#45;&gt;Node15</title>
 <path fill="none" stroke="#404040" d="M431.2986,-1484.8079C389.1012,-1460.4376 285.7346,-1400.2746 281,-1393 263.7573,-1366.5067 252.9468,-1335.5613 246.4145,-1304.1285"/>
 <polygon fill="none" stroke="#404040" points="246.3622,-1303.8538 241.3097,-1298.7086 244.1159,-1292.0659 249.1683,-1297.2111 246.3622,-1303.8538"/>
 <text text-anchor="middle" x="302.5" y="-1368.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #sumflag</text>
 </g>
-<!-- Node20&#45;&gt;Node21 -->
+<!-- Node18&#45;&gt;Node19 -->
 <g id="edge11" class="edge">
-<title>Node20&#45;&gt;Node21</title>
+<title>Node18&#45;&gt;Node19</title>
 <path fill="none" stroke="#404040" d="M448.4739,-1466.4382C447.9554,-1438.2941 447.1106,-1392.4325 446.1999,-1342.9927"/>
 <polygon fill="none" stroke="#404040" points="446.1945,-1342.6963 442.0846,-1336.771 445.9734,-1330.6983 450.0833,-1336.6236 446.1945,-1342.6963"/>
 <text text-anchor="middle" x="481" y="-1374" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #activesuffstat</text>
 <text text-anchor="middle" x="481" y="-1363" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#burnin</text>
 </g>
-<!-- Node20&#45;&gt;Node24 -->
+<!-- Node18&#45;&gt;Node22 -->
 <g id="edge21" class="edge">
-<title>Node20&#45;&gt;Node24</title>
+<title>Node18&#45;&gt;Node22</title>
 <path fill="none" stroke="#404040" d="M466.7626,-1489.6655C500.945,-1478.3214 575.1318,-1448.2153 605,-1393 652.3797,-1305.4124 617.2558,-654.9978 599.5657,-373.8515"/>
 <polygon fill="none" stroke="#404040" points="599.5459,-373.5368 595.1752,-367.8012 598.7886,-361.5607 603.1593,-367.2963 599.5459,-373.5368"/>
 <text text-anchor="middle" x="637.5" y="-873" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #fixrr</text>
 </g>
-<!-- Node21&#45;&gt;Node16 -->
+<!-- Node19&#45;&gt;Node14 -->
 <g id="edge7" class="edge">
-<title>Node21&#45;&gt;Node16</title>
+<title>Node19&#45;&gt;Node14</title>
 <path fill="none" stroke="#191970" d="M378.7529,-889.6821C375.211,-877.0642 371.6519,-864.3848 368.1141,-851.7816"/>
 <polygon fill="none" stroke="#191970" points="375.3849,-890.6348 381.4573,-899.3168 382.1245,-888.743 375.3849,-890.6348"/>
 </g>
-<!-- Node23 -->
+<!-- Node21 -->
 <g id="node10" class="node">
-<title>Node23</title>
+<title>Node21</title>
 <g id="a_node10"><a xlink:href="classMatrixProfileProcess.html" target="_top" xlink:title="{MatrixProfileProcess\n||+ MatrixProfileProcess()\l+ ~MatrixProfileProcess()\l+ GetMatrix()\l# CreateMatrices()\l# DeleteMatrices()\l# ProfileProposeMove()\l# UpdateMatrices()\l}">
 <polygon fill="none" stroke="#000000" points="400,-569 400,-692 528,-692 528,-569 400,-569"/>
 <text text-anchor="middle" x="464" y="-680" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">MatrixProfileProcess</text>
@@ -372,15 +372,15 @@
 </a>
 </g>
 </g>
-<!-- Node21&#45;&gt;Node23 -->
+<!-- Node19&#45;&gt;Node21 -->
 <g id="edge15" class="edge">
-<title>Node21&#45;&gt;Node23</title>
+<title>Node19&#45;&gt;Node21</title>
 <path fill="none" stroke="#191970" d="M452.2566,-889.1224C455.5422,-816.7642 458.9167,-742.4491 461.2003,-692.1576"/>
 <polygon fill="none" stroke="#191970" points="448.751,-889.1683 451.7937,-899.3168 455.7438,-889.4859 448.751,-889.1683"/>
 </g>
-<!-- Node22 -->
+<!-- Node20 -->
 <g id="node9" class="node">
-<title>Node22</title>
+<title>Node20</title>
 <polygon fill="none" stroke="#bfbfbf" points="642.5,-1466.5 642.5,-1523.5 687.5,-1523.5 687.5,-1466.5 642.5,-1466.5"/>
 <text text-anchor="middle" x="665" y="-1511.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">double</text>
 <polyline fill="none" stroke="#bfbfbf" points="642.5,-1504.5 687.5,-1504.5 "/>
@@ -388,9 +388,9 @@
 <polyline fill="none" stroke="#bfbfbf" points="642.5,-1485.5 687.5,-1485.5 "/>
 <text text-anchor="middle" x="665" y="-1473.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node22&#45;&gt;Node16 -->
+<!-- Node20&#45;&gt;Node14 -->
 <g id="edge12" class="edge">
-<title>Node22&#45;&gt;Node16</title>
+<title>Node20&#45;&gt;Node14</title>
 <path fill="none" stroke="#404040" d="M665.5645,-1466.3139C667.1091,-1354.8867 666.4521,-952.8741 579,-870 548.5369,-841.1316 424.4128,-877.3962 391,-852 390.8975,-851.9221 390.7952,-851.8441 390.6929,-851.7659"/>
 <polygon fill="none" stroke="#404040" points="390.7418,-851.8068 383.5731,-851.0256 381.537,-844.1079 388.7057,-844.8891 390.7418,-851.8068"/>
 <text text-anchor="middle" x="697" y="-1129" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #condsitelogL</text>
@@ -398,41 +398,41 @@
 <text text-anchor="middle" x="697" y="-1107" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#sitelogL</text>
 <text text-anchor="middle" x="697" y="-1096" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#logL</text>
 </g>
-<!-- Node22&#45;&gt;Node21 -->
+<!-- Node20&#45;&gt;Node19 -->
 <g id="edge9" class="edge">
-<title>Node22&#45;&gt;Node21</title>
+<title>Node20&#45;&gt;Node19</title>
 <path fill="none" stroke="#404040" d="M642.4847,-1468.221C626.137,-1448.1676 603.9971,-1419.7053 587,-1393 568.6982,-1364.2449 550.6745,-1332.9244 533.8878,-1302.0139"/>
 <polygon fill="none" stroke="#404040" points="533.6994,-1301.6644 527.3307,-1298.2821 528.0033,-1291.1025 534.372,-1294.4848 533.6994,-1301.6644"/>
 <text text-anchor="middle" x="619" y="-1368.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #mintotweight</text>
 </g>
-<!-- Node22&#45;&gt;Node24 -->
+<!-- Node20&#45;&gt;Node22 -->
 <g id="edge19" class="edge">
-<title>Node22&#45;&gt;Node24</title>
+<title>Node20&#45;&gt;Node22</title>
 <path fill="none" stroke="#404040" d="M680.9039,-1466.472C697.6913,-1434.5894 723.0693,-1380.8785 733,-1331 815.9263,-914.4922 750.3029,-790.1083 640,-380 639.4182,-377.8368 638.8168,-375.6591 638.1981,-373.4706"/>
 <polygon fill="none" stroke="#404040" points="638.1182,-373.1986 632.5887,-368.5699 634.7347,-361.6855 640.2641,-366.3142 638.1182,-373.1986"/>
 <text text-anchor="middle" x="770.5" y="-873" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #rr</text>
 </g>
-<!-- Node23&#45;&gt;Node15 -->
+<!-- Node21&#45;&gt;Node13 -->
 <g id="edge14" class="edge">
-<title>Node23&#45;&gt;Node15</title>
+<title>Node21&#45;&gt;Node13</title>
 <path fill="none" stroke="#191970" d="M443.1481,-559.3635C423.5307,-492.4387 394.2203,-392.4461 373.9471,-323.2843"/>
 <polygon fill="none" stroke="#191970" points="439.7982,-560.3784 445.9699,-568.9901 446.5156,-558.4093 439.7982,-560.3784"/>
 </g>
-<!-- Node23&#45;&gt;Node24 -->
+<!-- Node21&#45;&gt;Node22 -->
 <g id="edge17" class="edge">
-<title>Node23&#45;&gt;Node24</title>
+<title>Node21&#45;&gt;Node22</title>
 <path fill="none" stroke="#191970" d="M485.2443,-559.1899C500.4574,-508.9098 521.7506,-440.0929 542,-380 544.0303,-373.9748 546.1423,-367.8105 548.2996,-361.5945"/>
 <polygon fill="none" stroke="#191970" points="481.825,-558.4059 482.2848,-568.9907 488.5262,-560.4294 481.825,-558.4059"/>
 </g>
-<!-- Node24&#45;&gt;Node14 -->
+<!-- Node22&#45;&gt;Node12 -->
 <g id="edge16" class="edge">
-<title>Node24&#45;&gt;Node14</title>
+<title>Node22&#45;&gt;Node12</title>
 <path fill="none" stroke="#191970" d="M512.4272,-179.6864C477.3373,-150.5179 436.8603,-116.8714 405.2161,-90.5671"/>
 <polygon fill="none" stroke="#191970" points="510.3627,-182.5216 520.2902,-186.2224 514.8374,-177.1385 510.3627,-182.5216"/>
 </g>
-<!-- Node25 -->
+<!-- Node23 -->
 <g id="node12" class="node">
-<title>Node25</title>
+<title>Node23</title>
 <polygon fill="none" stroke="#bfbfbf" points="785.5,-602 785.5,-659 826.5,-659 826.5,-602 785.5,-602"/>
 <text text-anchor="middle" x="806" y="-647" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">string</text>
 <polyline fill="none" stroke="#bfbfbf" points="785.5,-640 826.5,-640 "/>
@@ -440,9 +440,9 @@
 <polyline fill="none" stroke="#bfbfbf" points="785.5,-621 826.5,-621 "/>
 <text text-anchor="middle" x="806" y="-609" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node25&#45;&gt;Node24 -->
+<!-- Node23&#45;&gt;Node22 -->
 <g id="edge18" class="edge">
-<title>Node25&#45;&gt;Node24</title>
+<title>Node23&#45;&gt;Node22</title>
 <path fill="none" stroke="#404040" d="M808.7834,-601.9161C812.1626,-552.8686 812.9518,-451.1007 771,-380 747.8743,-340.8061 708.5193,-309.3268 672.4954,-286.6575"/>
 <polygon fill="none" stroke="#404040" points="672.1803,-286.4648 664.9747,-286.746 661.9436,-280.2029 669.1493,-279.9216 672.1803,-286.4648"/>
 <text text-anchor="middle" x="792" y="-383" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #rrtype</text>

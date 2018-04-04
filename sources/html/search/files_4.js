@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['expoconjugategtrdpprofileprocess_2ecpp',['ExpoConjugateGTRDPProfileProcess.cpp',['../ExpoConjugateGTRDPProfileProcess_8cpp.html',1,'']]],
-  ['expoconjugategtrdpprofileprocess_2ed',['ExpoConjugateGTRDPProfileProcess.d',['../ExpoConjugateGTRDPProfileProcess_8d.html',1,'']]],
-  ['expoconjugategtrdpprofileprocess_2eh',['ExpoConjugateGTRDPProfileProcess.h',['../ExpoConjugateGTRDPProfileProcess_8h.html',1,'']]],
   ['expoconjugategtrmixtureprofileprocess_2ecpp',['ExpoConjugateGTRMixtureProfileProcess.cpp',['../ExpoConjugateGTRMixtureProfileProcess_8cpp.html',1,'']]],
   ['expoconjugategtrmixtureprofileprocess_2ed',['ExpoConjugateGTRMixtureProfileProcess.d',['../ExpoConjugateGTRMixtureProfileProcess_8d.html',1,'']]],
   ['expoconjugategtrmixtureprofileprocess_2eh',['ExpoConjugateGTRMixtureProfileProcess.h',['../ExpoConjugateGTRMixtureProfileProcess_8h.html',1,'']]],

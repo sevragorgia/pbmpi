@@ -1,13 +1,11 @@
 <map id="MatrixPhyloProcess.h" name="MatrixPhyloProcess.h">
-<area shape="rect" id="node2" href="$ExpoConjugateGTRPhyloProcess_8h.html" title="ExpoConjugateGTRPhyloProcess.h" alt="" coords="447,87,678,114"/>
-<area shape="rect" id="node10" href="$GeneralPathSuffStatMatrixPhyloProcess_8h.html" title="GeneralPathSuffStatMatrix\lPhyloProcess.h" alt="" coords="784,80,963,121"/>
-<area shape="rect" id="node12" href="$MatrixPhyloProcess_8cpp.html" title="MatrixPhyloProcess.cpp" alt="" coords="987,87,1151,114"/>
+<area shape="rect" id="node2" href="$ExpoConjugateGTRPhyloProcess_8h.html" title="ExpoConjugateGTRPhyloProcess.h" alt="" coords="299,87,530,114"/>
+<area shape="rect" id="node8" href="$GeneralPathSuffStatMatrixPhyloProcess_8h.html" title="GeneralPathSuffStatMatrix\lPhyloProcess.h" alt="" coords="567,80,745,121"/>
+<area shape="rect" id="node10" href="$MatrixPhyloProcess_8cpp.html" title="MatrixPhyloProcess.cpp" alt="" coords="770,87,934,114"/>
 <area shape="rect" id="node3" href="$ExpoConjugateGTRPhyloProcess_8cpp.html" title="ExpoConjugateGTRPhyloProcess.cpp" alt="" coords="5,177,251,203"/>
 <area shape="rect" id="node4" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="275,177,555,203"/>
-<area shape="rect" id="node8" href="$RASCATGTRDPGammaPhyloProcess_8h.html" title="RASCATGTRDPGammaPhyloProcess.h" alt="" coords="579,177,842,203"/>
-<area shape="rect" id="node5" href="$Model_8h.html" title="Model.h" alt="" coords="175,259,243,285"/>
-<area shape="rect" id="node7" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="267,259,562,285"/>
-<area shape="rect" id="node6" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="177,333,242,360"/>
-<area shape="rect" id="node9" href="$RASCATGTRDPGammaPhyloProcess_8cpp.html" title="RASCATGTRDPGammaPhyloProcess.cpp" alt="" coords="586,259,862,285"/>
-<area shape="rect" id="node11" href="$GeneralPathSuffStatMatrixPhyloProcess_8cpp.html" title="GeneralPathSuffStatMatrix\lPhyloProcess.cpp" alt="" coords="867,169,1045,211"/>
+<area shape="rect" id="node5" href="$Model_8h.html" title="Model.h" alt="" coords="278,259,346,285"/>
+<area shape="rect" id="node7" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="370,259,665,285"/>
+<area shape="rect" id="node6" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="279,333,345,360"/>
+<area shape="rect" id="node9" href="$GeneralPathSuffStatMatrixPhyloProcess_8cpp.html" title="GeneralPathSuffStatMatrix\lPhyloProcess.cpp" alt="" coords="579,169,757,211"/>
 </map>

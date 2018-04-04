@@ -1,11 +1,9 @@
 <map id="ExpoConjugateGTRSubstitutionProcess.h" name="ExpoConjugateGTRSubstitutionProcess.h">
-<area shape="rect" id="node2" href="$ExpoConjugateGTRPhyloProcess_8h.html" title="ExpoConjugateGTRPhyloProcess.h" alt="" coords="299,102,530,129"/>
-<area shape="rect" id="node10" href="$ExpoConjugateGTRSubstitutionProcess_8cpp.html" title="ExpoConjugateGTRSubstitution\lProcess.cpp" alt="" coords="555,95,763,136"/>
+<area shape="rect" id="node2" href="$ExpoConjugateGTRPhyloProcess_8h.html" title="ExpoConjugateGTRPhyloProcess.h" alt="" coords="155,102,386,129"/>
+<area shape="rect" id="node8" href="$ExpoConjugateGTRSubstitutionProcess_8cpp.html" title="ExpoConjugateGTRSubstitution\lProcess.cpp" alt="" coords="411,95,619,136"/>
 <area shape="rect" id="node3" href="$ExpoConjugateGTRPhyloProcess_8cpp.html" title="ExpoConjugateGTRPhyloProcess.cpp" alt="" coords="5,184,251,211"/>
 <area shape="rect" id="node4" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="275,184,555,211"/>
-<area shape="rect" id="node8" href="$RASCATGTRDPGammaPhyloProcess_8h.html" title="RASCATGTRDPGammaPhyloProcess.h" alt="" coords="586,184,849,211"/>
-<area shape="rect" id="node5" href="$Model_8h.html" title="Model.h" alt="" coords="175,259,243,285"/>
-<area shape="rect" id="node7" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="267,259,562,285"/>
-<area shape="rect" id="node6" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="177,333,242,360"/>
-<area shape="rect" id="node9" href="$RASCATGTRDPGammaPhyloProcess_8cpp.html" title="RASCATGTRDPGammaPhyloProcess.cpp" alt="" coords="586,259,862,285"/>
+<area shape="rect" id="node5" href="$Model_8h.html" title="Model.h" alt="" coords="278,259,346,285"/>
+<area shape="rect" id="node7" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="370,259,665,285"/>
+<area shape="rect" id="node6" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="279,333,345,360"/>
 </map>

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['label',['label',['../classNode.html#ab2c4f74231b19640104ac28fd17dae18',1,'Node::label()'],['../classPolyNode.html#ae9e17e341212eda7d02166a507315fab',1,'PolyNode::label()']]],
-  ['last',['last',['../classBranchSitePath.html#ac3a56a85fc8c7d2f0faaac6c720997d3',1,'BranchSitePath::last()'],['../classBranchSitePath.html#a3e2b40022e90591bfdb00d4f73d823b2',1,'BranchSitePath::Last()']]],
+  ['last',['Last',['../classBranchSitePath.html#a3e2b40022e90591bfdb00d4f73d823b2',1,'BranchSitePath::Last()'],['../classBranchSitePath.html#ac3a56a85fc8c7d2f0faaac6c720997d3',1,'BranchSitePath::last()']]],
   ['leavenhmove',['LeaveNHMove',['../phylo_8h.html#ab152e38addc9865a033ed991583c1395a5f3d3d8528f396e4b46dba0a492d9929',1,'phylo.h']]],
   ['leavepartialm',['LeavePartialM',['../phylo_8h.html#ab152e38addc9865a033ed991583c1395a67dac4c86e20784e9e1ccb5d41f97743',1,'phylo.h']]],
   ['left',['left',['../classNode.html#ab8c667ac8fdb120ed4c031682a9cdaee',1,'Node']]],

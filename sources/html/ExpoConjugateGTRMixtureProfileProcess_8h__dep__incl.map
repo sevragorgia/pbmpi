@@ -1,13 +1,9 @@
 <map id="ExpoConjugateGTRMixtureProfileProcess.h" name="ExpoConjugateGTRMixtureProfileProcess.h">
-<area shape="rect" id="node2" href="$ExpoConjugateGTRDPProfileProcess_8h.html" title="ExpoConjugateGTRDPProfile\lProcess.h" alt="" coords="207,95,401,136"/>
-<area shape="rect" id="node6" href="$ExpoConjugateGTRMixtureProfileProcess_8cpp.html" title="ExpoConjugateGTRMixtureProfile\lProcess.cpp" alt="" coords="425,95,644,136"/>
-<area shape="rect" id="node7" href="$ExpoConjugateGTRSBDPProfileProcess_8h.html" title="ExpoConjugateGTRSBDPProfile\lProcess.h" alt="" coords="668,95,881,136"/>
-<area shape="rect" id="node3" href="$ExpoConjugateGTRDPProfileProcess_8cpp.html" title="ExpoConjugateGTRDPProfile\lProcess.cpp" alt="" coords="5,184,200,225"/>
-<area shape="rect" id="node4" href="$RASCATGTRDPGammaPhyloProcess_8h.html" title="RASCATGTRDPGammaPhyloProcess.h" alt="" coords="225,191,487,218"/>
-<area shape="rect" id="node5" href="$RASCATGTRDPGammaPhyloProcess_8cpp.html" title="RASCATGTRDPGammaPhyloProcess.cpp" alt="" coords="218,273,494,300"/>
-<area shape="rect" id="node8" href="$ExpoConjugateGTRSBDPProfileProcess_8cpp.html" title="ExpoConjugateGTRSBDPProfile\lProcess.cpp" alt="" coords="616,184,829,225"/>
-<area shape="rect" id="node9" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="853,191,1133,218"/>
-<area shape="rect" id="node10" href="$Model_8h.html" title="Model.h" alt="" coords="857,273,925,300"/>
-<area shape="rect" id="node12" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="949,273,1243,300"/>
-<area shape="rect" id="node11" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="858,348,923,375"/>
+<area shape="rect" id="node2" href="$ExpoConjugateGTRMixtureProfileProcess_8cpp.html" title="ExpoConjugateGTRMixtureProfile\lProcess.cpp" alt="" coords="5,95,224,136"/>
+<area shape="rect" id="node3" href="$ExpoConjugateGTRSBDPProfileProcess_8h.html" title="ExpoConjugateGTRSBDPProfile\lProcess.h" alt="" coords="248,95,461,136"/>
+<area shape="rect" id="node4" href="$ExpoConjugateGTRSBDPProfileProcess_8cpp.html" title="ExpoConjugateGTRSBDPProfile\lProcess.cpp" alt="" coords="112,184,325,225"/>
+<area shape="rect" id="node5" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="349,191,629,218"/>
+<area shape="rect" id="node6" href="$Model_8h.html" title="Model.h" alt="" coords="353,273,421,300"/>
+<area shape="rect" id="node8" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="445,273,739,300"/>
+<area shape="rect" id="node7" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="354,348,419,375"/>
 </map>

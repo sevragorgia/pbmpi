@@ -8,9 +8,9 @@
  viewBox="0.00 0.00 373.00 688.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 684)">
 <title>ProfileProcess</title>
-<!-- Node30 -->
+<!-- Node26 -->
 <g id="node1" class="node">
-<title>Node30</title>
+<title>Node26</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="108,-.5 108,-431.5 280,-431.5 280,-.5 108,-.5"/>
 <text text-anchor="middle" x="194" y="-419.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ProfileProcess</text>
 <polyline fill="none" stroke="#000000" points="108,-412.5 280,-412.5 "/>
@@ -52,9 +52,9 @@
 <text text-anchor="start" x="116" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># GetMinTotWeight()</text>
 <text text-anchor="start" x="116" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># SetMinTotWeight()</text>
 </g>
-<!-- Node31 -->
+<!-- Node27 -->
 <g id="node2" class="node">
-<title>Node31</title>
+<title>Node27</title>
 <g id="a_node2"><a xlink:href="classChrono.html" target="_top" xlink:title="{Chrono\n||+ Chrono()\l+ ~Chrono()\l+ Reset()\l+ Start()\l+ Stop()\l+ ToStream()\l+ FromStream()\l+ operator++()\l+ GetTime()\l+ GetTimePerCount()\l+ GetCount()\l}">
 <polygon fill="none" stroke="#000000" points="0,-512.5 0,-679.5 110,-679.5 110,-512.5 0,-512.5"/>
 <text text-anchor="middle" x="55" y="-667.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Chrono</text>
@@ -75,18 +75,18 @@
 </a>
 </g>
 </g>
-<!-- Node31&#45;&gt;Node30 -->
+<!-- Node27&#45;&gt;Node26 -->
 <g id="edge1" class="edge">
-<title>Node31&#45;&gt;Node30</title>
+<title>Node27&#45;&gt;Node26</title>
 <path fill="none" stroke="#404040" d="M72.2985,-512.2491C77.3051,-491.6835 83.2652,-469.8724 90,-450 94.1515,-437.7503 98.7026,-425.2625 103.5089,-412.7491"/>
 <polygon fill="none" stroke="#404040" points="103.6308,-412.4362 102.0839,-405.393 107.9904,-401.2561 109.5373,-408.2993 103.6308,-412.4362"/>
 <text text-anchor="middle" x="117.5" y="-480.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #chronostat</text>
 <text text-anchor="middle" x="117.5" y="-469.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#chronorr</text>
 <text text-anchor="middle" x="117.5" y="-458.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#chronodp</text>
 </g>
-<!-- Node32 -->
+<!-- Node28 -->
 <g id="node3" class="node">
-<title>Node32</title>
+<title>Node28</title>
 <polygon fill="none" stroke="#bfbfbf" points="128.5,-567.5 128.5,-624.5 173.5,-624.5 173.5,-567.5 128.5,-567.5"/>
 <text text-anchor="middle" x="151" y="-612.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">double</text>
 <polyline fill="none" stroke="#bfbfbf" points="128.5,-605.5 173.5,-605.5 "/>
@@ -94,16 +94,16 @@
 <polyline fill="none" stroke="#bfbfbf" points="128.5,-586.5 173.5,-586.5 "/>
 <text text-anchor="middle" x="151" y="-574.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node32&#45;&gt;Node30 -->
+<!-- Node28&#45;&gt;Node26 -->
 <g id="edge2" class="edge">
-<title>Node32&#45;&gt;Node30</title>
+<title>Node28&#45;&gt;Node26</title>
 <path fill="none" stroke="#404040" d="M149.7583,-567.3933C148.8151,-537.9063 148.2417,-490.6366 152,-450 152.1927,-447.9162 152.3943,-445.8231 152.6043,-443.7219"/>
 <polygon fill="none" stroke="#404040" points="152.6235,-443.5405 149.2823,-437.1502 153.8959,-431.6081 157.2372,-437.9985 152.6235,-443.5405"/>
 <text text-anchor="middle" x="184" y="-469.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #mintotweight</text>
 </g>
-<!-- Node33 -->
+<!-- Node29 -->
 <g id="node4" class="node">
-<title>Node33</title>
+<title>Node29</title>
 <polygon fill="none" stroke="#bfbfbf" points="223.5,-567.5 223.5,-624.5 252.5,-624.5 252.5,-567.5 223.5,-567.5"/>
 <text text-anchor="middle" x="238" y="-612.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">int</text>
 <polyline fill="none" stroke="#bfbfbf" points="223.5,-605.5 252.5,-605.5 "/>
@@ -111,9 +111,9 @@
 <polyline fill="none" stroke="#bfbfbf" points="223.5,-586.5 252.5,-586.5 "/>
 <text text-anchor="middle" x="238" y="-574.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node33&#45;&gt;Node30 -->
+<!-- Node29&#45;&gt;Node26 -->
 <g id="edge3" class="edge">
-<title>Node33&#45;&gt;Node30</title>
+<title>Node29&#45;&gt;Node26</title>
 <path fill="none" stroke="#404040" d="M234.6928,-567.4382C231.4272,-539.2346 226.1013,-493.2385 220.3628,-443.6791"/>
 <polygon fill="none" stroke="#404040" points="220.3559,-443.6187 215.6923,-438.1186 218.9756,-431.6983 223.6392,-437.1984 220.3559,-443.6187"/>
 <text text-anchor="middle" x="253" y="-486" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #dim</text>
@@ -121,9 +121,9 @@
 <text text-anchor="middle" x="253" y="-464" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#totstatcount</text>
 <text text-anchor="middle" x="253" y="-453" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#nsite</text>
 </g>
-<!-- Node34 -->
+<!-- Node30 -->
 <g id="node5" class="node">
-<title>Node34</title>
+<title>Node30</title>
 <polygon fill="none" stroke="#bfbfbf" points="301.5,-567.5 301.5,-624.5 336.5,-624.5 336.5,-567.5 301.5,-567.5"/>
 <text text-anchor="middle" x="319" y="-612.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">bool</text>
 <polyline fill="none" stroke="#bfbfbf" points="301.5,-605.5 336.5,-605.5 "/>
@@ -131,9 +131,9 @@
 <polyline fill="none" stroke="#bfbfbf" points="301.5,-586.5 336.5,-586.5 "/>
 <text text-anchor="middle" x="319" y="-574.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node34&#45;&gt;Node30 -->
+<!-- Node30&#45;&gt;Node26 -->
 <g id="edge4" class="edge">
-<title>Node34&#45;&gt;Node30</title>
+<title>Node30&#45;&gt;Node26</title>
 <path fill="none" stroke="#404040" d="M313.8742,-567.4019C308.244,-537.7204 298.3402,-490.1132 286,-450 285.2901,-447.6922 284.5678,-445.3749 283.8342,-443.0496"/>
 <polygon fill="none" stroke="#404040" points="283.7497,-442.7866 278.1045,-438.2997 280.075,-431.3631 285.7202,-435.85 283.7497,-442.7866"/>
 <text text-anchor="middle" x="331" y="-475" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #activesuffstat</text>

@@ -1,15 +1,13 @@
 var searchData=
 [
   ['naa',['Naa',['../BiologicalSequences_8h.html#a520df154b01b86b680099fd7fb9bab85',1,'BiologicalSequences.h']]],
-  ['nadd',['Nadd',['../classMatrixDPProfileProcess.html#ad83eab0bc327cbd3e75bca62f212f229',1,'MatrixDPProfileProcess']]],
   ['nalphabetset',['NAlphabetSet',['../classSimpleStateSpace.html#adc1f643e91ba6f95173775a1626fb8ff',1,'SimpleStateSpace']]],
-  ['name',['Name',['../classPBTree.html#a5584675e7fd44e4c83db900f9e312b4d',1,'PBTree::Name()'],['../classModel.html#a2d9aef6a80a205a03e4e99b5483af9a0',1,'Model::name()'],['../classPolyNode.html#a78fc357063d4bc98021fc49fc87ec428',1,'PolyNode::name()']]],
+  ['name',['name',['../classModel.html#a2d9aef6a80a205a03e4e99b5483af9a0',1,'Model::name()'],['../classPolyNode.html#a78fc357063d4bc98021fc49fc87ec428',1,'PolyNode::name()'],['../classPBTree.html#a5584675e7fd44e4c83db900f9e312b4d',1,'PBTree::Name()']]],
   ['nbranch',['Nbranch',['../classTree.html#a2c33ede12d6814d18eaa699126469683',1,'Tree']]],
   ['ncat',['Ncat',['../classDGamRateProcess.html#a81e6feb10ce3e1c954cde106be402503',1,'DGamRateProcess']]],
   ['ncodon',['Ncodon',['../BiologicalSequences_8h.html#a8fb320e96d5efd7e581894bde8667aeb',1,'Ncodon():&#160;BiologicalSequences.h'],['../phylo_8h.html#a8fb320e96d5efd7e581894bde8667aeb',1,'Ncodon():&#160;phylo.h']]],
   ['ncomponent',['Ncomponent',['../classMixtureProfileProcess.html#ac4bf3bf84bee21ac819f498f13be1143',1,'MixtureProfileProcess']]],
   ['next',['next',['../classAmphiNode.html#aaab8406d8b7b9f7b9146b24431a20b9d',1,'AmphiNode::next()'],['../classPolyNode.html#af443fe4369f908ad7b6fdeb950e54785',1,'PolyNode::next()']]],
-  ['ninc',['Ninc',['../classMatrixDPProfileProcess.html#a806573b80eab9f6c4b0f0021b06e3435',1,'MatrixDPProfileProcess']]],
   ['nlink',['Nlink',['../classTree.html#aeb6bec38b5e5298ba34befa3efeb33a8',1,'Tree']]],
   ['nmodemax',['nmodemax',['../classSBDPProfileProcess.html#a207bd2a2c4a2c84e336276bfa0d63b72',1,'SBDPProfileProcess']]],
   ['nnni',['NNNI',['../classRASCATGTRSBDPGammaPhyloProcess.html#ad87e22dee30716677c2aada3abd97772',1,'RASCATGTRSBDPGammaPhyloProcess']]],

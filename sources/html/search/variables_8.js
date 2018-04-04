@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['incchrono',['incchrono',['../classExpoConjugateGTRDPProfileProcess.html#a60330df538682c84223c54f9da9fa515',1,'ExpoConjugateGTRDPProfileProcess::incchrono()'],['../classExpoConjugateGTRSBDPProfileProcess.html#a9acebe3463a8021c0ea1c5ea2f2fa669',1,'ExpoConjugateGTRSBDPProfileProcess::incchrono()']]],
+  ['incchrono',['incchrono',['../classExpoConjugateGTRSBDPProfileProcess.html#a9acebe3463a8021c0ea1c5ea2f2fa669',1,'ExpoConjugateGTRSBDPProfileProcess']]],
   ['incinit',['incinit',['../classModel.html#a0e1407d7c6844fe420c84f07fc28154e',1,'Model']]],
   ['infprobcount',['infprobcount',['../classSubstitutionProcess.html#ac5f540e3f6c63f1dd7e62a51464f55f3',1,'SubstitutionProcess']]],
   ['init',['init',['../classBranchSitePath.html#a523387799d4495eafc484eac3b7a2109',1,'BranchSitePath']]],

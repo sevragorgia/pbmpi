@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['matrixdpprofileprocess_2ecpp',['MatrixDPProfileProcess.cpp',['../MatrixDPProfileProcess_8cpp.html',1,'']]],
-  ['matrixdpprofileprocess_2ed',['MatrixDPProfileProcess.d',['../MatrixDPProfileProcess_8d.html',1,'']]],
-  ['matrixdpprofileprocess_2eh',['MatrixDPProfileProcess.h',['../MatrixDPProfileProcess_8h.html',1,'']]],
   ['matrixmixtureprofileprocess_2ecpp',['MatrixMixtureProfileProcess.cpp',['../MatrixMixtureProfileProcess_8cpp.html',1,'']]],
   ['matrixmixtureprofileprocess_2ed',['MatrixMixtureProfileProcess.d',['../MatrixMixtureProfileProcess_8d.html',1,'']]],
   ['matrixmixtureprofileprocess_2eh',['MatrixMixtureProfileProcess.h',['../MatrixMixtureProfileProcess_8h.html',1,'']]],

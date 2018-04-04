@@ -4,7 +4,7 @@ LDFLAGS= -O3
 SRCS=  TaxonSet.cpp Tree.cpp Random.cpp SequenceAlignment.cpp \
 	StateSpace.cpp ZippedSequenceAlignment.cpp SubMatrix.cpp \
 	GTRSubMatrix.cpp linalg.cpp Chrono.cpp BranchProcess.cpp \
-	GammaBranchProcess.cpp RateProcess.cpp DGamRateProcess.cpp ProfileProcess.cpp \
+	GammaBranchProcess.cpp RateProcess.cpp ProfileProcess.cpp \
 	ExpoConjugateGTRSBDPProfileProcess.cpp ExpoConjugateGTRPhyloProcess.cpp ExpoConjugateGTRSubstitutionProcess.cpp ExpoConjugateGTRMixtureProfileProcess.cpp \
 	MixtureProfileProcess.cpp MatrixMixtureProfileProcess.cpp GTRMixtureProfileProcess.cpp MatrixSBDPProfileProcess.cpp MatrixProfileProcess.cpp SBDPProfileProcess.cpp \
 	SubstitutionProcess.cpp Propagate.cpp \
@@ -15,11 +15,11 @@ SRCS=  TaxonSet.cpp Tree.cpp Random.cpp SequenceAlignment.cpp \
 	RASCATGTRSBDPGammaPhyloProcess.cpp \
 	Bipartition.cpp BipartitionList.cpp Consensus.cpp TaxaParameters.cpp PBTree.cpp TreeList.cpp PolyNode.cpp correl.cpp correlation.cpp \
 	NNI.cpp \
-	DPProfileProcess.cpp GTRProfileProcess.cpp ExpoConjugateGTRProfileProcess.cpp 
+	DPProfileProcess.cpp GTRProfileProcess.cpp ExpoConjugateGTRProfileProcess.cpp DGamRateProcess.cpp 
 
 
 
-#FiniteProfileProcess.cpp PoissonSubstitutionProcess.cpp\
+#FiniteProfileProcess.cpp PoissonSubstitutionProcess.cpp \
 #MatrixDPProfileProcess.cpp MatrixFiniteProfileProcess.cpp \
 #CodonSequenceAlignment.cpp CodonStateSpace.cpp 
 #sure

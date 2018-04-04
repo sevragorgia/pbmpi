@@ -615,79 +615,46 @@
 <!-- Node13 -->
 <g id="node14" class="node">
 <title>Node13</title>
-<g id="a_node14"><a xlink:href="classRASCATGTRDPGammaPhyloProcess.html" target="_top" xlink:title="{RASCATGTRDPGammaPhyloProcess\n|# fixtopo\l# dc\l|+ SlaveExecute()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ RASCATGTRDPGammaPhyloProcess()\l+ RASCATGTRDPGammaPhyloProcess()\l+ ~RASCATGTRDPGammaPhyloProcess()\l+ TraceHeader()\l+ Trace()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l# Create()\l# Delete()\l}">
-<polygon fill="none" stroke="#000000" points="92.7686,-61 92.7686,-272 301.7686,-272 301.7686,-61 92.7686,-61"/>
-<text text-anchor="middle" x="197.2686" y="-260" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">RASCATGTRDPGammaPhyloProcess</text>
-<polyline fill="none" stroke="#000000" points="92.7686,-253 301.7686,-253 "/>
-<text text-anchor="start" x="100.7686" y="-241" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># fixtopo</text>
-<text text-anchor="start" x="100.7686" y="-230" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># dc</text>
-<polyline fill="none" stroke="#000000" points="92.7686,-223 301.7686,-223 "/>
-<text text-anchor="start" x="100.7686" y="-211" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveExecute()</text>
-<text text-anchor="start" x="100.7686" y="-200" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ GlobalUpdateParameters()</text>
-<text text-anchor="start" x="100.7686" y="-189" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveUpdateParameters()</text>
-<text text-anchor="start" x="100.7686" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ RASCATGTRDPGammaPhyloProcess()</text>
-<text text-anchor="start" x="100.7686" y="-167" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ RASCATGTRDPGammaPhyloProcess()</text>
-<text text-anchor="start" x="100.7686" y="-156" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ~RASCATGTRDPGammaPhyloProcess()</text>
-<text text-anchor="start" x="100.7686" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ TraceHeader()</text>
-<text text-anchor="start" x="100.7686" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ Trace()</text>
-<text text-anchor="start" x="100.7686" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ Move()</text>
-<text text-anchor="start" x="100.7686" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ToStreamHeader()</text>
-<text text-anchor="start" x="100.7686" y="-101" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ToStream()</text>
-<text text-anchor="start" x="100.7686" y="-90" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ FromStream()</text>
-<text text-anchor="start" x="100.7686" y="-79" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># Create()</text>
-<text text-anchor="start" x="100.7686" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># Delete()</text>
+<g id="a_node14"><a xlink:href="classRASCATGTRSBDPGammaPhyloProcess.html" target="_top" xlink:title="{RASCATGTRSBDPGammaPhyloProcess\n|# fixtopo\l# NSPR\l# NNNI\l# iscodon\l# codetype\l# dc\l|+ SlaveExecute()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ RASCATGTRSBDPGammaPhyloProcess()\l+ RASCATGTRSBDPGammaPhyloProcess()\l+ ~RASCATGTRSBDPGammaPhylo\lProcess()\l+ TraceHeader()\l+ Trace()\l+ Monitor()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ ReadPB()\l+ ReadRelRates()\l+ ReadSiteProfiles()\l+ SlaveComputeCVScore()\l+ SlaveComputeSiteLogL()\l# Create()\l# Delete()\l}">
+<polygon fill="none" stroke="#000000" points="203.7686,-.5 203.7686,-332.5 420.7686,-332.5 420.7686,-.5 203.7686,-.5"/>
+<text text-anchor="middle" x="312.2686" y="-320.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">RASCATGTRSBDPGammaPhyloProcess</text>
+<polyline fill="none" stroke="#000000" points="203.7686,-313.5 420.7686,-313.5 "/>
+<text text-anchor="start" x="211.7686" y="-301.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># fixtopo</text>
+<text text-anchor="start" x="211.7686" y="-290.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># NSPR</text>
+<text text-anchor="start" x="211.7686" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># NNNI</text>
+<text text-anchor="start" x="211.7686" y="-268.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># iscodon</text>
+<text text-anchor="start" x="211.7686" y="-257.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># codetype</text>
+<text text-anchor="start" x="211.7686" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># dc</text>
+<polyline fill="none" stroke="#000000" points="203.7686,-239.5 420.7686,-239.5 "/>
+<text text-anchor="start" x="211.7686" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveExecute()</text>
+<text text-anchor="start" x="211.7686" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ GlobalUpdateParameters()</text>
+<text text-anchor="start" x="211.7686" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveUpdateParameters()</text>
+<text text-anchor="start" x="211.7686" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ RASCATGTRSBDPGammaPhyloProcess()</text>
+<text text-anchor="start" x="211.7686" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ RASCATGTRSBDPGammaPhyloProcess()</text>
+<text text-anchor="start" x="211.7686" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ~RASCATGTRSBDPGammaPhylo</text>
+<text text-anchor="start" x="211.7686" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Process()</text>
+<text text-anchor="start" x="211.7686" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ TraceHeader()</text>
+<text text-anchor="start" x="211.7686" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ Trace()</text>
+<text text-anchor="start" x="211.7686" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ Monitor()</text>
+<text text-anchor="start" x="211.7686" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ Move()</text>
+<text text-anchor="start" x="211.7686" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ToStreamHeader()</text>
+<text text-anchor="start" x="211.7686" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ToStream()</text>
+<text text-anchor="start" x="211.7686" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ FromStream()</text>
+<text text-anchor="start" x="211.7686" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ReadPB()</text>
+<text text-anchor="start" x="211.7686" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ReadRelRates()</text>
+<text text-anchor="start" x="211.7686" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ReadSiteProfiles()</text>
+<text text-anchor="start" x="211.7686" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveComputeCVScore()</text>
+<text text-anchor="start" x="211.7686" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveComputeSiteLogL()</text>
+<text text-anchor="start" x="211.7686" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># Create()</text>
+<text text-anchor="start" x="211.7686" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># Delete()</text>
 </a>
 </g>
 </g>
 <!-- Node12&#45;&gt;Node13 -->
 <g id="edge18" class="edge">
 <title>Node12&#45;&gt;Node13</title>
-<path fill="none" stroke="#191970" d="M259.3213,-359.6727C249.7758,-329.957 240.0619,-299.7172 231.2407,-272.2565"/>
-<polygon fill="none" stroke="#191970" points="256.0225,-360.8476 262.4133,-369.298 262.6871,-358.7067 256.0225,-360.8476"/>
-</g>
-<!-- Node14 -->
-<g id="node15" class="node">
-<title>Node14</title>
-<g id="a_node15"><a xlink:href="classRASCATGTRSBDPGammaPhyloProcess.html" target="_top" xlink:title="{RASCATGTRSBDPGammaPhyloProcess\n|# fixtopo\l# NSPR\l# NNNI\l# iscodon\l# codetype\l# dc\l|+ SlaveExecute()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ RASCATGTRSBDPGammaPhyloProcess()\l+ RASCATGTRSBDPGammaPhyloProcess()\l+ ~RASCATGTRSBDPGammaPhylo\lProcess()\l+ TraceHeader()\l+ Trace()\l+ Monitor()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ ReadPB()\l+ ReadRelRates()\l+ ReadSiteProfiles()\l+ SlaveComputeCVScore()\l+ SlaveComputeSiteLogL()\l# Create()\l# Delete()\l}">
-<polygon fill="none" stroke="#000000" points="319.7686,-.5 319.7686,-332.5 536.7686,-332.5 536.7686,-.5 319.7686,-.5"/>
-<text text-anchor="middle" x="428.2686" y="-320.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">RASCATGTRSBDPGammaPhyloProcess</text>
-<polyline fill="none" stroke="#000000" points="319.7686,-313.5 536.7686,-313.5 "/>
-<text text-anchor="start" x="327.7686" y="-301.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># fixtopo</text>
-<text text-anchor="start" x="327.7686" y="-290.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># NSPR</text>
-<text text-anchor="start" x="327.7686" y="-279.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># NNNI</text>
-<text text-anchor="start" x="327.7686" y="-268.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># iscodon</text>
-<text text-anchor="start" x="327.7686" y="-257.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># codetype</text>
-<text text-anchor="start" x="327.7686" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># dc</text>
-<polyline fill="none" stroke="#000000" points="319.7686,-239.5 536.7686,-239.5 "/>
-<text text-anchor="start" x="327.7686" y="-227.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveExecute()</text>
-<text text-anchor="start" x="327.7686" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ GlobalUpdateParameters()</text>
-<text text-anchor="start" x="327.7686" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveUpdateParameters()</text>
-<text text-anchor="start" x="327.7686" y="-194.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ RASCATGTRSBDPGammaPhyloProcess()</text>
-<text text-anchor="start" x="327.7686" y="-183.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ RASCATGTRSBDPGammaPhyloProcess()</text>
-<text text-anchor="start" x="327.7686" y="-172.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ~RASCATGTRSBDPGammaPhylo</text>
-<text text-anchor="start" x="327.7686" y="-161.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Process()</text>
-<text text-anchor="start" x="327.7686" y="-150.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ TraceHeader()</text>
-<text text-anchor="start" x="327.7686" y="-139.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ Trace()</text>
-<text text-anchor="start" x="327.7686" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ Monitor()</text>
-<text text-anchor="start" x="327.7686" y="-117.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ Move()</text>
-<text text-anchor="start" x="327.7686" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ToStreamHeader()</text>
-<text text-anchor="start" x="327.7686" y="-95.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ToStream()</text>
-<text text-anchor="start" x="327.7686" y="-84.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ FromStream()</text>
-<text text-anchor="start" x="327.7686" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ReadPB()</text>
-<text text-anchor="start" x="327.7686" y="-62.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ReadRelRates()</text>
-<text text-anchor="start" x="327.7686" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ ReadSiteProfiles()</text>
-<text text-anchor="start" x="327.7686" y="-40.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveComputeCVScore()</text>
-<text text-anchor="start" x="327.7686" y="-29.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">+ SlaveComputeSiteLogL()</text>
-<text text-anchor="start" x="327.7686" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># Create()</text>
-<text text-anchor="start" x="327.7686" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># Delete()</text>
-</a>
-</g>
-</g>
-<!-- Node12&#45;&gt;Node14 -->
-<g id="edge19" class="edge">
-<title>Node12&#45;&gt;Node14</title>
-<path fill="none" stroke="#191970" d="M365.7113,-359.5648C368.6246,-350.5738 371.5533,-341.5351 374.4679,-332.5403"/>
-<polygon fill="none" stroke="#191970" points="362.3105,-358.7061 362.5575,-369.298 368.9696,-360.8638 362.3105,-358.7061"/>
+<path fill="none" stroke="#191970" d="M312.2686,-359.2778C312.2686,-350.3815 312.2686,-341.4394 312.2686,-332.5403"/>
+<polygon fill="none" stroke="#191970" points="308.7687,-359.298 312.2686,-369.298 315.7687,-359.2981 308.7687,-359.298"/>
 </g>
 </g>
 </svg>

@@ -8,9 +8,9 @@
  viewBox="0.00 0.00 373.00 849.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 845)">
 <title>MatrixProfileProcess</title>
-<!-- Node25 -->
+<!-- Node21 -->
 <g id="node1" class="node">
-<title>Node25</title>
+<title>Node21</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="130,-.5 130,-123.5 258,-123.5 258,-.5 130,-.5"/>
 <text text-anchor="middle" x="194" y="-111.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">MatrixProfileProcess</text>
 <polyline fill="none" stroke="#000000" points="130,-104.5 258,-104.5 "/>
@@ -24,9 +24,9 @@
 <text text-anchor="start" x="138" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># ProfileProposeMove()</text>
 <text text-anchor="start" x="138" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># UpdateMatrices()</text>
 </g>
-<!-- Node26 -->
+<!-- Node22 -->
 <g id="node2" class="node">
-<title>Node26</title>
+<title>Node22</title>
 <g id="a_node2"><a xlink:href="classProfileProcess.html" target="_top" xlink:title="{ProfileProcess\n||+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
 <polygon fill="none" stroke="#000000" points="108,-161.5 108,-592.5 280,-592.5 280,-161.5 108,-161.5"/>
 <text text-anchor="middle" x="194" y="-580.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ProfileProcess</text>
@@ -71,15 +71,15 @@
 </a>
 </g>
 </g>
-<!-- Node26&#45;&gt;Node25 -->
+<!-- Node22&#45;&gt;Node21 -->
 <g id="edge1" class="edge">
-<title>Node26&#45;&gt;Node25</title>
+<title>Node22&#45;&gt;Node21</title>
 <path fill="none" stroke="#191970" d="M194,-151.0394C194,-141.3951 194,-132.1761 194,-123.5737"/>
 <polygon fill="none" stroke="#191970" points="190.5001,-151.2356 194,-161.2356 197.5001,-151.2356 190.5001,-151.2356"/>
 </g>
-<!-- Node27 -->
+<!-- Node23 -->
 <g id="node3" class="node">
-<title>Node27</title>
+<title>Node23</title>
 <g id="a_node3"><a xlink:href="classChrono.html" target="_top" xlink:title="{Chrono\n||+ Chrono()\l+ ~Chrono()\l+ Reset()\l+ Start()\l+ Stop()\l+ ToStream()\l+ FromStream()\l+ operator++()\l+ GetTime()\l+ GetTimePerCount()\l+ GetCount()\l}">
 <polygon fill="none" stroke="#000000" points="0,-673.5 0,-840.5 110,-840.5 110,-673.5 0,-673.5"/>
 <text text-anchor="middle" x="55" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Chrono</text>
@@ -100,18 +100,18 @@
 </a>
 </g>
 </g>
-<!-- Node27&#45;&gt;Node26 -->
+<!-- Node23&#45;&gt;Node22 -->
 <g id="edge2" class="edge">
-<title>Node27&#45;&gt;Node26</title>
+<title>Node23&#45;&gt;Node22</title>
 <path fill="none" stroke="#404040" d="M72.2985,-673.2491C77.3051,-652.6835 83.2652,-630.8724 90,-611 94.1515,-598.7503 98.7026,-586.2625 103.5089,-573.7491"/>
 <polygon fill="none" stroke="#404040" points="103.6308,-573.4362 102.0839,-566.393 107.9904,-562.2561 109.5373,-569.2993 103.6308,-573.4362"/>
 <text text-anchor="middle" x="117.5" y="-641.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #chronostat</text>
 <text text-anchor="middle" x="117.5" y="-630.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#chronorr</text>
 <text text-anchor="middle" x="117.5" y="-619.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#chronodp</text>
 </g>
-<!-- Node28 -->
+<!-- Node24 -->
 <g id="node4" class="node">
-<title>Node28</title>
+<title>Node24</title>
 <polygon fill="none" stroke="#bfbfbf" points="128.5,-728.5 128.5,-785.5 173.5,-785.5 173.5,-728.5 128.5,-728.5"/>
 <text text-anchor="middle" x="151" y="-773.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">double</text>
 <polyline fill="none" stroke="#bfbfbf" points="128.5,-766.5 173.5,-766.5 "/>
@@ -119,16 +119,16 @@
 <polyline fill="none" stroke="#bfbfbf" points="128.5,-747.5 173.5,-747.5 "/>
 <text text-anchor="middle" x="151" y="-735.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node28&#45;&gt;Node26 -->
+<!-- Node24&#45;&gt;Node22 -->
 <g id="edge3" class="edge">
-<title>Node28&#45;&gt;Node26</title>
+<title>Node24&#45;&gt;Node22</title>
 <path fill="none" stroke="#404040" d="M149.7583,-728.3933C148.8151,-698.9063 148.2417,-651.6366 152,-611 152.1927,-608.9162 152.3943,-606.8231 152.6043,-604.7219"/>
 <polygon fill="none" stroke="#404040" points="152.6235,-604.5405 149.2823,-598.1502 153.8959,-592.6081 157.2372,-598.9985 152.6235,-604.5405"/>
 <text text-anchor="middle" x="184" y="-630.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #mintotweight</text>
 </g>
-<!-- Node29 -->
+<!-- Node25 -->
 <g id="node5" class="node">
-<title>Node29</title>
+<title>Node25</title>
 <polygon fill="none" stroke="#bfbfbf" points="223.5,-728.5 223.5,-785.5 252.5,-785.5 252.5,-728.5 223.5,-728.5"/>
 <text text-anchor="middle" x="238" y="-773.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">int</text>
 <polyline fill="none" stroke="#bfbfbf" points="223.5,-766.5 252.5,-766.5 "/>
@@ -136,9 +136,9 @@
 <polyline fill="none" stroke="#bfbfbf" points="223.5,-747.5 252.5,-747.5 "/>
 <text text-anchor="middle" x="238" y="-735.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node29&#45;&gt;Node26 -->
+<!-- Node25&#45;&gt;Node22 -->
 <g id="edge4" class="edge">
-<title>Node29&#45;&gt;Node26</title>
+<title>Node25&#45;&gt;Node22</title>
 <path fill="none" stroke="#404040" d="M234.6928,-728.4382C231.4272,-700.2346 226.1013,-654.2385 220.3628,-604.6791"/>
 <polygon fill="none" stroke="#404040" points="220.3559,-604.6187 215.6923,-599.1186 218.9756,-592.6983 223.6392,-598.1984 220.3559,-604.6187"/>
 <text text-anchor="middle" x="253" y="-647" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #dim</text>
@@ -146,9 +146,9 @@
 <text text-anchor="middle" x="253" y="-625" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#totstatcount</text>
 <text text-anchor="middle" x="253" y="-614" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#nsite</text>
 </g>
-<!-- Node30 -->
+<!-- Node26 -->
 <g id="node6" class="node">
-<title>Node30</title>
+<title>Node26</title>
 <polygon fill="none" stroke="#bfbfbf" points="301.5,-728.5 301.5,-785.5 336.5,-785.5 336.5,-728.5 301.5,-728.5"/>
 <text text-anchor="middle" x="319" y="-773.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">bool</text>
 <polyline fill="none" stroke="#bfbfbf" points="301.5,-766.5 336.5,-766.5 "/>
@@ -156,9 +156,9 @@
 <polyline fill="none" stroke="#bfbfbf" points="301.5,-747.5 336.5,-747.5 "/>
 <text text-anchor="middle" x="319" y="-735.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node30&#45;&gt;Node26 -->
+<!-- Node26&#45;&gt;Node22 -->
 <g id="edge5" class="edge">
-<title>Node30&#45;&gt;Node26</title>
+<title>Node26&#45;&gt;Node22</title>
 <path fill="none" stroke="#404040" d="M313.8742,-728.4019C308.244,-698.7204 298.3402,-651.1132 286,-611 285.2901,-608.6922 284.5678,-606.3749 283.8342,-604.0496"/>
 <polygon fill="none" stroke="#404040" points="283.7497,-603.7866 278.1045,-599.2997 280.075,-592.3631 285.7202,-596.85 283.7497,-603.7866"/>
 <text text-anchor="middle" x="331" y="-636" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #activesuffstat</text>

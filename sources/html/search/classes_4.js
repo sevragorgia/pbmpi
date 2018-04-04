@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['expoconjugategtrdpprofileprocess',['ExpoConjugateGTRDPProfileProcess',['../classExpoConjugateGTRDPProfileProcess.html',1,'']]],
   ['expoconjugategtrmixtureprofileprocess',['ExpoConjugateGTRMixtureProfileProcess',['../classExpoConjugateGTRMixtureProfileProcess.html',1,'']]],
   ['expoconjugategtrphyloprocess',['ExpoConjugateGTRPhyloProcess',['../classExpoConjugateGTRPhyloProcess.html',1,'']]],
   ['expoconjugategtrprofileprocess',['ExpoConjugateGTRProfileProcess',['../classExpoConjugateGTRProfileProcess.html',1,'']]],

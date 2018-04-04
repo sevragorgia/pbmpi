@@ -14,7 +14,7 @@ var searchData=
   ['topoburnin',['topoburnin',['../classPhyloProcess.html#a9fd84c68b2893abd8c44dfbd73f0cae5',1,'PhyloProcess']]],
   ['topomovetypename',['TopoMoveTypeName',['../phylo_8h.html#a6de1f96a405744332a6895b101b98f35',1,'phylo.h']]],
   ['totaltime',['totaltime',['../classPhyloProcess.html#a121a1569192cd6822c4cf2474dea6d03',1,'PhyloProcess']]],
-  ['totchrono',['totchrono',['../classExpoConjugateGTRDPProfileProcess.html#a5b7e1451811283be2cfe51656dc4a560',1,'ExpoConjugateGTRDPProfileProcess::totchrono()'],['../classExpoConjugateGTRSBDPProfileProcess.html#a6b2369f483a015c1b0ce7f0ff8051203',1,'ExpoConjugateGTRSBDPProfileProcess::totchrono()']]],
+  ['totchrono',['totchrono',['../classExpoConjugateGTRSBDPProfileProcess.html#a6b2369f483a015c1b0ce7f0ff8051203',1,'ExpoConjugateGTRSBDPProfileProcess']]],
   ['totstatcount',['totstatcount',['../classProfileProcess.html#a8369fd92621626ceab341ecba1e7b255',1,'ProfileProcess']]],
   ['tree',['tree',['../classBranchProcess.html#a69c33fde60ee54883d711e92f5a3d684',1,'BranchProcess']]],
   ['type',['type',['../classModel.html#aa57ccc3e74cb1f54fce0fd1e76ef0df9',1,'Model']]]

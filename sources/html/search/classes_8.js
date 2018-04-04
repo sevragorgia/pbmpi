@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['matrixdpprofileprocess',['MatrixDPProfileProcess',['../classMatrixDPProfileProcess.html',1,'']]],
   ['matrixmixtureprofileprocess',['MatrixMixtureProfileProcess',['../classMatrixMixtureProfileProcess.html',1,'']]],
   ['matrixphyloprocess',['MatrixPhyloProcess',['../classMatrixPhyloProcess.html',1,'']]],
   ['matrixprofileprocess',['MatrixProfileProcess',['../classMatrixProfileProcess.html',1,'']]],

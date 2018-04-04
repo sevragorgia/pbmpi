@@ -1,9 +1,7 @@
 <map id="GammaBranchProcess.h" name="GammaBranchProcess.h">
 <area shape="rect" id="node2" href="$GammaBranchProcess_8cpp.html" title="GammaBranchProcess.cpp" alt="" coords="5,80,188,107"/>
 <area shape="rect" id="node3" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="213,80,493,107"/>
-<area shape="rect" id="node7" href="$RASCATGTRDPGammaPhyloProcess_8h.html" title="RASCATGTRDPGammaPhyloProcess.h" alt="" coords="524,80,787,107"/>
-<area shape="rect" id="node4" href="$Model_8h.html" title="Model.h" alt="" coords="113,155,181,181"/>
-<area shape="rect" id="node6" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="205,155,500,181"/>
-<area shape="rect" id="node5" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="115,229,180,256"/>
-<area shape="rect" id="node8" href="$RASCATGTRDPGammaPhyloProcess_8cpp.html" title="RASCATGTRDPGammaPhyloProcess.cpp" alt="" coords="524,155,800,181"/>
+<area shape="rect" id="node4" href="$Model_8h.html" title="Model.h" alt="" coords="216,155,284,181"/>
+<area shape="rect" id="node6" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="308,155,603,181"/>
+<area shape="rect" id="node5" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="217,229,283,256"/>
 </map>

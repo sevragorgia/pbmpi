@@ -8,9 +8,9 @@
  viewBox="0.00 0.00 429.00 980.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 976)">
 <title>DGamRateProcess</title>
-<!-- Node6 -->
+<!-- Node4 -->
 <g id="node1" class="node">
-<title>Node6</title>
+<title>Node4</title>
 <polygon fill="#bfbfbf" stroke="#000000" points="177.5,-.5 177.5,-332.5 362.5,-332.5 362.5,-.5 177.5,-.5"/>
 <text text-anchor="middle" x="270" y="-320.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">DGamRateProcess</text>
 <polyline fill="none" stroke="#000000" points="177.5,-313.5 362.5,-313.5 "/>
@@ -43,9 +43,9 @@
 <text text-anchor="start" x="185.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># RateSuffStatLogProb()</text>
 <text text-anchor="start" x="185.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"># UpdateDiscreteCategories()</text>
 </g>
-<!-- Node7 -->
+<!-- Node5 -->
 <g id="node2" class="node">
-<title>Node7</title>
+<title>Node5</title>
 <g id="a_node2"><a xlink:href="classRateProcess.html" target="_top" xlink:title="{RateProcess\n||+ RateProcess()\l+ ~RateProcess()\l+ GetVersion()\l+ GetNsite()\l+ GetNrate()\l+ GetRate()\l+ GetRateWeight()\l+ GetMeanRate()\l+ GetPriorMeanRate()\l+ GetAlpha()\l+ ActivateSumOverRateAllocations()\l+ InactivateSumOverRateAllocations()\l+ SumOverRateAllocations()\l+ LogRatePrior()\l+ SampleRate()\l+ ToStream()\l+ FromStream()\l# GlobalUpdateSiteRateSuffStat()\l# SlaveUpdateSiteRateSuffStat()\l# UpdateSiteRateSuffStat()\l# GetSiteRateSuffStatBeta()\l# GetSiteRateSuffStatCount()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l}">
 <polygon fill="none" stroke="#000000" points="48.5,-402.5 48.5,-756.5 233.5,-756.5 233.5,-402.5 48.5,-402.5"/>
 <text text-anchor="middle" x="141" y="-744.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">RateProcess</text>
@@ -83,15 +83,15 @@
 </a>
 </g>
 </g>
-<!-- Node7&#45;&gt;Node6 -->
+<!-- Node5&#45;&gt;Node4 -->
 <g id="edge1" class="edge">
-<title>Node7&#45;&gt;Node6</title>
+<title>Node5&#45;&gt;Node4</title>
 <path fill="none" stroke="#191970" d="M199.4123,-392.4901C205.6392,-372.5543 211.9425,-352.374 218.0872,-332.7015"/>
 <polygon fill="none" stroke="#191970" points="196.0033,-391.665 196.3626,-402.2538 202.6849,-393.7521 196.0033,-391.665"/>
 </g>
-<!-- Node8 -->
+<!-- Node6 -->
 <g id="node3" class="node">
-<title>Node8</title>
+<title>Node6</title>
 <g id="a_node3"><a xlink:href="classChrono.html" target="_top" xlink:title="{Chrono\n||+ Chrono()\l+ ~Chrono()\l+ Reset()\l+ Start()\l+ Stop()\l+ ToStream()\l+ FromStream()\l+ operator++()\l+ GetTime()\l+ GetTimePerCount()\l+ GetCount()\l}">
 <polygon fill="none" stroke="#000000" points="0,-804.5 0,-971.5 110,-971.5 110,-804.5 0,-804.5"/>
 <text text-anchor="middle" x="55" y="-959.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Chrono</text>
@@ -112,16 +112,16 @@
 </a>
 </g>
 </g>
-<!-- Node8&#45;&gt;Node7 -->
+<!-- Node6&#45;&gt;Node5 -->
 <g id="edge2" class="edge">
-<title>Node8&#45;&gt;Node7</title>
+<title>Node6&#45;&gt;Node5</title>
 <path fill="none" stroke="#404040" d="M77.8781,-804.3672C80.6058,-794.4663 83.3589,-784.5062 86,-775 86.6021,-772.833 87.2083,-770.6526 87.8181,-768.4608"/>
 <polygon fill="none" stroke="#404040" points="87.8899,-768.2024 85.6465,-761.3491 91.1097,-756.6424 93.3532,-763.4956 87.8899,-768.2024"/>
 <text text-anchor="middle" x="113.5" y="-778" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #chronorate</text>
 </g>
-<!-- Node9 -->
+<!-- Node7 -->
 <g id="node4" class="node">
-<title>Node9</title>
+<title>Node7</title>
 <polygon fill="none" stroke="#bfbfbf" points="230.5,-859.5 230.5,-916.5 259.5,-916.5 259.5,-859.5 230.5,-859.5"/>
 <text text-anchor="middle" x="245" y="-904.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">int</text>
 <polyline fill="none" stroke="#bfbfbf" points="230.5,-897.5 259.5,-897.5 "/>
@@ -129,25 +129,25 @@
 <polyline fill="none" stroke="#bfbfbf" points="230.5,-878.5 259.5,-878.5 "/>
 <text text-anchor="middle" x="245" y="-866.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node9&#45;&gt;Node6 -->
+<!-- Node7&#45;&gt;Node4 -->
 <g id="edge6" class="edge">
-<title>Node9&#45;&gt;Node6</title>
+<title>Node7&#45;&gt;Node4</title>
 <path fill="none" stroke="#404040" d="M245.9955,-859.2711C248.9302,-774.5741 257.7232,-520.8097 263.8101,-345.1401"/>
 <polygon fill="none" stroke="#404040" points="263.8188,-344.8869 260.029,-338.7519 264.2344,-332.8941 268.0242,-339.029 263.8188,-344.8869"/>
 <text text-anchor="middle" x="301.5" y="-588" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #Ncat</text>
 <text text-anchor="middle" x="301.5" y="-577" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#ratesuffstatcount</text>
 <text text-anchor="middle" x="301.5" y="-566" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#alloc</text>
 </g>
-<!-- Node9&#45;&gt;Node7 -->
+<!-- Node7&#45;&gt;Node5 -->
 <g id="edge3" class="edge">
-<title>Node9&#45;&gt;Node7</title>
+<title>Node7&#45;&gt;Node5</title>
 <path fill="none" stroke="#404040" d="M235.3093,-859.2541C227.8016,-836.9836 216.6853,-804.0089 204.6941,-768.4388"/>
 <polygon fill="none" stroke="#404040" points="204.6071,-768.1804 198.8999,-763.7726 200.7736,-756.8092 206.4807,-761.2169 204.6071,-768.1804"/>
 <text text-anchor="middle" x="224" y="-778" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #nsite</text>
 </g>
-<!-- Node10 -->
+<!-- Node8 -->
 <g id="node5" class="node">
-<title>Node10</title>
+<title>Node8</title>
 <polygon fill="none" stroke="#bfbfbf" points="128.5,-859.5 128.5,-916.5 163.5,-916.5 163.5,-859.5 128.5,-859.5"/>
 <text text-anchor="middle" x="146" y="-904.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">bool</text>
 <polyline fill="none" stroke="#bfbfbf" points="128.5,-897.5 163.5,-897.5 "/>
@@ -155,16 +155,16 @@
 <polyline fill="none" stroke="#bfbfbf" points="128.5,-878.5 163.5,-878.5 "/>
 <text text-anchor="middle" x="146" y="-866.5" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node10&#45;&gt;Node7 -->
+<!-- Node8&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
-<title>Node10&#45;&gt;Node7</title>
+<title>Node8&#45;&gt;Node5</title>
 <path fill="none" stroke="#404040" d="M145.5341,-859.2541C145.1747,-837.08 144.6433,-804.2942 144.0697,-768.9006"/>
 <polygon fill="none" stroke="#404040" points="144.0683,-768.8076 139.9715,-762.8732 143.8737,-756.8092 147.9705,-762.7435 144.0683,-768.8076"/>
 <text text-anchor="middle" x="166.5" y="-778" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #sumflag</text>
 </g>
-<!-- Node11 -->
+<!-- Node9 -->
 <g id="node6" class="node">
-<title>Node11</title>
+<title>Node9</title>
 <polygon fill="none" stroke="#bfbfbf" points="367.5,-551 367.5,-608 412.5,-608 412.5,-551 367.5,-551"/>
 <text text-anchor="middle" x="390" y="-596" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">double</text>
 <polyline fill="none" stroke="#bfbfbf" points="367.5,-589 412.5,-589 "/>
@@ -172,9 +172,9 @@
 <polyline fill="none" stroke="#bfbfbf" points="367.5,-570 412.5,-570 "/>
 <text text-anchor="middle" x="390" y="-558" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> </text>
 </g>
-<!-- Node11&#45;&gt;Node6 -->
+<!-- Node9&#45;&gt;Node4 -->
 <g id="edge5" class="edge">
-<title>Node11&#45;&gt;Node6</title>
+<title>Node9&#45;&gt;Node4</title>
 <path fill="none" stroke="#404040" d="M385.2575,-550.9367C379.1181,-515.6266 367.4706,-453.8465 353,-402 347.715,-383.0645 341.6978,-363.4474 335.3737,-343.9846"/>
 <polygon fill="none" stroke="#404040" points="335.3625,-343.9501 329.6899,-339.4979 331.6179,-332.5493 337.2905,-337.0015 335.3625,-343.9501"/>
 <text text-anchor="middle" x="384" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000"> #rate</text>

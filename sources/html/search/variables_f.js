@@ -6,7 +6,7 @@ var searchData=
   ['prev',['prev',['../classAmphiNode.html#a693904e8239bbc74b00b2279d40063e0',1,'AmphiNode::prev()'],['../classPolyNode.html#a5501c4e0c971d14eccd44b213acfd5e1',1,'PolyNode::prev()']]],
   ['process',['process',['../classModel.html#a4b126f74b8eab8907bf23134dec69bf5',1,'Model']]],
   ['profile',['profile',['../classMixtureProfileProcess.html#a57bad739feca7ed83b64e7c24e74b01f',1,'MixtureProfileProcess']]],
-  ['profilechrono',['profilechrono',['../classExpoConjugateGTRDPProfileProcess.html#a15242db7c687c65bf98991f813e7b25c',1,'ExpoConjugateGTRDPProfileProcess::profilechrono()'],['../classExpoConjugateGTRSBDPProfileProcess.html#a662d56b9436eab181a86bed00afafd3c',1,'ExpoConjugateGTRSBDPProfileProcess::profilechrono()']]],
+  ['profilechrono',['profilechrono',['../classExpoConjugateGTRSBDPProfileProcess.html#a662d56b9436eab181a86bed00afafd3c',1,'ExpoConjugateGTRSBDPProfileProcess']]],
   ['profilepaircount',['profilepaircount',['../classGeneralPathSuffStatMatrixMixtureProfileProcess.html#aa853ecca82a340a82e1e964d8937846b',1,'GeneralPathSuffStatMatrixMixtureProfileProcess']]],
   ['profileprior',['profileprior',['../classPhyloProcess.html#a8a82f48bba354a9872ce5829a8604c87',1,'PhyloProcess']]],
   ['profilerootcount',['profilerootcount',['../classGeneralPathSuffStatMatrixMixtureProfileProcess.html#ae86e9337941c44353b83df85bc292240',1,'GeneralPathSuffStatMatrixMixtureProfileProcess']]],

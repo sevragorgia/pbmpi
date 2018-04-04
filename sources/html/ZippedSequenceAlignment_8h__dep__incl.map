@@ -1,18 +1,16 @@
 <map id="ZippedSequenceAlignment.h" name="ZippedSequenceAlignment.h">
-<area shape="rect" id="node2" href="$PhyloProcess_8h.html" title="PhyloProcess.h" alt="" coords="951,80,1065,107"/>
-<area shape="rect" id="node17" href="$ZippedSequenceAlignment_8cpp.html" title="ZippedSequenceAlignment.cpp" alt="" coords="1089,80,1292,107"/>
-<area shape="rect" id="node3" href="$MatrixPhyloProcess_8h.html" title="MatrixPhyloProcess.h" alt="" coords="798,155,949,181"/>
-<area shape="rect" id="node15" href="$NNI_8cpp.html" title="NNI.cpp" alt="" coords="973,155,1043,181"/>
-<area shape="rect" id="node16" href="$PhyloProcess_8cpp.html" title="PhyloProcess.cpp" alt="" coords="1068,155,1196,181"/>
-<area shape="rect" id="node4" href="$ExpoConjugateGTRPhyloProcess_8h.html" title="ExpoConjugateGTRPhyloProcess.h" alt="" coords="447,237,678,263"/>
-<area shape="rect" id="node12" href="$GeneralPathSuffStatMatrixPhyloProcess_8h.html" title="GeneralPathSuffStatMatrix\lPhyloProcess.h" alt="" coords="784,229,963,271"/>
-<area shape="rect" id="node14" href="$MatrixPhyloProcess_8cpp.html" title="MatrixPhyloProcess.cpp" alt="" coords="987,237,1151,263"/>
+<area shape="rect" id="node2" href="$PhyloProcess_8h.html" title="PhyloProcess.h" alt="" coords="733,80,848,107"/>
+<area shape="rect" id="node15" href="$ZippedSequenceAlignment_8cpp.html" title="ZippedSequenceAlignment.cpp" alt="" coords="872,80,1075,107"/>
+<area shape="rect" id="node3" href="$MatrixPhyloProcess_8h.html" title="MatrixPhyloProcess.h" alt="" coords="581,155,731,181"/>
+<area shape="rect" id="node13" href="$NNI_8cpp.html" title="NNI.cpp" alt="" coords="755,155,826,181"/>
+<area shape="rect" id="node14" href="$PhyloProcess_8cpp.html" title="PhyloProcess.cpp" alt="" coords="851,155,979,181"/>
+<area shape="rect" id="node4" href="$ExpoConjugateGTRPhyloProcess_8h.html" title="ExpoConjugateGTRPhyloProcess.h" alt="" coords="299,237,530,263"/>
+<area shape="rect" id="node10" href="$GeneralPathSuffStatMatrixPhyloProcess_8h.html" title="GeneralPathSuffStatMatrix\lPhyloProcess.h" alt="" coords="567,229,745,271"/>
+<area shape="rect" id="node12" href="$MatrixPhyloProcess_8cpp.html" title="MatrixPhyloProcess.cpp" alt="" coords="770,237,934,263"/>
 <area shape="rect" id="node5" href="$ExpoConjugateGTRPhyloProcess_8cpp.html" title="ExpoConjugateGTRPhyloProcess.cpp" alt="" coords="5,326,251,353"/>
 <area shape="rect" id="node6" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="275,326,555,353"/>
-<area shape="rect" id="node10" href="$RASCATGTRDPGammaPhyloProcess_8h.html" title="RASCATGTRDPGammaPhyloProcess.h" alt="" coords="579,326,842,353"/>
-<area shape="rect" id="node7" href="$Model_8h.html" title="Model.h" alt="" coords="175,408,243,435"/>
-<area shape="rect" id="node9" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="267,408,562,435"/>
-<area shape="rect" id="node8" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="177,483,242,509"/>
-<area shape="rect" id="node11" href="$RASCATGTRDPGammaPhyloProcess_8cpp.html" title="RASCATGTRDPGammaPhyloProcess.cpp" alt="" coords="586,408,862,435"/>
-<area shape="rect" id="node13" href="$GeneralPathSuffStatMatrixPhyloProcess_8cpp.html" title="GeneralPathSuffStatMatrix\lPhyloProcess.cpp" alt="" coords="867,319,1045,360"/>
+<area shape="rect" id="node7" href="$Model_8h.html" title="Model.h" alt="" coords="278,408,346,435"/>
+<area shape="rect" id="node9" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="370,408,665,435"/>
+<area shape="rect" id="node8" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="279,483,345,509"/>
+<area shape="rect" id="node11" href="$GeneralPathSuffStatMatrixPhyloProcess_8cpp.html" title="GeneralPathSuffStatMatrix\lPhyloProcess.cpp" alt="" coords="579,319,757,360"/>
 </map>

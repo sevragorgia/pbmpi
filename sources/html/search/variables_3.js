@@ -7,7 +7,7 @@ var searchData=
   ['dayhoff4table',['Dayhoff4Table',['../BiologicalSequences_8h.html#a02442644bbb0fef0952a598ca30586a1',1,'Dayhoff4Table():&#160;BiologicalSequences.h'],['../phylo_8h.html#a02442644bbb0fef0952a598ca30586a1',1,'Dayhoff4Table():&#160;phylo.h']]],
   ['dayhoff6alphabet',['Dayhoff6Alphabet',['../phylo_8h.html#a8462e7fabf831c5a7d3951c930742529',1,'phylo.h']]],
   ['dayhoff6table',['Dayhoff6Table',['../BiologicalSequences_8h.html#a086b915e52f3ab0d50513de98dab7560',1,'Dayhoff6Table():&#160;BiologicalSequences.h'],['../phylo_8h.html#a086b915e52f3ab0d50513de98dab7560',1,'Dayhoff6Table():&#160;phylo.h']]],
-  ['dc',['dc',['../classRASCATGTRDPGammaPhyloProcess.html#aff0f3ca0d351c484aa63b506f505766c',1,'RASCATGTRDPGammaPhyloProcess::dc()'],['../classRASCATGTRSBDPGammaPhyloProcess.html#ab355ac8ba53c8e7b7f75049b87c212cf',1,'RASCATGTRSBDPGammaPhyloProcess::dc()']]],
+  ['dc',['dc',['../classRASCATGTRSBDPGammaPhyloProcess.html#ab355ac8ba53c8e7b7f75049b87c212cf',1,'RASCATGTRSBDPGammaPhyloProcess']]],
   ['defaultalphamax',['DefaultAlphaMax',['../phylo_8h.html#ab730fe7630ca251e022e026e3e409f0c',1,'phylo.h']]],
   ['defaultalphamin',['DefaultAlphaMin',['../phylo_8h.html#abd8d66693f5143b6b8e82cca81bb5940',1,'phylo.h']]],
   ['defaultalphaprior',['DefaultAlphaPrior',['../phylo_8h.html#a4165b13542169a8dedb8d13521fb05a6',1,'phylo.h']]],
