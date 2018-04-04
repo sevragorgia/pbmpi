@@ -1,19 +1,10 @@
 var searchData=
 [
-  ['efn',['EFN',['../BiologicalSequences_8h.html#ac7f528903f94951354c064b66b6854c5',1,'EFN():&#160;BiologicalSequences.h'],['../BiologicalSequences__from__pbFullOption20130624_8h.html#ac7f528903f94951354c064b66b6854c5',1,'EFN():&#160;BiologicalSequences_from_pbFullOption20130624.h'],['../phylo_8h.html#ac7f528903f94951354c064b66b6854c5',1,'EFN():&#160;phylo.h']]],
-  ['efstatfix',['EFStatFix',['../BiologicalSequences_8h.html#a80ec5112f1dbe5921c0aa4b420a71251',1,'EFStatFix():&#160;BiologicalSequences.h'],['../BiologicalSequences__from__pbFullOption20130624_8h.html#a80ec5112f1dbe5921c0aa4b420a71251',1,'EFStatFix():&#160;BiologicalSequences_from_pbFullOption20130624.h'],['../phylo_8h.html#a80ec5112f1dbe5921c0aa4b420a71251',1,'EFStatFix():&#160;phylo.h']]],
-  ['efstatweight',['EFStatWeight',['../BiologicalSequences_8h.html#a9767209ff08a676bd4b81ff6188d02bf',1,'EFStatWeight():&#160;BiologicalSequences.h'],['../BiologicalSequences__from__pbFullOption20130624_8h.html#a9767209ff08a676bd4b81ff6188d02bf',1,'EFStatWeight():&#160;BiologicalSequences_from_pbFullOption20130624.h'],['../phylo_8h.html#a9767209ff08a676bd4b81ff6188d02bf',1,'EFStatWeight():&#160;phylo.h']]],
-  ['em6_5f1',['EM6_1',['../BiologicalSequences__from__pbFullOption20130624_8h.html#ab305ad2a6b0c6742083f6f51467bfffe',1,'BiologicalSequences_from_pbFullOption20130624.h']]],
+  ['efn',['EFN',['../BiologicalSequences_8h.html#ac7f528903f94951354c064b66b6854c5',1,'EFN():&#160;BiologicalSequences.h'],['../phylo_8h.html#ac7f528903f94951354c064b66b6854c5',1,'EFN():&#160;phylo.h']]],
+  ['efstatfix',['EFStatFix',['../BiologicalSequences_8h.html#a80ec5112f1dbe5921c0aa4b420a71251',1,'EFStatFix():&#160;BiologicalSequences.h'],['../phylo_8h.html#a80ec5112f1dbe5921c0aa4b420a71251',1,'EFStatFix():&#160;phylo.h']]],
+  ['efstatweight',['EFStatWeight',['../BiologicalSequences_8h.html#a9767209ff08a676bd4b81ff6188d02bf',1,'EFStatWeight():&#160;BiologicalSequences.h'],['../phylo_8h.html#a9767209ff08a676bd4b81ff6188d02bf',1,'EFStatWeight():&#160;phylo.h']]],
   ['empfreq',['empfreq',['../classPhyloProcess.html#a7d2753f34dee8d15c63737f57c367079',1,'PhyloProcess']]],
-  ['empmix',['empmix',['../classFiniteProfileProcess.html#aee45e08fa4b363146e9fe393dba82ac0',1,'FiniteProfileProcess']]],
-  ['empweight',['empweight',['../classFiniteProfileProcess.html#a192e29f8e47b411656ce0c58627bd5ca',1,'FiniteProfileProcess']]],
   ['entropy_5fepsilon',['entropy_epsilon',['../phylo_8h.html#a6db022431fb5030af15c25720a3444b0',1,'phylo.h']]],
-  ['epicont',['epicont',['../classSimulator.html#a6c84b2dd487d717bba6fa96cb5371579',1,'Simulator']]],
-  ['epik',['epiK',['../classSimulator.html#a0f8dd4cdd7d731e777b6fa8b7434ab3d',1,'Simulator']]],
-  ['epincont',['epincont',['../classSimulator.html#a2ecf54355a1d2295e6a57cb4126ba57c',1,'Simulator']]],
-  ['epipot',['epipot',['../classSimulator.html#aefcd1d155067e2dbe580e7e1b84449ca',1,'Simulator']]],
-  ['episigma',['episigma',['../classSimulator.html#a171f91413ca311eed46be535193b338d',1,'Simulator']]],
   ['every',['every',['../classModel.html#ae646f5904aac52cff64cf56fb76183c4',1,'Model']]],
-  ['expohub',['expohub',['../classExpoConjugateGTRGeneProfileProcess.html#a63c6bda4149a6016c3809bf47374dc90',1,'ExpoConjugateGTRGeneProfileProcess']]],
   ['externalstat',['ExternalStat',['../classGTRSubMatrix.html#a8657ec967dc0bb37ce67c963e08ad9c3',1,'GTRSubMatrix']]]
 ];

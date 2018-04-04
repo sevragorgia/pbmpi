@@ -18,7 +18,11 @@ along with PhyloBayes. If not, see <http://www.gnu.org/licenses/>.
 #define PHYLOPROCESS_H
 
 #include "SequenceAlignment.h"
+
+/*sevra
 #include "CodonSequenceAlignment.h"
+*/
+
 #include "ZippedSequenceAlignment.h"
 
 #include "SubstitutionProcess.h"

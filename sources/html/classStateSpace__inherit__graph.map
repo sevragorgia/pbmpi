@@ -1,7 +1,6 @@
 <map id="StateSpace" name="StateSpace">
-<area shape="rect" id="node2" href="$classCodonStateSpace.html" title="{CodonStateSpace\n|+ Npos\l|+ CodonStateSpace()\l+ ~CodonStateSpace()\l+ GetNstate()\l+ GetState()\l+ GetState()\l+ GetDNAStateSpace()\l+ GetProteinStateSpace()\l+ GetCodonFromDNA()\l+ GetDifferingPosition()\l+ GetCodonPosition()\l+ IsNonCTNearest()\l+ Translation()\l+ Synonymous()\l+ TranslationWithStops()\l+ CheckStop()\l+ GetDegeneracy()\l+ GetNstop()\l+ GetStopPos1()\l+ GetStopPos2()\l+ GetStopPos3()\l}" alt="" coords="5,175,177,531"/>
-<area shape="rect" id="node3" href="$classSimpleStateSpace.html" title="{SimpleStateSpace\n|# Nstate\l# Alphabet\l# NAlphabetSet\l# AlphabetSet\l|+ SimpleStateSpace()\l+ SimpleStateSpace()\l+ GetState()\l+ GetNstate()\l+ GetState()\l+ GetCharState()\l}" alt="" coords="201,255,352,450"/>
-<area shape="rect" id="node4" href="$classDNAStateSpace.html" title="{DNAStateSpace\n||+ DNAStateSpace()\l+ ~DNAStateSpace()\l}" alt="" coords="26,579,173,671"/>
-<area shape="rect" id="node5" href="$classProteinStateSpace.html" title="{ProteinStateSpace\n||+ ProteinStateSpace()\l+ ~ProteinStateSpace()\l}" alt="" coords="197,579,356,671"/>
-<area shape="rect" id="node6" href="$classRNAStateSpace.html" title="{RNAStateSpace\n||+ RNAStateSpace()\l+ ~RNAStateSpace()\l}" alt="" coords="381,579,527,671"/>
+<area shape="rect" id="node2" href="$classSimpleStateSpace.html" title="{SimpleStateSpace\n|# Nstate\l# Alphabet\l# NAlphabetSet\l# AlphabetSet\l|+ SimpleStateSpace()\l+ SimpleStateSpace()\l+ GetState()\l+ GetNstate()\l+ GetState()\l+ GetCharState()\l}" alt="" coords="181,175,331,369"/>
+<area shape="rect" id="node3" href="$classDNAStateSpace.html" title="{DNAStateSpace\n||+ DNAStateSpace()\l+ ~DNAStateSpace()\l}" alt="" coords="5,417,152,509"/>
+<area shape="rect" id="node4" href="$classProteinStateSpace.html" title="{ProteinStateSpace\n||+ ProteinStateSpace()\l+ ~ProteinStateSpace()\l}" alt="" coords="177,417,335,509"/>
+<area shape="rect" id="node5" href="$classRNAStateSpace.html" title="{RNAStateSpace\n||+ RNAStateSpace()\l+ ~RNAStateSpace()\l}" alt="" coords="360,417,507,509"/>
 </map>

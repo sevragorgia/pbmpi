@@ -2488,8 +2488,10 @@ void PhyloProcess::ReadCV(string testdatafile, string name, int burnin, int ever
 	}
 
 	if (iscodon)	{
+	/*sevra
 		SequenceAlignment* tempdata = new FileSequenceAlignment(testdatafile,0,myid);
 		testdata = new CodonSequenceAlignment(tempdata,true,codetype);
+	*/
 	}
 	else	{
 		testdata = new FileSequenceAlignment(testdatafile,0,myid);

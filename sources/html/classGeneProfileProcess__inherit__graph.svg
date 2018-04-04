@@ -33,7 +33,7 @@
 </g>
 <!-- Node2 -->
 <g id="node3" class="node"><title>Node2</title>
-<g id="a_node3"><a xlink:href="classAACodonMutSelGeneProfileProcess.html" target="_top" xlink:title="{AACodonMutSelGeneProfile\lProcess\n|# aacmutselhub\l# fixcodonprofile\l# fixomega\l# fixbl\l|+ AACodonMutSelGeneProfile\lProcess()\l+ ~AACodonMutSelGeneProfile\lProcess()\l+ SetMixtureParameters()\l# Create()\l# Delete()\l# GetMatrix()\l# UpdateMatrices()\l# CreateMatrices()\l# DeleteMatrices()\l}">
+<g id="a_node3"><a xlink:href="classAACodonMutSelGeneProfileProcess.html" target="_top" target="_top" xlink:title="{AACodonMutSelGeneProfile\lProcess\n|# aacmutselhub\l# fixcodonprofile\l# fixomega\l# fixbl\l|+ AACodonMutSelGeneProfile\lProcess()\l+ ~AACodonMutSelGeneProfile\lProcess()\l+ SetMixtureParameters()\l# Create()\l# Delete()\l# GetMatrix()\l# UpdateMatrices()\l# CreateMatrices()\l# DeleteMatrices()\l}">
 <polygon fill="none" stroke="black" points="64,-584.5 64,-795.5 219,-795.5 219,-584.5 64,-584.5"/>
 <text text-anchor="start" x="72" y="-783.5" font-family="Helvetica,sans-Serif" font-size="10.00">AACodonMutSelGeneProfile</text>
 <text text-anchor="middle" x="141.5" y="-772.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -64,7 +64,7 @@
 </g>
 <!-- Node5 -->
 <g id="node6" class="node"><title>Node5</title>
-<g id="a_node6"><a xlink:href="classExpoConjugateGTRGeneProfileProcess.html" target="_top" xlink:title="{ExpoConjugateGTRGeneProfile\lProcess\n|# expohub\l|+ ExpoConjugateGTRGeneProfile\lProcess()\l+ ~ExpoConjugateGTRGeneProfile\lProcess()\l+ SetMixtureParameters()\l# Create()\l# Delete()\l# GetMatrix()\l# UpdateMatrices()\l# CreateMatrices()\l# DeleteMatrices()\l}">
+<g id="a_node6"><a xlink:href="classExpoConjugateGTRGeneProfileProcess.html" target="_top" target="_top" xlink:title="{ExpoConjugateGTRGeneProfile\lProcess\n|# expohub\l|+ ExpoConjugateGTRGeneProfile\lProcess()\l+ ~ExpoConjugateGTRGeneProfile\lProcess()\l+ SetMixtureParameters()\l# Create()\l# Delete()\l# GetMatrix()\l# UpdateMatrices()\l# CreateMatrices()\l# DeleteMatrices()\l}">
 <polygon fill="none" stroke="black" points="371.5,-601 371.5,-779 541.5,-779 541.5,-601 371.5,-601"/>
 <text text-anchor="start" x="379.5" y="-767" font-family="Helvetica,sans-Serif" font-size="10.00">ExpoConjugateGTRGeneProfile</text>
 <text text-anchor="middle" x="456.5" y="-756" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -92,7 +92,7 @@
 </g>
 <!-- Node8 -->
 <g id="node9" class="node"><title>Node8</title>
-<g id="a_node9"><a xlink:href="classGenePhyloProcess.html" target="_top" xlink:title="{GenePhyloProcess\n|+ gibbsfactor\l|+ GenePhyloProcess()\l+ ~GenePhyloProcess()\l+ SetGibbsFactor()\l+ GetGibbsFactor()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GetStateSpace()\l+ TraceHeader()\l+ Trace()\l+ SaveTree()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ Delete()\l}">
+<g id="a_node9"><a xlink:href="classGenePhyloProcess.html" target="_top" target="_top" xlink:title="{GenePhyloProcess\n|+ gibbsfactor\l|+ GenePhyloProcess()\l+ ~GenePhyloProcess()\l+ SetGibbsFactor()\l+ GetGibbsFactor()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GetStateSpace()\l+ TraceHeader()\l+ Trace()\l+ SaveTree()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ Delete()\l}">
 <polygon fill="none" stroke="black" points="197.5,-347.5 197.5,-547.5 369.5,-547.5 369.5,-347.5 197.5,-347.5"/>
 <text text-anchor="middle" x="283.5" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">GenePhyloProcess</text>
 <polyline fill="none" stroke="black" points="197.5,-528.5 369.5,-528.5 "/>
@@ -122,7 +122,7 @@
 </g>
 <!-- Node10 -->
 <g id="node11" class="node"><title>Node10</title>
-<g id="a_node11"><a xlink:href="classPoissonGeneProfileProcess.html" target="_top" xlink:title="{PoissonGeneProfileProcess\n|# poissonhub\l|+ PoissonGeneProfileProcess()\l+ ~PoissonGeneProfileProcess()\l# Create()\l# Delete()\l}">
+<g id="a_node11"><a xlink:href="classPoissonGeneProfileProcess.html" target="_top" target="_top" xlink:title="{PoissonGeneProfileProcess\n|# poissonhub\l|+ PoissonGeneProfileProcess()\l+ ~PoissonGeneProfileProcess()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="591.5,-645 591.5,-735 751.5,-735 751.5,-645 591.5,-645"/>
 <text text-anchor="middle" x="671.5" y="-723" font-family="Helvetica,sans-Serif" font-size="10.00">PoissonGeneProfileProcess</text>
 <polyline fill="none" stroke="black" points="591.5,-716 751.5,-716 "/>
@@ -142,7 +142,7 @@
 </g>
 <!-- Node1 -->
 <g id="node2" class="node"><title>Node1</title>
-<g id="a_node2"><a xlink:href="classProfileProcess.html" target="_top" xlink:title="{ProfileProcess\n|# nsite\l# dim\l# activesuffstat\l# chronodp\l# chronostat\l# chronorr\l# burnin\l# statinfcount\l# totstatcount\l# mintotweight\l|+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
+<g id="a_node2"><a xlink:href="classProfileProcess.html" target="_top" target="_top" xlink:title="{ProfileProcess\n|# nsite\l# dim\l# activesuffstat\l# chronodp\l# chronostat\l# chronorr\l# burnin\l# statinfcount\l# totstatcount\l# mintotweight\l|+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
 <polygon fill="none" stroke="black" points="291.5,-1080.5 291.5,-1610.5 463.5,-1610.5 463.5,-1080.5 291.5,-1080.5"/>
 <text text-anchor="middle" x="377.5" y="-1598.5" font-family="Helvetica,sans-Serif" font-size="10.00">ProfileProcess</text>
 <polyline fill="none" stroke="black" points="291.5,-1591.5 463.5,-1591.5 "/>
@@ -202,7 +202,7 @@
 </g>
 <!-- Node3 -->
 <g id="node4" class="node"><title>Node3</title>
-<g id="a_node4"><a xlink:href="classAACodonMutSelGeneSubstitutionProcess.html" target="_top" xlink:title="{AACodonMutSelGeneSubstitution\lProcess\n||+ AACodonMutSelGeneSubstitution\lProcess()\l+ ~AACodonMutSelGeneSubstitution\lProcess()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node4"><a xlink:href="classAACodonMutSelGeneSubstitutionProcess.html" target="_top" target="_top" xlink:title="{AACodonMutSelGeneSubstitution\lProcess\n||+ AACodonMutSelGeneSubstitution\lProcess()\l+ ~AACodonMutSelGeneSubstitution\lProcess()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="0,-380.5 0,-514.5 179,-514.5 179,-380.5 0,-380.5"/>
 <text text-anchor="start" x="8" y="-502.5" font-family="Helvetica,sans-Serif" font-size="10.00">AACodonMutSelGeneSubstitution</text>
 <text text-anchor="middle" x="89.5" y="-491.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -226,7 +226,7 @@
 </g>
 <!-- Node4 -->
 <g id="node5" class="node"><title>Node4</title>
-<g id="a_node5"><a xlink:href="classAACodonMutSelGenePhyloProcess.html" target="_top" xlink:title="{AACodonMutSelGenePhyloProcess\n|# codetype\l# statespace\l# fixtopo\l# fixcodonprofile\l# fixomega\l# kappaprior\l# dc\l# chronopruning\l# chronosuffstat\l# chronototal\l# chronocollapse\l# chronounfold\l|+ AACodonMutSelGenePhyloProcess()\l+ ~AACodonMutSelGenePhyloProcess()\l+ GetStateSpace()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ TraceHeader()\l+ Trace()\l+ ToStream()\l+ FromStream()\l+ SaveTree()\l+ Move()\l# Create()\l# Delete()\l}">
+<g id="a_node5"><a xlink:href="classAACodonMutSelGenePhyloProcess.html" target="_top" target="_top" xlink:title="{AACodonMutSelGenePhyloProcess\n|# codetype\l# statespace\l# fixtopo\l# fixcodonprofile\l# fixomega\l# kappaprior\l# dc\l# chronopruning\l# chronosuffstat\l# chronototal\l# chronocollapse\l# chronounfold\l|+ AACodonMutSelGenePhyloProcess()\l+ ~AACodonMutSelGenePhyloProcess()\l+ GetStateSpace()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ TraceHeader()\l+ Trace()\l+ ToStream()\l+ FromStream()\l+ SaveTree()\l+ Move()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="88.5,-0.5 88.5,-310.5 282.5,-310.5 282.5,-0.5 88.5,-0.5"/>
 <text text-anchor="middle" x="185.5" y="-298.5" font-family="Helvetica,sans-Serif" font-size="10.00">AACodonMutSelGenePhyloProcess</text>
 <polyline fill="none" stroke="black" points="88.5,-291.5 282.5,-291.5 "/>
@@ -266,7 +266,7 @@
 </g>
 <!-- Node6 -->
 <g id="node7" class="node"><title>Node6</title>
-<g id="a_node7"><a xlink:href="classExpoConjugateGTRGeneSubstitutionProcess.html" target="_top" xlink:title="{ExpoConjugateGTRGeneSubstitution\lProcess\n||+ ExpoConjugateGTRGeneSubstitution\lProcess()\l+ ~ExpoConjugateGTRGeneSubstitution\lProcess()\l+ Create()\l+ Create()\l+ Delete()\l}">
+<g id="a_node7"><a xlink:href="classExpoConjugateGTRGeneSubstitutionProcess.html" target="_top" target="_top" xlink:title="{ExpoConjugateGTRGeneSubstitution\lProcess\n||+ ExpoConjugateGTRGeneSubstitution\lProcess()\l+ ~ExpoConjugateGTRGeneSubstitution\lProcess()\l+ Create()\l+ Create()\l+ Delete()\l}">
 <polygon fill="none" stroke="black" points="387.5,-380.5 387.5,-514.5 581.5,-514.5 581.5,-380.5 387.5,-380.5"/>
 <text text-anchor="start" x="395.5" y="-502.5" font-family="Helvetica,sans-Serif" font-size="10.00">ExpoConjugateGTRGeneSubstitution</text>
 <text text-anchor="middle" x="484.5" y="-491.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -290,7 +290,7 @@
 </g>
 <!-- Node7 -->
 <g id="node8" class="node"><title>Node7</title>
-<g id="a_node8"><a xlink:href="classExpoConjugateGTRGeneGammaPhyloProcess.html" target="_top" xlink:title="{ExpoConjugateGTRGeneGamma\lPhyloProcess\n|# fixtopo\l# dc\l# hub\l# datafile\l|+ ExpoConjugateGTRGeneGamma\lPhyloProcess()\l+ ~ExpoConjugateGTRGeneGamma\lPhyloProcess()\l+ GetStateSpace()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateRRSuffStat()\l+ SlaveUpdateRRSuffStat()\l+ TraceHeader()\l+ Trace()\l+ SaveTree()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l# Create()\l# Delete()\l}">
+<g id="a_node8"><a xlink:href="classExpoConjugateGTRGeneGammaPhyloProcess.html" target="_top" target="_top" xlink:title="{ExpoConjugateGTRGeneGamma\lPhyloProcess\n|# fixtopo\l# dc\l# hub\l# datafile\l|+ ExpoConjugateGTRGeneGamma\lPhyloProcess()\l+ ~ExpoConjugateGTRGeneGamma\lPhyloProcess()\l+ GetStateSpace()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateRRSuffStat()\l+ SlaveUpdateRRSuffStat()\l+ TraceHeader()\l+ Trace()\l+ SaveTree()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="348,-11.5 348,-299.5 525,-299.5 525,-11.5 348,-11.5"/>
 <text text-anchor="start" x="356" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">ExpoConjugateGTRGeneGamma</text>
 <text text-anchor="middle" x="436.5" y="-276.5" font-family="Helvetica,sans-Serif" font-size="10.00">PhyloProcess</text>
@@ -338,7 +338,7 @@
 </g>
 <!-- Node9 -->
 <g id="node10" class="node"><title>Node9</title>
-<g id="a_node10"><a xlink:href="classPoissonGeneGammaPhyloProcess.html" target="_top" xlink:title="{PoissonGeneGammaPhyloProcess\n|# fixtopo\l# dc\l# hub\l# datafile\l|+ PoissonGeneGammaPhyloProcess()\l+ ~PoissonGeneGammaPhyloProcess()\l+ GetStateSpace()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ SetMixtureParameters()\l+ TraceHeader()\l+ Trace()\l+ SaveTree()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l# Create()\l# Delete()\l}">
+<g id="a_node10"><a xlink:href="classPoissonGeneGammaPhyloProcess.html" target="_top" target="_top" xlink:title="{PoissonGeneGammaPhyloProcess\n|# fixtopo\l# dc\l# hub\l# datafile\l|+ PoissonGeneGammaPhyloProcess()\l+ ~PoissonGeneGammaPhyloProcess()\l+ GetStateSpace()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ SetMixtureParameters()\l+ TraceHeader()\l+ Trace()\l+ SaveTree()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="568,-33.5 568,-277.5 759,-277.5 759,-33.5 568,-33.5"/>
 <text text-anchor="middle" x="663.5" y="-265.5" font-family="Helvetica,sans-Serif" font-size="10.00">PoissonGeneGammaPhyloProcess</text>
 <polyline fill="none" stroke="black" points="568,-258.5 759,-258.5 "/>
@@ -372,7 +372,7 @@
 </g>
 <!-- Node11 -->
 <g id="node12" class="node"><title>Node11</title>
-<g id="a_node12"><a xlink:href="classPoissonGeneSubstitutionProcess.html" target="_top" xlink:title="{PoissonGeneSubstitutionProcess\n||+ PoissonGeneSubstitutionProcess()\l+ ~PoissonGeneSubstitution\lProcess()\l+ Create()\l+ Create()\l+ Delete()\l}">
+<g id="a_node12"><a xlink:href="classPoissonGeneSubstitutionProcess.html" target="_top" target="_top" xlink:title="{PoissonGeneSubstitutionProcess\n||+ PoissonGeneSubstitutionProcess()\l+ ~PoissonGeneSubstitution\lProcess()\l+ Create()\l+ Create()\l+ Delete()\l}">
 <polygon fill="none" stroke="black" points="599.5,-391.5 599.5,-503.5 777.5,-503.5 777.5,-391.5 599.5,-391.5"/>
 <text text-anchor="middle" x="688.5" y="-491.5" font-family="Helvetica,sans-Serif" font-size="10.00">PoissonGeneSubstitutionProcess</text>
 <polyline fill="none" stroke="black" points="599.5,-484.5 777.5,-484.5 "/>

@@ -1,13 +1,5 @@
 <map id="PoissonPhyloProcess.h" name="PoissonPhyloProcess.h">
-<area shape="rect" id="node2" href="$RASCATFiniteGammaPhyloProcess_8h.html" title="RASCATFiniteGammaPhyloProcess.h" alt="" coords="30,80,277,107"/>
-<area shape="rect" id="node7" href="$RASCATGammaPhyloProcess_8h.html" title="RASCATGammaPhyloProcess.h" alt="" coords="328,80,542,107"/>
-<area shape="rect" id="node11" href="$PoissonGeneGammaPhyloProcess_8h.html" title="PoissonGeneGammaPhyloProcess.h" alt="" coords="566,80,805,107"/>
-<area shape="rect" id="node12" href="$PoissonPhyloProcess_8cpp.html" title="PoissonPhyloProcess.cpp" alt="" coords="829,80,1004,107"/>
-<area shape="rect" id="node3" href="$Model_8h.html" title="Model.h" alt="" coords="81,229,149,256"/>
-<area shape="rect" id="node6" href="$RASCATFiniteGammaPhyloProcess_8cpp.html" title="RASCATFiniteGammaPhyloProcess.cpp" alt="" coords="23,155,284,181"/>
-<area shape="rect" id="node4" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="30,304,96,331"/>
-<area shape="rect" id="node5" href="$ReadPB_8cpp.html" title="ReadPB.cpp" alt="" coords="120,304,216,331"/>
-<area shape="rect" id="node8" href="$RASCATSBDPGammaPhyloProcess_8h.html" title="RASCATSBDPGammaPhyloProcess.h" alt="" coords="309,155,561,181"/>
-<area shape="rect" id="node10" href="$RASCATGammaPhyloProcess_8cpp.html" title="RASCATGammaPhyloProcess.cpp" alt="" coords="586,155,815,181"/>
-<area shape="rect" id="node9" href="$RASCATSBDPGammaPhyloProcess_8cpp.html" title="RASCATSBDPGammaPhyloProcess.cpp" alt="" coords="302,229,568,256"/>
+<area shape="rect" id="node2" href="$PoissonPhyloProcess_8cpp.html" title="PoissonPhyloProcess.cpp" alt="" coords="5,80,180,107"/>
+<area shape="rect" id="node3" href="$RASCATGammaPhyloProcess_8h.html" title="RASCATGammaPhyloProcess.h" alt="" coords="204,80,419,107"/>
+<area shape="rect" id="node4" href="$RASCATGammaPhyloProcess_8cpp.html" title="RASCATGammaPhyloProcess.cpp" alt="" coords="197,155,426,181"/>
 </map>

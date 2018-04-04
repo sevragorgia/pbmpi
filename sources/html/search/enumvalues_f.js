@@ -12,5 +12,5 @@ var searchData=
   ['profile_5fmove',['PROFILE_MOVE',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baadd045acf32042ce27877d6a8c5df688e',1,'Parallel.h']]],
   ['propagate',['PROPAGATE',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baae41adef498454b473a29e7d00c554b3b',1,'Parallel.h']]],
   ['propose',['PROPOSE',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baa47cf747ff9e1fe9c47f7a59eda8ab226',1,'Parallel.h']]],
-  ['protein',['Protein',['../BiologicalSequences_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6aebf4d0680cae4803241e365068cc0a76',1,'Protein():&#160;BiologicalSequences.h'],['../BiologicalSequences__from__pbFullOption20130624_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6aebf4d0680cae4803241e365068cc0a76',1,'Protein():&#160;BiologicalSequences_from_pbFullOption20130624.h']]]
+  ['protein',['Protein',['../BiologicalSequences_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6aebf4d0680cae4803241e365068cc0a76',1,'BiologicalSequences.h']]]
 ];

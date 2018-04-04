@@ -1,20 +1,4 @@
 var searchData=
 [
-  ['aacodonmutselfinitephyloprocess',['AACodonMutSelFinitePhyloProcess',['../classAACodonMutSelFinitePhyloProcess.html',1,'']]],
-  ['aacodonmutselfiniteprofileprocess',['AACodonMutSelFiniteProfileProcess',['../classAACodonMutSelFiniteProfileProcess.html',1,'']]],
-  ['aacodonmutselfinitesubstitutionprocess',['AACodonMutSelFiniteSubstitutionProcess',['../classAACodonMutSelFiniteSubstitutionProcess.html',1,'']]],
-  ['aacodonmutselgenephyloprocess',['AACodonMutSelGenePhyloProcess',['../classAACodonMutSelGenePhyloProcess.html',1,'']]],
-  ['aacodonmutselgeneprofileprocess',['AACodonMutSelGeneProfileProcess',['../classAACodonMutSelGeneProfileProcess.html',1,'']]],
-  ['aacodonmutselgenesubstitutionprocess',['AACodonMutSelGeneSubstitutionProcess',['../classAACodonMutSelGeneSubstitutionProcess.html',1,'']]],
-  ['aacodonmutselprofileprocess',['AACodonMutSelProfileProcess',['../classAACodonMutSelProfileProcess.html',1,'']]],
-  ['aacodonmutselprofilesubmatrix',['AACodonMutSelProfileSubMatrix',['../classAACodonMutSelProfileSubMatrix.html',1,'']]],
-  ['aacodonmutselsbdpphyloprocess',['AACodonMutSelSBDPPhyloProcess',['../classAACodonMutSelSBDPPhyloProcess.html',1,'']]],
-  ['aacodonmutselsbdpprofileprocess',['AACodonMutSelSBDPProfileProcess',['../classAACodonMutSelSBDPProfileProcess.html',1,'']]],
-  ['aacodonmutselsbdpsubstitutionprocess',['AACodonMutSelSBDPSubstitutionProcess',['../classAACodonMutSelSBDPSubstitutionProcess.html',1,'']]],
-  ['aamutseldpphyloprocess',['AAMutSelDPPhyloProcess',['../classAAMutSelDPPhyloProcess.html',1,'']]],
-  ['aamutseldpprofileprocess',['AAMutSelDPProfileProcess',['../classAAMutSelDPProfileProcess.html',1,'']]],
-  ['aamutseldpsubstitutionprocess',['AAMutSelDPSubstitutionProcess',['../classAAMutSelDPSubstitutionProcess.html',1,'']]],
-  ['aamutselprofileprocess',['AAMutSelProfileProcess',['../classAAMutSelProfileProcess.html',1,'']]],
-  ['aamutselprofilesubmatrix',['AAMutSelProfileSubMatrix',['../classAAMutSelProfileSubMatrix.html',1,'']]],
   ['amphinode',['AmphiNode',['../classAmphiNode.html',1,'']]]
 ];

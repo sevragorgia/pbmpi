@@ -1,24 +1,12 @@
 var searchData=
 [
-  ['pathconjugate',['PathConjugate',['../classPathConjugate.html',1,'']]],
-  ['pathconjugatephyloprocess',['PathConjugatePhyloProcess',['../classPathConjugatePhyloProcess.html',1,'']]],
-  ['pathconjugatetree',['PathConjugateTree',['../classPathConjugateTree.html',1,'']]],
-  ['pbtree',['PBTree',['../classPBTree.html',1,'']]],
-  ['phyloprocess',['PhyloProcess',['../classPhyloProcess.html',1,'']]],
-  ['plink',['Plink',['../classPlink.html',1,'']]],
-  ['poissondpprofileprocess',['PoissonDPProfileProcess',['../classPoissonDPProfileProcess.html',1,'']]],
-  ['poissonfiniteprofileprocess',['PoissonFiniteProfileProcess',['../classPoissonFiniteProfileProcess.html',1,'']]],
-  ['poissongenegammaphyloprocess',['PoissonGeneGammaPhyloProcess',['../classPoissonGeneGammaPhyloProcess.html',1,'']]],
-  ['poissongeneprofileprocess',['PoissonGeneProfileProcess',['../classPoissonGeneProfileProcess.html',1,'']]],
-  ['poissongenesubstitutionprocess',['PoissonGeneSubstitutionProcess',['../classPoissonGeneSubstitutionProcess.html',1,'']]],
-  ['poissonmixtureprofileprocess',['PoissonMixtureProfileProcess',['../classPoissonMixtureProfileProcess.html',1,'']]],
-  ['poissonphyloprocess',['PoissonPhyloProcess',['../classPoissonPhyloProcess.html',1,'']]],
-  ['poissonprofileprocess',['PoissonProfileProcess',['../classPoissonProfileProcess.html',1,'']]],
-  ['poissonsbdpprofileprocess',['PoissonSBDPProfileProcess',['../classPoissonSBDPProfileProcess.html',1,'']]],
-  ['poissonsubstitutionprocess',['PoissonSubstitutionProcess',['../classPoissonSubstitutionProcess.html',1,'']]],
-  ['polynode',['PolyNode',['../classPolyNode.html',1,'']]],
-  ['profileprocess',['ProfileProcess',['../classProfileProcess.html',1,'']]],
-  ['prop_5farg',['prop_arg',['../structprop__arg.html',1,'']]],
-  ['proteinsequencealignment',['ProteinSequenceAlignment',['../classProteinSequenceAlignment.html',1,'']]],
-  ['proteinstatespace',['ProteinStateSpace',['../classProteinStateSpace.html',1,'']]]
+  ['random',['Random',['../classRandom.html',1,'']]],
+  ['random_5finit',['random_init',['../classrandom__init.html',1,'']]],
+  ['rascatgtrdpgammaphyloprocess',['RASCATGTRDPGammaPhyloProcess',['../classRASCATGTRDPGammaPhyloProcess.html',1,'']]],
+  ['rascatgtrdpsubstitutionprocess',['RASCATGTRDPSubstitutionProcess',['../classRASCATGTRDPSubstitutionProcess.html',1,'']]],
+  ['rascatgtrsbdpgammaphyloprocess',['RASCATGTRSBDPGammaPhyloProcess',['../classRASCATGTRSBDPGammaPhyloProcess.html',1,'']]],
+  ['rascatgtrsbdpsubstitutionprocess',['RASCATGTRSBDPSubstitutionProcess',['../classRASCATGTRSBDPSubstitutionProcess.html',1,'']]],
+  ['rateprocess',['RateProcess',['../classRateProcess.html',1,'']]],
+  ['rnastatespace',['RNAStateSpace',['../classRNAStateSpace.html',1,'']]],
+  ['rnd',['rnd',['../classrnd.html',1,'']]]
 ];

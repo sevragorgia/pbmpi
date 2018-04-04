@@ -1,20 +1,9 @@
 <map id="MatrixSBDPProfileProcess.h" name="MatrixSBDPProfileProcess.h">
-<area shape="rect" id="node2" href="$AACodonMutSelSBDPProfileProcess_8h.html" title="AACodonMutSelSBDPProfile\lProcess.h" alt="" coords="167,80,360,121"/>
-<area shape="rect" id="node9" href="$CodonMutSelSBDPProfileProcess_8h.html" title="CodonMutSelSBDPProfileProcess.h" alt="" coords="775,87,1010,114"/>
-<area shape="rect" id="node13" href="$ExpoConjugateGTRSBDPProfileProcess_8h.html" title="ExpoConjugateGTRSBDPProfile\lProcess.h" alt="" coords="538,80,751,121"/>
-<area shape="rect" id="node17" href="$GeneralPathSuffStatGTRSBDPProfileProcess_8h.html" title="GeneralPathSuffStatGTRSBDPProfile\lProcess.h" alt="" coords="1035,80,1279,121"/>
-<area shape="rect" id="node19" href="$MatrixSBDPProfileProcess_8cpp.html" title="MatrixSBDPProfileProcess.cpp" alt="" coords="1303,87,1509,114"/>
-<area shape="rect" id="node3" href="$AACodonMutSelSBDPSubstitutionProcess_8h.html" title="AACodonMutSelSBDPSubstitution\lProcess.h" alt="" coords="5,169,231,211"/>
-<area shape="rect" id="node4" href="$AACodonMutSelSBDPPhyloProcess_8h.html" title="AACodonMutSelSBDPPhyloProcess.h" alt="" coords="38,259,286,285"/>
-<area shape="rect" id="node5" href="$AACodonMutSelSBDPPhyloProcess_8cpp.html" title="AACodonMutSelSBDPPhyloProcess.cpp" alt="" coords="31,333,293,360"/>
-<area shape="rect" id="node6" href="$Model_8h.html" title="Model.h" alt="" coords="336,333,404,360"/>
-<area shape="rect" id="node7" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="284,408,349,435"/>
-<area shape="rect" id="node8" href="$ReadPB_8cpp.html" title="ReadPB.cpp" alt="" coords="374,408,470,435"/>
-<area shape="rect" id="node10" href="$CodonMutSelSBDPSubstitutionProcess_8h.html" title="CodonMutSelSBDPSubstitution\lProcess.h" alt="" coords="797,169,1004,211"/>
-<area shape="rect" id="node11" href="$CodonMutSelSBDPPhyloProcess_8h.html" title="CodonMutSelSBDPPhyloProcess.h" alt="" coords="765,259,996,285"/>
-<area shape="rect" id="node12" href="$CodonMutSelSBDPPhyloProcess_8cpp.html" title="CodonMutSelSBDPPhyloProcess.cpp" alt="" coords="759,333,1003,360"/>
-<area shape="rect" id="node14" href="$ExpoConjugateGTRSBDPProfileProcess_8cpp.html" title="ExpoConjugateGTRSBDPProfile\lProcess.cpp" alt="" coords="559,169,773,211"/>
-<area shape="rect" id="node15" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="255,177,535,203"/>
-<area shape="rect" id="node16" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="408,259,703,285"/>
-<area shape="rect" id="node18" href="$GeneralPathSuffStatGTRSBDPProfileProcess_8cpp.html" title="GeneralPathSuffStatGTRSBDPProfile\lProcess.cpp" alt="" coords="1035,169,1279,211"/>
+<area shape="rect" id="node2" href="$ExpoConjugateGTRSBDPProfileProcess_8h.html" title="ExpoConjugateGTRSBDPProfile\lProcess.h" alt="" coords="140,80,353,121"/>
+<area shape="rect" id="node8" href="$MatrixSBDPProfileProcess_8cpp.html" title="MatrixSBDPProfileProcess.cpp" alt="" coords="377,87,583,114"/>
+<area shape="rect" id="node3" href="$ExpoConjugateGTRSBDPProfileProcess_8cpp.html" title="ExpoConjugateGTRSBDPProfile\lProcess.cpp" alt="" coords="5,169,219,211"/>
+<area shape="rect" id="node4" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="243,177,523,203"/>
+<area shape="rect" id="node5" href="$Model_8h.html" title="Model.h" alt="" coords="246,259,314,285"/>
+<area shape="rect" id="node7" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="338,259,633,285"/>
+<area shape="rect" id="node6" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="247,333,313,360"/>
 </map>

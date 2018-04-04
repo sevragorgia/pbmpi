@@ -30,7 +30,7 @@
 </g>
 <!-- Node8 -->
 <g id="node9" class="node"><title>Node8</title>
-<g id="a_node9"><a xlink:href="classRASCATSBDPSubstitutionProcess.html" target="_top" xlink:title="{RASCATSBDPSubstitutionProcess\n||+ RASCATSBDPSubstitutionProcess()\l+ ~RASCATSBDPSubstitutionProcess()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node9"><a xlink:href="classRASCATSBDPSubstitutionProcess.html" target="_top" target="_top" xlink:title="{RASCATSBDPSubstitutionProcess\n||+ RASCATSBDPSubstitutionProcess()\l+ ~RASCATSBDPSubstitutionProcess()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="73.5,-215.5 73.5,-316.5 267.5,-316.5 267.5,-215.5 73.5,-215.5"/>
 <text text-anchor="middle" x="170.5" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">RASCATSBDPSubstitutionProcess</text>
 <polyline fill="none" stroke="black" points="73.5,-297.5 267.5,-297.5 "/>
@@ -51,7 +51,7 @@
 </g>
 <!-- Node1 -->
 <g id="node2" class="node"><title>Node1</title>
-<g id="a_node2"><a xlink:href="classPoissonDPProfileProcess.html" target="_top" xlink:title="{PoissonDPProfileProcess\n||+ PoissonDPProfileProcess()\l+ ~PoissonDPProfileProcess()\l+ Move()\l+ ToStream()\l+ FromStream()\l# IncrementalDPMove()\l}">
+<g id="a_node2"><a xlink:href="classPoissonDPProfileProcess.html" target="_top" target="_top" xlink:title="{PoissonDPProfileProcess\n||+ PoissonDPProfileProcess()\l+ ~PoissonDPProfileProcess()\l+ Move()\l+ ToStream()\l+ FromStream()\l# IncrementalDPMove()\l}">
 <polygon fill="none" stroke="black" points="9,-689.5 9,-801.5 160,-801.5 160,-689.5 9,-689.5"/>
 <text text-anchor="middle" x="84.5" y="-789.5" font-family="Helvetica,sans-Serif" font-size="10.00">PoissonDPProfileProcess</text>
 <polyline fill="none" stroke="black" points="9,-782.5 160,-782.5 "/>
@@ -73,7 +73,7 @@
 </g>
 <!-- Node2 -->
 <g id="node3" class="node"><title>Node2</title>
-<g id="a_node3"><a xlink:href="classPoissonMixtureProfileProcess.html" target="_top" xlink:title="{PoissonMixtureProfileProcess\n|# profilesuffstatcount\l|+ PoissonMixtureProfileProcess()\l+ ~PoissonMixtureProfileProcess()\l# Create()\l# Delete()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# UpdateModeProfileSuffStat()\l# ProfileSuffStatLogProb()\l# DiffLogSampling()\l# LogStatProb()\l# LogStatIntPrior()\l# LogStatIntPrior()\l# MoveDirWeights()\l# MoveProfile()\l# MoveProfile()\l# SwapComponents()\l# AddSite()\l# RemoveSite()\l# GetNormRate()\l# GetNormalizationFactor()\l}">
+<g id="a_node3"><a xlink:href="classPoissonMixtureProfileProcess.html" target="_top" target="_top" xlink:title="{PoissonMixtureProfileProcess\n|# profilesuffstatcount\l|+ PoissonMixtureProfileProcess()\l+ ~PoissonMixtureProfileProcess()\l# Create()\l# Delete()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# UpdateModeProfileSuffStat()\l# ProfileSuffStatLogProb()\l# DiffLogSampling()\l# LogStatProb()\l# LogStatIntPrior()\l# LogStatIntPrior()\l# MoveDirWeights()\l# MoveProfile()\l# MoveProfile()\l# SwapComponents()\l# AddSite()\l# RemoveSite()\l# GetNormRate()\l# GetNormalizationFactor()\l}">
 <polygon fill="none" stroke="black" points="0,-959.5 0,-1236.5 169,-1236.5 169,-959.5 0,-959.5"/>
 <text text-anchor="middle" x="84.5" y="-1224.5" font-family="Helvetica,sans-Serif" font-size="10.00">PoissonMixtureProfileProcess</text>
 <polyline fill="none" stroke="black" points="0,-1217.5 169,-1217.5 "/>
@@ -110,7 +110,7 @@
 </g>
 <!-- Node3 -->
 <g id="node4" class="node"><title>Node3</title>
-<g id="a_node4"><a xlink:href="classPoissonProfileProcess.html" target="_top" xlink:title="{PoissonProfileProcess\n||+ PoissonProfileProcess()\l+ ~PoissonProfileProcess()\l# UpdateZip()\l# GetSiteProfileSuffStatCount()\l}">
+<g id="a_node4"><a xlink:href="classPoissonProfileProcess.html" target="_top" target="_top" xlink:title="{PoissonProfileProcess\n||+ PoissonProfileProcess()\l+ ~PoissonProfileProcess()\l# UpdateZip()\l# GetSiteProfileSuffStatCount()\l}">
 <polygon fill="none" stroke="black" points="4.5,-1526.5 4.5,-1616.5 158.5,-1616.5 158.5,-1526.5 4.5,-1526.5"/>
 <text text-anchor="middle" x="81.5" y="-1604.5" font-family="Helvetica,sans-Serif" font-size="10.00">PoissonProfileProcess</text>
 <polyline fill="none" stroke="black" points="4.5,-1597.5 158.5,-1597.5 "/>
@@ -130,7 +130,7 @@
 </g>
 <!-- Node4 -->
 <g id="node5" class="node"><title>Node4</title>
-<g id="a_node5"><a xlink:href="classProfileProcess.html" target="_top" xlink:title="{ProfileProcess\n|# nsite\l# dim\l# activesuffstat\l# chronodp\l# chronostat\l# chronorr\l# burnin\l# statinfcount\l# totstatcount\l# mintotweight\l|+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
+<g id="a_node5"><a xlink:href="classProfileProcess.html" target="_top" target="_top" xlink:title="{ProfileProcess\n|# nsite\l# dim\l# activesuffstat\l# chronodp\l# chronostat\l# chronorr\l# burnin\l# statinfcount\l# totstatcount\l# mintotweight\l|+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
 <polygon fill="none" stroke="black" points="80.5,-1906.5 80.5,-2436.5 252.5,-2436.5 252.5,-1906.5 80.5,-1906.5"/>
 <text text-anchor="middle" x="166.5" y="-2424.5" font-family="Helvetica,sans-Serif" font-size="10.00">ProfileProcess</text>
 <polyline fill="none" stroke="black" points="80.5,-2417.5 252.5,-2417.5 "/>
@@ -190,7 +190,7 @@
 </g>
 <!-- Node5 -->
 <g id="node6" class="node"><title>Node5</title>
-<g id="a_node6"><a xlink:href="classMixtureProfileProcess.html" target="_top" xlink:title="{MixtureProfileProcess\n|# profile\l# allocprofile\l# dirweight\l# alloc\l# occupancy\l# Ncomponent\l# logstatprior\l# profilesuffstatlogprob\l|+ MixtureProfileProcess()\l+ ~MixtureProfileProcess()\l+ GetProfile()\l+ GetNcomponent()\l+ GetNDisplayedComponent()\l+ GetNOccupiedComponent()\l+ GetNmodeMax()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ GetStatEnt()\l+ GetStatEnt()\l+ GetCenterStatEnt()\l+ GetMeanDirWeight()\l+ RenormalizeProfiles()\l+ Move()\l+ MoveDirWeights()\l# UpdateModeProfileSuffStat()\l# ProfileSuffStatLogProb()\l# LogStatProb()\l# ProfileSuffStatLogProb()\l# Create()\l# Delete()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# UpdateComponents()\l# GetAllocEntropy()\l# AddSite()\l# RemoveSite()\l# SampleProfile()\l# SampleHyper()\l# SampleAlloc()\l# SampleStat()\l# SampleStat()\l# SampleStat()\l# UpdateOccupancyNumbers()\l# ResampleEmptyProfiles()\l# LogProfilePrior()\l# LogHyperPrior()\l# LogAllocPrior()\l# LogStatPrior()\l# LogStatPrior()\l# SwapComponents()\l}">
+<g id="a_node6"><a xlink:href="classMixtureProfileProcess.html" target="_top" target="_top" xlink:title="{MixtureProfileProcess\n|# profile\l# allocprofile\l# dirweight\l# alloc\l# occupancy\l# Ncomponent\l# logstatprior\l# profilesuffstatlogprob\l|+ MixtureProfileProcess()\l+ ~MixtureProfileProcess()\l+ GetProfile()\l+ GetNcomponent()\l+ GetNDisplayedComponent()\l+ GetNOccupiedComponent()\l+ GetNmodeMax()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ GetStatEnt()\l+ GetStatEnt()\l+ GetCenterStatEnt()\l+ GetMeanDirWeight()\l+ RenormalizeProfiles()\l+ Move()\l+ MoveDirWeights()\l# UpdateModeProfileSuffStat()\l# ProfileSuffStatLogProb()\l# LogStatProb()\l# ProfileSuffStatLogProb()\l# Create()\l# Delete()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# UpdateComponents()\l# GetAllocEntropy()\l# AddSite()\l# RemoveSite()\l# SampleProfile()\l# SampleHyper()\l# SampleAlloc()\l# SampleStat()\l# SampleStat()\l# SampleStat()\l# UpdateOccupancyNumbers()\l# ResampleEmptyProfiles()\l# LogProfilePrior()\l# LogHyperPrior()\l# LogAllocPrior()\l# LogStatPrior()\l# LogStatPrior()\l# SwapComponents()\l}">
 <polygon fill="none" stroke="black" points="176.5,-1273.5 176.5,-1869.5 328.5,-1869.5 328.5,-1273.5 176.5,-1273.5"/>
 <text text-anchor="middle" x="252.5" y="-1857.5" font-family="Helvetica,sans-Serif" font-size="10.00">MixtureProfileProcess</text>
 <polyline fill="none" stroke="black" points="176.5,-1850.5 328.5,-1850.5 "/>
@@ -261,7 +261,7 @@
 </g>
 <!-- Node6 -->
 <g id="node7" class="node"><title>Node6</title>
-<g id="a_node7"><a xlink:href="classDPProfileProcess.html" target="_top" xlink:title="{DPProfileProcess\n|# kappa\l# movekappa\l# kappaprior\l# dirweightprior\l|+ DPProfileProcess()\l+ ~DPProfileProcess()\l# IncrementalDPMove()\l# MoveHyper()\l# MoveKappa()\l# LogProxy()\l# SampleAlloc()\l# SampleHyper()\l# LogHyperPrior()\l# LogAllocPrior()\l# DrawProfileFromPrior()\l}">
+<g id="a_node7"><a xlink:href="classDPProfileProcess.html" target="_top" target="_top" xlink:title="{DPProfileProcess\n|# kappa\l# movekappa\l# kappaprior\l# dirweightprior\l|+ DPProfileProcess()\l+ ~DPProfileProcess()\l# IncrementalDPMove()\l# MoveHyper()\l# MoveKappa()\l# LogProxy()\l# SampleAlloc()\l# SampleHyper()\l# LogHyperPrior()\l# LogAllocPrior()\l# DrawProfileFromPrior()\l}">
 <polygon fill="none" stroke="black" points="190,-998 190,-1198 315,-1198 315,-998 190,-998"/>
 <text text-anchor="middle" x="252.5" y="-1186" font-family="Helvetica,sans-Serif" font-size="10.00">DPProfileProcess</text>
 <polyline fill="none" stroke="black" points="190,-1179 315,-1179 "/>
@@ -296,7 +296,7 @@
 </g>
 <!-- Node7 -->
 <g id="node8" class="node"><title>Node7</title>
-<g id="a_node8"><a xlink:href="classSBDPProfileProcess.html" target="_top" xlink:title="{SBDPProfileProcess\n|# nmodemax\l# V\l# weight\l# maxweighterror\l|+ SBDPProfileProcess()\l+ ~SBDPProfileProcess()\l# DrawProfileFromPrior()\l# GetMaxWeightError()\l# ResetMaxWeightError()\l# Create()\l# Delete()\l# GetNmodeMax()\l# SetNmodeMax()\l# IncrementalDPMove()\l# IncrementalDPMove()\l# GetWeightEnt()\l# GetNDisplayedComponent()\l# GetLastOccupiedComponent()\l# GetNCutoff()\l# SwapComponents()\l# LogIntegratedAllocProb()\l# MoveKappa()\l# SampleAlloc()\l# IncrementalSampleAlloc()\l# SampleWeights()\l# ResampleWeights()\l# MoveOccupiedCompAlloc()\l# MoveAdjacentCompAlloc()\l# LogStatPrior()\l}">
+<g id="a_node8"><a xlink:href="classSBDPProfileProcess.html" target="_top" target="_top" xlink:title="{SBDPProfileProcess\n|# nmodemax\l# V\l# weight\l# maxweighterror\l|+ SBDPProfileProcess()\l+ ~SBDPProfileProcess()\l# DrawProfileFromPrior()\l# GetMaxWeightError()\l# ResetMaxWeightError()\l# Create()\l# Delete()\l# GetNmodeMax()\l# SetNmodeMax()\l# IncrementalDPMove()\l# IncrementalDPMove()\l# GetWeightEnt()\l# GetNDisplayedComponent()\l# GetLastOccupiedComponent()\l# GetNCutoff()\l# SwapComponents()\l# LogIntegratedAllocProb()\l# MoveKappa()\l# SampleAlloc()\l# IncrementalSampleAlloc()\l# SampleWeights()\l# ResampleWeights()\l# MoveOccupiedCompAlloc()\l# MoveAdjacentCompAlloc()\l# LogStatPrior()\l}">
 <polygon fill="none" stroke="black" points="178,-568.5 178,-922.5 335,-922.5 335,-568.5 178,-568.5"/>
 <text text-anchor="middle" x="256.5" y="-910.5" font-family="Helvetica,sans-Serif" font-size="10.00">SBDPProfileProcess</text>
 <polyline fill="none" stroke="black" points="178,-903.5 335,-903.5 "/>
@@ -345,7 +345,7 @@
 </g>
 <!-- Node9 -->
 <g id="node10" class="node"><title>Node9</title>
-<g id="a_node10"><a xlink:href="classRASCATSBDPGammaPhyloProcess.html" target="_top" xlink:title="{RASCATSBDPGammaPhyloProcess\n||+ RASCATSBDPGammaPhyloProcess()\l+ RASCATSBDPGammaPhyloProcess()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ SlaveComputeCVScore()\l+ SlaveComputeSiteLogL()\l+ FromStream()\l+ Move()\l+ Monitor()\l+ Create()\l+ Delete()\l+ SlaveExecute()\l}">
+<g id="a_node10"><a xlink:href="classRASCATSBDPGammaPhyloProcess.html" target="_top" target="_top" xlink:title="{RASCATSBDPGammaPhyloProcess\n||+ RASCATSBDPGammaPhyloProcess()\l+ RASCATSBDPGammaPhyloProcess()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ SlaveComputeCVScore()\l+ SlaveComputeSiteLogL()\l+ FromStream()\l+ Move()\l+ Monitor()\l+ Create()\l+ Delete()\l+ SlaveExecute()\l}">
 <polygon fill="none" stroke="black" points="72.5,-0.5 72.5,-178.5 268.5,-178.5 268.5,-0.5 72.5,-0.5"/>
 <text text-anchor="middle" x="170.5" y="-166.5" font-family="Helvetica,sans-Serif" font-size="10.00">RASCATSBDPGammaPhyloProcess</text>
 <polyline fill="none" stroke="black" points="72.5,-159.5 268.5,-159.5 "/>

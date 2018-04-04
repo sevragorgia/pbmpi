@@ -14,16 +14,23 @@ along with PhyloBayes. If not, see <http://www.gnu.org/licenses/>.
 **********************/
 
 
+
+#include "RASCATGTRSBDPGammaPhyloProcess.h"
+
+/*sevra
+ * to reinclude the following add # before include
+include "RASCATGTRFiniteGammaPhyloProcess.h"
+include "RASCATFiniteGammaPhyloProcess.h"
+include "RASCATSBDPGammaPhyloProcess.h"
+include "AACodonMutSelSBDPPhyloProcess.h"
+include "AACodonMutSelFinitePhyloProcess.h"
+include "CodonMutSelFinitePhyloProcess.h"
+include "CodonMutSelSBDPPhyloProcess.h"
+
 #include "CodonSequenceAlignment.h"
 
-#include "RASCATGTRFiniteGammaPhyloProcess.h"
-#include "RASCATGTRSBDPGammaPhyloProcess.h"
-#include "RASCATFiniteGammaPhyloProcess.h"
-#include "RASCATSBDPGammaPhyloProcess.h"
-#include "AACodonMutSelSBDPPhyloProcess.h"
-#include "AACodonMutSelFinitePhyloProcess.h"
-#include "CodonMutSelFinitePhyloProcess.h"
-#include "CodonMutSelSBDPPhyloProcess.h"
+
+*/
 
 #include "Parallel.h"
 #include <iostream>
@@ -67,7 +74,9 @@ class Model	{
 		// 3 : tdp : removed
 		// 4 : sbdp
 		// 5 : site specific
-		
+    
+		/* sevra
+     * original code with tons of options...
 		// CAT
 		if (modeltype == 1)	{
 			if (myid == 0) {
@@ -157,7 +166,36 @@ class Model	{
 			}
 			
 		}
-
+		*/
+		
+    // CATGTR only code
+		if (modeltype == 2)	{
+			if (myid == 0) {
+				// cerr << "catgtr model\n";
+			}
+			
+			if (mixturetype == 3)	{
+				if (suffstat)	{
+					type = "CATGTRSBDP";
+					process = new RASCATGTRSBDPGammaPhyloProcess(datafile,treefile,nratecat,iscodon,codetype,rrtype,fixtopo,NSPR,NNNI,kappaprior,dirweightprior,mintotweight,dc,incinit,myid,nprocs); 
+				}
+				else	{
+					cerr << "gpss deprecated\n";
+					exit(1);
+				}
+			}else{//sevra
+        
+        cerr << "only mixture possible is GTRSBDP \n";
+        exit(1);
+        
+      }
+    } else {
+      
+        cerr << "only CATGTR is available \n";
+        exit(1);
+      
+    }
+    
 		process->SetFixBL(fixbl);
 		if (fixbl && (! myid))	{
 			cerr << "set lengths from tree file\n";
@@ -181,6 +219,8 @@ class Model	{
 		is >> every >> until >> size;
 		is >> saveall;
 		
+    /* sevra
+     * original code with lots of options
 		if (type == "CATSBDP")	{
 			process = new RASCATSBDPGammaPhyloProcess(is,myid,nprocs); 
 		}
@@ -209,7 +249,12 @@ class Model	{
 			cerr << "error, does not recognize model type : " << type << '\n';
 			exit(1);
 		}
-
+    */
+    
+    if (type == "CATGTRSBDP")	{//we only want CATGTRSBDP
+			process = new RASCATGTRSBDPGammaPhyloProcess(is,myid,nprocs); 
+		}
+    
 		process->SetSize(size);
 	}
 

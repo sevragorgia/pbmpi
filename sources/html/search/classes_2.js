@@ -1,20 +1,6 @@
 var searchData=
 [
   ['chrono',['Chrono',['../classChrono.html',1,'']]],
-  ['chronogram',['Chronogram',['../classChronogram.html',1,'']]],
-  ['codonmutselfinitephyloprocess',['CodonMutSelFinitePhyloProcess',['../classCodonMutSelFinitePhyloProcess.html',1,'']]],
-  ['codonmutselfiniteprofileprocess',['CodonMutSelFiniteProfileProcess',['../classCodonMutSelFiniteProfileProcess.html',1,'']]],
-  ['codonmutselfinitesubstitutionprocess',['CodonMutSelFiniteSubstitutionProcess',['../classCodonMutSelFiniteSubstitutionProcess.html',1,'']]],
-  ['codonmutselprofileprocess',['CodonMutSelProfileProcess',['../classCodonMutSelProfileProcess.html',1,'']]],
-  ['codonmutselprofilesubmatrix',['CodonMutSelProfileSubMatrix',['../classCodonMutSelProfileSubMatrix.html',1,'']]],
-  ['codonmutselsbdpphyloprocess',['CodonMutSelSBDPPhyloProcess',['../classCodonMutSelSBDPPhyloProcess.html',1,'']]],
-  ['codonmutselsbdpprofileprocess',['CodonMutSelSBDPProfileProcess',['../classCodonMutSelSBDPProfileProcess.html',1,'']]],
-  ['codonmutselsbdpsubstitutionprocess',['CodonMutSelSBDPSubstitutionProcess',['../classCodonMutSelSBDPSubstitutionProcess.html',1,'']]],
-  ['codonsequencealignment',['CodonSequenceAlignment',['../classCodonSequenceAlignment.html',1,'']]],
-  ['codonstatespace',['CodonStateSpace',['../classCodonStateSpace.html',1,'']]],
-  ['codonsubmatrix',['CodonSubMatrix',['../classCodonSubMatrix.html',1,'']]],
-  ['conjugaterandombranchsitepath',['ConjugateRandomBranchSitePath',['../classConjugateRandomBranchSitePath.html',1,'']]],
-  ['conjugatesampling',['ConjugateSampling',['../classConjugateSampling.html',1,'']]],
   ['consensus',['Consensus',['../classConsensus.html',1,'']]],
   ['correlation',['Correlation',['../classCorrelation.html',1,'']]]
 ];

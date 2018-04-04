@@ -13,6 +13,6 @@ var searchData=
   ['dirichletprocess',['DirichletProcess',['../phylo_8h.html#a17f75ad6b49fb9ffa4ad44711d6730bea7d4c9f9fa6a3341a743132fb9a136c19',1,'phylo.h']]],
   ['dirrate',['DirRate',['../phylo_8h.html#ab152e38addc9865a033ed991583c1395aa902c4e2d6864500a52b906209110ff0',1,'phylo.h']]],
   ['dirratevar',['DirRateVar',['../phylo_8h.html#ab152e38addc9865a033ed991583c1395a2f817d314dbaeb3145ff71ba3f6a71d4',1,'phylo.h']]],
-  ['dna',['DNA',['../BiologicalSequences_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6acf4f4b33c0fa7b8f3cd37f44af0f5ce8',1,'DNA():&#160;BiologicalSequences.h'],['../BiologicalSequences__from__pbFullOption20130624_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6acf4f4b33c0fa7b8f3cd37f44af0f5ce8',1,'DNA():&#160;BiologicalSequences_from_pbFullOption20130624.h']]],
+  ['dna',['DNA',['../BiologicalSequences_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6acf4f4b33c0fa7b8f3cd37f44af0f5ce8',1,'BiologicalSequences.h']]],
   ['dprate',['dprate',['../phylo_8h.html#abb5b5f5d2b180ba3db729d3a0f9b78b5acd5d7506ec2ab1e9b2aee56b3256bfd0',1,'phylo.h']]]
 ];

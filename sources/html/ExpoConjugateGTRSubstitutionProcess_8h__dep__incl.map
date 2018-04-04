@@ -1,15 +1,11 @@
 <map id="ExpoConjugateGTRSubstitutionProcess.h" name="ExpoConjugateGTRSubstitutionProcess.h">
-<area shape="rect" id="node2" href="$ExpoConjugateGTRPhyloProcess_8h.html" title="ExpoConjugateGTRPhyloProcess.h" alt="" coords="507,102,738,129"/>
-<area shape="rect" id="node14" href="$ExpoConjugateGTRSubstitutionProcess_8cpp.html" title="ExpoConjugateGTRSubstitution\lProcess.cpp" alt="" coords="763,95,971,136"/>
-<area shape="rect" id="node3" href="$ExpoConjugateGTRGeneGammaPhyloProcess_8h.html" title="ExpoConjugateGTRGeneGamma\lPhyloProcess.h" alt="" coords="5,184,221,225"/>
-<area shape="rect" id="node4" href="$ExpoConjugateGTRPhyloProcess_8cpp.html" title="ExpoConjugateGTRPhyloProcess.cpp" alt="" coords="245,191,491,218"/>
-<area shape="rect" id="node5" href="$RASCATGTRFiniteGammaPhyloProcess_8h.html" title="RASCATGTRFiniteGammaPhylo\lProcess.h" alt="" coords="515,184,731,225"/>
-<area shape="rect" id="node10" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="755,191,1035,218"/>
-<area shape="rect" id="node12" href="$RASCATGTRDPGammaPhyloProcess_8h.html" title="RASCATGTRDPGammaPhyloProcess.h" alt="" coords="1066,191,1329,218"/>
-<area shape="rect" id="node6" href="$Model_8h.html" title="Model.h" alt="" coords="655,281,723,307"/>
-<area shape="rect" id="node9" href="$RASCATGTRFiniteGammaPhyloProcess_8cpp.html" title="RASCATGTRFiniteGammaPhylo\lProcess.cpp" alt="" coords="415,273,631,315"/>
-<area shape="rect" id="node7" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="603,363,669,389"/>
-<area shape="rect" id="node8" href="$ReadPB_8cpp.html" title="ReadPB.cpp" alt="" coords="693,363,789,389"/>
-<area shape="rect" id="node11" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="747,281,1042,307"/>
-<area shape="rect" id="node13" href="$RASCATGTRDPGammaPhyloProcess_8cpp.html" title="RASCATGTRDPGammaPhyloProcess.cpp" alt="" coords="1066,281,1342,307"/>
+<area shape="rect" id="node2" href="$ExpoConjugateGTRPhyloProcess_8h.html" title="ExpoConjugateGTRPhyloProcess.h" alt="" coords="299,102,530,129"/>
+<area shape="rect" id="node10" href="$ExpoConjugateGTRSubstitutionProcess_8cpp.html" title="ExpoConjugateGTRSubstitution\lProcess.cpp" alt="" coords="555,95,763,136"/>
+<area shape="rect" id="node3" href="$ExpoConjugateGTRPhyloProcess_8cpp.html" title="ExpoConjugateGTRPhyloProcess.cpp" alt="" coords="5,184,251,211"/>
+<area shape="rect" id="node4" href="$RASCATGTRSBDPGammaPhyloProcess_8h.html" title="RASCATGTRSBDPGammaPhyloProcess.h" alt="" coords="275,184,555,211"/>
+<area shape="rect" id="node8" href="$RASCATGTRDPGammaPhyloProcess_8h.html" title="RASCATGTRDPGammaPhyloProcess.h" alt="" coords="586,184,849,211"/>
+<area shape="rect" id="node5" href="$Model_8h.html" title="Model.h" alt="" coords="175,259,243,285"/>
+<area shape="rect" id="node7" href="$RASCATGTRSBDPGammaPhyloProcess_8cpp.html" title="RASCATGTRSBDPGammaPhyloProcess.cpp" alt="" coords="267,259,562,285"/>
+<area shape="rect" id="node6" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="177,333,242,360"/>
+<area shape="rect" id="node9" href="$RASCATGTRDPGammaPhyloProcess_8cpp.html" title="RASCATGTRDPGammaPhyloProcess.cpp" alt="" coords="586,259,862,285"/>
 </map>

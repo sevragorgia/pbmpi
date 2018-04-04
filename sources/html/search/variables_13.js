@@ -1,7 +1,6 @@
 var searchData=
 [
   ['tag1',['TAG1',['../Parallel_8h.html#a4a7bc06601c54c8f85e8a8655c82e04b',1,'Parallel.h']]],
-  ['taxonset',['taxonset',['../classSimulator.html#accbf7117287761e71c7bd26376355148',1,'Simulator']]],
   ['taxset',['taxset',['../classSequenceAlignment.html#a37f9ffcb5cce8788711182b95548dfea',1,'SequenceAlignment::taxset()'],['../classTree.html#a1dcb0d9a1f0445fed0ba3c19484ec372',1,'Tree::taxset()']]],
   ['tbl',['tbl',['../classLink.html#a68ece3a79e26f20ca28517a5c3166715',1,'Link']]],
   ['testdata',['testdata',['../classPhyloProcess.html#a768eaea4550148a39651aba7650c42ae',1,'PhyloProcess']]],
@@ -12,20 +11,11 @@ var searchData=
   ['tmpbeta',['tmpbeta',['../classExpoConjugateGTRPhyloProcess.html#aad7300256b0b4f38c07666e9f7fb2eeb',1,'ExpoConjugateGTRPhyloProcess']]],
   ['tmpcount',['tmpcount',['../classExpoConjugateGTRPhyloProcess.html#ae080096fc4d4a177b21835decfa5e1db',1,'ExpoConjugateGTRPhyloProcess']]],
   ['to',['to',['../structprop__arg.html#ab47b5e9f3febe32852dbed13bf9280d0',1,'prop_arg']]],
-  ['toolarge',['TOOLARGE',['../classAAMutSelProfileSubMatrix.html#acd6fe3b12870b2fa1496a435f1a6d13a',1,'AAMutSelProfileSubMatrix::TOOLARGE()'],['../classAACodonMutSelProfileSubMatrix.html#a0a0733382e09ae0d806cad7fbae41121',1,'AACodonMutSelProfileSubMatrix::TOOLARGE()'],['../classCodonMutSelProfileSubMatrix.html#a866bbb177e594a4b4f10f6b042ed3466',1,'CodonMutSelProfileSubMatrix::TOOLARGE()']]],
-  ['toolargenegative',['TOOLARGENEGATIVE',['../classAAMutSelProfileSubMatrix.html#af2b13e1033c6d00c85623f82265544d7',1,'AAMutSelProfileSubMatrix::TOOLARGENEGATIVE()'],['../classAACodonMutSelProfileSubMatrix.html#a58f14eff41a151b06a9cdf45335226c1',1,'AACodonMutSelProfileSubMatrix::TOOLARGENEGATIVE()'],['../classCodonMutSelProfileSubMatrix.html#a77d9f7003d15784296c374afbcf8fc21',1,'CodonMutSelProfileSubMatrix::TOOLARGENEGATIVE()']]],
-  ['toosmall',['TOOSMALL',['../classAAMutSelProfileSubMatrix.html#a215b7def13705b5326dc7cb756fb0102',1,'AAMutSelProfileSubMatrix::TOOSMALL()'],['../classAACodonMutSelProfileSubMatrix.html#a75991fbb0a491fea5f7fb7c599f9459b',1,'AACodonMutSelProfileSubMatrix::TOOSMALL()'],['../classCodonMutSelProfileSubMatrix.html#a3418d9bbb54491e9c5db37a3eebdffd5',1,'CodonMutSelProfileSubMatrix::TOOSMALL()']]],
   ['topoburnin',['topoburnin',['../classPhyloProcess.html#a9fd84c68b2893abd8c44dfbd73f0cae5',1,'PhyloProcess']]],
   ['topomovetypename',['TopoMoveTypeName',['../phylo_8h.html#a6de1f96a405744332a6895b101b98f35',1,'phylo.h']]],
   ['totaltime',['totaltime',['../classPhyloProcess.html#a121a1569192cd6822c4cf2474dea6d03',1,'PhyloProcess']]],
-  ['totchrono',['totchrono',['../classExpoConjugateGTRDPProfileProcess.html#a5b7e1451811283be2cfe51656dc4a560',1,'ExpoConjugateGTRDPProfileProcess::totchrono()'],['../classExpoConjugateGTRFiniteProfileProcess.html#ad966744c669bf69582bf9274ccc1a876',1,'ExpoConjugateGTRFiniteProfileProcess::totchrono()'],['../classExpoConjugateGTRSBDPProfileProcess.html#a6b2369f483a015c1b0ce7f0ff8051203',1,'ExpoConjugateGTRSBDPProfileProcess::totchrono()'],['../classGeneralPathSuffStatGTRDPProfileProcess.html#a560fd7f35dc7651b6915a365c1dfb6c8',1,'GeneralPathSuffStatGTRDPProfileProcess::totchrono()'],['../classGeneralPathSuffStatGTRFiniteProfileProcess.html#a2a821c320fa01a2857d802c155681ef5',1,'GeneralPathSuffStatGTRFiniteProfileProcess::totchrono()'],['../classGeneralPathSuffStatGTRSBDPProfileProcess.html#aa27b3c87b81164fee96eb278c92d93cb',1,'GeneralPathSuffStatGTRSBDPProfileProcess::totchrono()']]],
-  ['totlength',['totlength',['../classSimulator.html#aaeb07223a5ece0739e7d4aa2dcb8f985',1,'Simulator']]],
-  ['totmutrate',['totmutrate',['../classSimulator.html#a17bf8021d3687177a337ee339d2f745f',1,'Simulator']]],
-  ['totnode',['totnode',['../classChronogram.html#a5b97238178655f1f95733717f40ec504',1,'Chronogram']]],
-  ['totnsite',['TotNsite',['../classSimulator.html#ae15bb3f6c26caca11565479a009f2baf',1,'Simulator']]],
+  ['totchrono',['totchrono',['../classExpoConjugateGTRDPProfileProcess.html#a5b7e1451811283be2cfe51656dc4a560',1,'ExpoConjugateGTRDPProfileProcess::totchrono()'],['../classExpoConjugateGTRSBDPProfileProcess.html#a6b2369f483a015c1b0ce7f0ff8051203',1,'ExpoConjugateGTRSBDPProfileProcess::totchrono()']]],
   ['totstatcount',['totstatcount',['../classProfileProcess.html#a8369fd92621626ceab341ecba1e7b255',1,'ProfileProcess']]],
-  ['tottime',['tottime',['../classSimulator.html#a7dbc84198022f467323a4cb8fd1c80f5',1,'Simulator']]],
-  ['tree',['tree',['../classBranchProcess.html#a69c33fde60ee54883d711e92f5a3d684',1,'BranchProcess::tree()'],['../classChronogram.html#a7467f8925e6b73137179211c051ed4c2',1,'Chronogram::tree()'],['../classSimulator.html#afb3c6f67d6dda1a9d61397389e184fb5',1,'Simulator::tree()']]],
-  ['truedata',['truedata',['../classPoissonPhyloProcess.html#ab04cbe8c2f3972e856bde12172052a29',1,'PoissonPhyloProcess']]],
+  ['tree',['tree',['../classBranchProcess.html#a69c33fde60ee54883d711e92f5a3d684',1,'BranchProcess']]],
   ['type',['type',['../classModel.html#aa57ccc3e74cb1f54fce0fd1e76ef0df9',1,'Model']]]
 ];

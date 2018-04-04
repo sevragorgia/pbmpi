@@ -7,7 +7,7 @@ var searchData=
   ['uni',['uni',['../phylo_8h.html#abb5b5f5d2b180ba3db729d3a0f9b78b5a80980057df56ab9fc13678f3ee7b804b',1,'phylo.h']]],
   ['unif',['Unif',['../phylo_8h.html#a1eb3fa66de3c66e5f2b934dad545a804a70b4acd03faa7c9de996f1a48bbb3ab2',1,'phylo.h']]],
   ['uniform',['Uniform',['../phylo_8h.html#a8966439623f9af835f0644ac1932a627a7736d52add43418b88f40ba8c8148ad8',1,'phylo.h']]],
-  ['universal',['Universal',['../BiologicalSequences_8h.html#a7c80df24384bb742af0dc84d4b7f4daca97f6ead04f8e29b426cb3e9848c0f811',1,'Universal():&#160;BiologicalSequences.h'],['../BiologicalSequences__from__pbFullOption20130624_8h.html#a7c80df24384bb742af0dc84d4b7f4daca97f6ead04f8e29b426cb3e9848c0f811',1,'Universal():&#160;BiologicalSequences_from_pbFullOption20130624.h'],['../phylo_8h.html#a7c80df24384bb742af0dc84d4b7f4daca97f6ead04f8e29b426cb3e9848c0f811',1,'Universal():&#160;phylo.h']]],
+  ['universal',['Universal',['../BiologicalSequences_8h.html#a7c80df24384bb742af0dc84d4b7f4daca97f6ead04f8e29b426cb3e9848c0f811',1,'Universal():&#160;BiologicalSequences.h'],['../phylo_8h.html#a7c80df24384bb742af0dc84d4b7f4daca97f6ead04f8e29b426cb3e9848c0f811',1,'Universal():&#160;phylo.h']]],
   ['update',['UPDATE',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baa3912ed627c0090ccc7fa1b03fef04202',1,'Parallel.h']]],
   ['update_5fblength',['UPDATE_BLENGTH',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baadc7e5baee2bf0ce15c7db39e757a3dc4',1,'Parallel.h']]],
   ['update_5frate',['UPDATE_RATE',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baa380023d34d367ed8d39feb1d9ffc08fb',1,'Parallel.h']]],

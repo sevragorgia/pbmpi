@@ -32,7 +32,7 @@
 </g>
 <!-- Node13 -->
 <g id="node2" class="node"><title>Node13</title>
-<g id="a_node2"><a xlink:href="classProfileProcess.html" target="_top" xlink:title="{ProfileProcess\n||+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
+<g id="a_node2"><a xlink:href="classProfileProcess.html" target="_top" target="_top" xlink:title="{ProfileProcess\n||+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
 <polygon fill="none" stroke="black" points="116.5,-248.5 116.5,-679.5 288.5,-679.5 288.5,-248.5 116.5,-248.5"/>
 <text text-anchor="middle" x="202.5" y="-667.5" font-family="Helvetica,sans-Serif" font-size="10.00">ProfileProcess</text>
 <polyline fill="none" stroke="black" points="116.5,-660.5 288.5,-660.5 "/>
@@ -89,7 +89,7 @@
 </g>
 <!-- Node14 -->
 <g id="node3" class="node"><title>Node14</title>
-<g id="a_node3"><a xlink:href="classChrono.html" target="_top" xlink:title="{Chrono\n||+ Chrono()\l+ ~Chrono()\l+ Reset()\l+ Start()\l+ Stop()\l+ ToStream()\l+ FromStream()\l+ operator++()\l+ GetTime()\l+ GetTimePerCount()\l+ GetCount()\l}">
+<g id="a_node3"><a xlink:href="classChrono.html" target="_top" target="_top" xlink:title="{Chrono\n||+ Chrono()\l+ ~Chrono()\l+ Reset()\l+ Start()\l+ Stop()\l+ ToStream()\l+ FromStream()\l+ operator++()\l+ GetTime()\l+ GetTimePerCount()\l+ GetCount()\l}">
 <polygon fill="none" stroke="black" points="63.5,-760.5 63.5,-927.5 173.5,-927.5 173.5,-760.5 63.5,-760.5"/>
 <text text-anchor="middle" x="118.5" y="-915.5" font-family="Helvetica,sans-Serif" font-size="10.00">Chrono</text>
 <polyline fill="none" stroke="black" points="63.5,-908.5 173.5,-908.5 "/>

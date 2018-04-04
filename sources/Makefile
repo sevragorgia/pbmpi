@@ -1,35 +1,38 @@
 CC=mpic++
 CPPFLAGS= -w -O3 -c -fpermissive
 LDFLAGS= -O3
-SRCS=  TaxonSet.cpp Tree.cpp Random.cpp SequenceAlignment.cpp CodonSequenceAlignment.cpp \
-	StateSpace.cpp CodonStateSpace.cpp ZippedSequenceAlignment.cpp SubMatrix.cpp \
-	GTRSubMatrix.cpp CodonSubMatrix.cpp linalg.cpp Chrono.cpp BranchProcess.cpp \
+SRCS=  TaxonSet.cpp Tree.cpp Random.cpp SequenceAlignment.cpp \
+	StateSpace.cpp ZippedSequenceAlignment.cpp SubMatrix.cpp \
+	GTRSubMatrix.cpp linalg.cpp Chrono.cpp BranchProcess.cpp \
 	GammaBranchProcess.cpp RateProcess.cpp DGamRateProcess.cpp ProfileProcess.cpp \
-	OneProfileProcess.cpp MatrixProfileProcess.cpp MatrixOneProfileProcess.cpp \
-	GTRProfileProcess.cpp ExpoConjugateGTRProfileProcess.cpp \
-	ExpoConjugateGTRDPProfileProcess.cpp ExpoConjugateGTRSBDPProfileProcess.cpp \
-	ExpoConjugateGTRFiniteProfileProcess.cpp \
-	MixtureProfileProcess.cpp \
-	PoissonMixtureProfileProcess.cpp MatrixMixtureProfileProcess.cpp \
-	GTRMixtureProfileProcess.cpp ExpoConjugateGTRMixtureProfileProcess.cpp \
-	GeneralPathSuffStatMatrixMixtureProfileProcess.cpp \
-	DPProfileProcess.cpp SBDPProfileProcess.cpp \
-	PoissonDPProfileProcess.cpp PoissonSBDPProfileProcess.cpp MatrixDPProfileProcess.cpp \
-	MatrixSBDPProfileProcess.cpp FiniteProfileProcess.cpp PoissonFiniteProfileProcess.cpp \
-	MatrixFiniteProfileProcess.cpp CodonMutSelProfileProcess.cpp \
-	AACodonMutSelProfileProcess.cpp SubstitutionProcess.cpp Propagate.cpp \
-	PoissonSubstitutionProcess.cpp MatrixSubstitutionProcess.cpp \
-	ExpoConjugateGTRSubstitutionProcess.cpp GeneralPathSuffStatMatrixSubstitutionProcess.cpp \
-	PhyloProcess.cpp PoissonPhyloProcess.cpp MatrixPhyloProcess.cpp \
-	ExpoConjugateGTRPhyloProcess.cpp GeneralPathSuffStatMatrixPhyloProcess.cpp \
-	RASCATGammaPhyloProcess.cpp RASCATSBDPGammaPhyloProcess.cpp \
-	RASCATFiniteGammaPhyloProcess.cpp RASCATGTRFiniteGammaPhyloProcess.cpp \
-	RASCATGTRDPGammaPhyloProcess.cpp RASCATGTRSBDPGammaPhyloProcess.cpp \
-	AACodonMutSelFinitePhyloProcess.cpp CodonMutSelFinitePhyloProcess.cpp\
-	CodonMutSelSBDPPhyloProcess.cpp \
-	AACodonMutSelSBDPPhyloProcess.cpp \
-	Bipartition.cpp BipartitionList.cpp Consensus.cpp TaxaParameters.cpp PBTree.cpp TreeList.cpp PolyNode.cpp correl.cpp correlation.cpp NNI.cpp
+	ExpoConjugateGTRSBDPProfileProcess.cpp ExpoConjugateGTRPhyloProcess.cpp ExpoConjugateGTRSubstitutionProcess.cpp ExpoConjugateGTRMixtureProfileProcess.cpp \
+	MixtureProfileProcess.cpp MatrixMixtureProfileProcess.cpp GTRMixtureProfileProcess.cpp MatrixSBDPProfileProcess.cpp MatrixProfileProcess.cpp SBDPProfileProcess.cpp \
+	SubstitutionProcess.cpp Propagate.cpp \
+	 MatrixSubstitutionProcess.cpp \
+	GeneralPathSuffStatMatrixSubstitutionProcess.cpp \
+	PhyloProcess.cpp MatrixPhyloProcess.cpp \
+	GeneralPathSuffStatMatrixPhyloProcess.cpp GeneralPathSuffStatMatrixMixtureProfileProcess.cpp \
+	RASCATGTRSBDPGammaPhyloProcess.cpp \
+	Bipartition.cpp BipartitionList.cpp Consensus.cpp TaxaParameters.cpp PBTree.cpp TreeList.cpp PolyNode.cpp correl.cpp correlation.cpp \
+	NNI.cpp \
+	DPProfileProcess.cpp GTRProfileProcess.cpp ExpoConjugateGTRProfileProcess.cpp 
 
+
+
+#FiniteProfileProcess.cpp PoissonSubstitutionProcess.cpp\
+#MatrixDPProfileProcess.cpp MatrixFiniteProfileProcess.cpp \
+#CodonSequenceAlignment.cpp CodonStateSpace.cpp 
+#sure
+#OneProfileProcess.cpp MatrixOneProfileProcess.cpp
+#ExpoConjugateGTRFiniteProfileProcess.cpp ExpoConjugateGTRDPProfileProcess.cpp 
+#PoissonMixtureProfileProcess.cpp PoissonPhyloProcess.cpp PoissonFiniteProfileProcess.cpp PoissonDPProfileProcess.cpp #PoissonSBDPProfileProcess.cpp \
+#CodonSubMatrix.cpp 
+#CodonMutSelProfileProcess.cpp AACodonMutSelProfileProcess.cpp 
+#RASCATGammaPhyloProcess.cpp RASCATSBDPGammaPhyloProcess.cpp \
+#RASCATFiniteGammaPhyloProcess.cpp RASCATGTRFiniteGammaPhyloProcess.cpp RASCATGTRDPGammaPhyloProcess.cpp \
+#AACodonMutSelFinitePhyloProcess.cpp CodonMutSelFinitePhyloProcess.cpp\
+#CodonMutSelSBDPPhyloProcess.cpp AACodonMutSelSBDPPhyloProcess.cpp \
+	
 
 OBJS=$(patsubst %.cpp,%.o,$(SRCS))
 ALL_SRCS=$(wildcard *.cpp)

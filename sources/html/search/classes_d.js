@@ -1,10 +1,7 @@
 var searchData=
 [
-  ['sbdpprofileprocess',['SBDPProfileProcess',['../classSBDPProfileProcess.html',1,'']]],
-  ['sequencealignment',['SequenceAlignment',['../classSequenceAlignment.html',1,'']]],
-  ['simplestatespace',['SimpleStateSpace',['../classSimpleStateSpace.html',1,'']]],
-  ['simulator',['Simulator',['../classSimulator.html',1,'']]],
-  ['statespace',['StateSpace',['../classStateSpace.html',1,'']]],
-  ['submatrix',['SubMatrix',['../classSubMatrix.html',1,'']]],
-  ['substitutionprocess',['SubstitutionProcess',['../classSubstitutionProcess.html',1,'']]]
+  ['taxaparameters',['TaxaParameters',['../classTaxaParameters.html',1,'']]],
+  ['taxonset',['TaxonSet',['../classTaxonSet.html',1,'']]],
+  ['tree',['Tree',['../classTree.html',1,'']]],
+  ['treelist',['TreeList',['../classTreeList.html',1,'']]]
 ];

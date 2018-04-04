@@ -32,7 +32,7 @@ var searchData=
   ['reset',['RESET',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baa589b7d94a3d91d145720e2fed0eb3a05',1,'Parallel.h']]],
   ['restore',['RESTORE',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baa12f3955776faf06252c403542f7ed380',1,'Parallel.h']]],
   ['restoredata',['RESTOREDATA',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baaac873ffcd3dea7c8f6c721b23292b9f6',1,'Parallel.h']]],
-  ['rna',['RNA',['../BiologicalSequences_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6a92efc5f13441d2abd5e146e629196c7e',1,'RNA():&#160;BiologicalSequences.h'],['../BiologicalSequences__from__pbFullOption20130624_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6a92efc5f13441d2abd5e146e629196c7e',1,'RNA():&#160;BiologicalSequences_from_pbFullOption20130624.h']]],
+  ['rna',['RNA',['../BiologicalSequences_8h.html#ad8ed01ff3ff33333d8e19db4d2818bb6a92efc5f13441d2abd5e146e629196c7e',1,'BiologicalSequences.h']]],
   ['root',['ROOT',['../Parallel_8h.html#aa9996e8b4648c78acf6cde2401e230baad41208b99e347d1726824779b11ea11b',1,'ROOT():&#160;Parallel.h'],['../phylo_8h.html#ab152e38addc9865a033ed991583c1395ac886d5190f68bd172807c62df7a1b536',1,'Root():&#160;phylo.h']]],
   ['rootrhomove',['rootRhoMove',['../phylo_8h.html#ab152e38addc9865a033ed991583c1395abb097339a1057ff72c6c21484ba15279',1,'phylo.h']]],
   ['rracgt',['RRACGT',['../phylo_8h.html#ab152e38addc9865a033ed991583c1395a8753667e8df06fa34186e82761cc60ae',1,'phylo.h']]],

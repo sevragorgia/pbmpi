@@ -9,10 +9,7 @@ var searchData=
   ['bipartitionpruningwithsupports',['BipartitionPruningWithSupports',['../classPolyNode.html#a0cf1451f8af9093c3039c7b14f2729d2',1,'PolyNode']]],
   ['bpcompare',['BPCompare',['../BipartitionList_8cpp.html#a929b4d4530044e47a4c1e40364f4a64e',1,'BPCompare(string *ChainName, int P, string reftreename, int burnin, int every, int until, int ps, int verbose, int mergeallbp, string OutFile, double cutoff, double conscutoff, bool rootonly, bool bench):&#160;BipartitionList.cpp'],['../BipartitionList_8h.html#ac77a8d5b48ee75ed08f8948588743655',1,'BPCompare(string *ChainName, int P, string reftreename, int burnin, int every, int until, int ps, int verbose, int mergeallbp, string OutFile, double cutoff, double conscutoff, bool rootonly=false, bool bench=false):&#160;BipartitionList.cpp']]],
   ['branch',['Branch',['../classBranch.html#a69807434e069dd3f3ae54f5519679c9d',1,'Branch::Branch()'],['../classBranch.html#a27e521ecefbc5322320aa23d6929143a',1,'Branch::Branch(string s)'],['../classBranch.html#a48e65a5a4e18242f3c50249a49f1fdf1',1,'Branch::Branch(const Branch *from)']]],
-  ['branchlength',['BranchLength',['../classBranchLength.html#a66032ca9e790ca6bbe19ee31c5d5b416',1,'BranchLength']]],
   ['branchlengthmove',['BranchLengthMove',['../classPhyloProcess.html#a7924a483d0a1821dda8532928d311136',1,'PhyloProcess']]],
-  ['branchmatrixpathconjugatetree',['BranchMatrixPathConjugateTree',['../classBranchMatrixPathConjugateTree.html#ae80798aca1e733d1b8cded2abab7e190',1,'BranchMatrixPathConjugateTree']]],
   ['branchprocess',['BranchProcess',['../classBranchProcess.html#a82852a2b3e70dbb5b3d3a08f7b6fe0a0',1,'BranchProcess']]],
-  ['branchsimulate',['BranchSimulate',['../classSimulator.html#a44fef88ebf61ca0153451c919507903b',1,'Simulator']]],
   ['branchsitepath',['BranchSitePath',['../classBranchSitePath.html#a18be5bb510cc705e667607ebda00575b',1,'BranchSitePath::BranchSitePath(int incount, int instate)'],['../classBranchSitePath.html#aa9fee7a104150edf507e94d87c3617e7',1,'BranchSitePath::BranchSitePath(int instate=-1)']]]
 ];

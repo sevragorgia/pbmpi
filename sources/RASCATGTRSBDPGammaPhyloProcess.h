@@ -21,7 +21,10 @@ along with PhyloBayes. If not, see <http://www.gnu.org/licenses/>.
 #include "DGamRateProcess.h"
 #include "ExpoConjugateGTRSBDPProfileProcess.h"
 #include "GammaBranchProcess.h"
+
+/*sevra
 #include "CodonSequenceAlignment.h"
+*/
 
 // this is the final class implementing the CATGTR phyloprocess
 
@@ -82,8 +85,10 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 		datafile = indatafile;
 		SequenceAlignment* plaindata;
 		if (iscodon)	{
+		/*sevra
 			SequenceAlignment* tempdata = new FileSequenceAlignment(datafile,0,myid);
 			plaindata = new CodonSequenceAlignment(tempdata,true,codetype);
+		*/
 		}
 		else	{
 			plaindata = new FileSequenceAlignment(datafile,0,myid);
@@ -170,8 +175,10 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 		//SequenceAlignment* plaindata = new FileSequenceAlignment(datafile,0,myid);
 		SequenceAlignment* plaindata;
 		if (iscodon)	{
+		/*sevra
 			SequenceAlignment* tempdata = new FileSequenceAlignment(datafile,0,myid);
 			plaindata = new CodonSequenceAlignment(tempdata,true,codetype);
+		*/
 		}
 		else	{
 			plaindata = new FileSequenceAlignment(datafile,0,myid);

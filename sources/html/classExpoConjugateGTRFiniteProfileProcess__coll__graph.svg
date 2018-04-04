@@ -29,7 +29,7 @@
 </g>
 <!-- Node14 -->
 <g id="node2" class="node"><title>Node14</title>
-<g id="a_node2"><a xlink:href="classMatrixFiniteProfileProcess.html" target="_top" xlink:title="{MatrixFiniteProfileProcess\n||+ MatrixFiniteProfileProcess()\l+ ~MatrixFiniteProfileProcess()\l# Create()\l# Create()\l# Delete()\l# GlobalIncrementalFiniteMove()\l# SlaveIncrementalFiniteMove()\l# IncrementalFiniteMove()\l}">
+<g id="a_node2"><a xlink:href="classMatrixFiniteProfileProcess.html" target="_top" target="_top" xlink:title="{MatrixFiniteProfileProcess\n||+ MatrixFiniteProfileProcess()\l+ ~MatrixFiniteProfileProcess()\l# Create()\l# Create()\l# Delete()\l# GlobalIncrementalFiniteMove()\l# SlaveIncrementalFiniteMove()\l# IncrementalFiniteMove()\l}">
 <polygon fill="none" stroke="black" points="755.274,-460 755.274,-594 913.274,-594 913.274,-460 755.274,-460"/>
 <text text-anchor="middle" x="834.274" y="-582" font-family="Helvetica,sans-Serif" font-size="10.00">MatrixFiniteProfileProcess</text>
 <polyline fill="none" stroke="black" points="755.274,-575 913.274,-575 "/>
@@ -53,7 +53,7 @@
 </g>
 <!-- Node15 -->
 <g id="node3" class="node"><title>Node15</title>
-<g id="a_node3"><a xlink:href="classMatrixMixtureProfileProcess.html" target="_top" xlink:title="{MatrixMixtureProfileProcess\n||+ MatrixMixtureProfileProcess()\l+ ~MatrixMixtureProfileProcess()\l+ GetMatrix()\l# Create()\l# Delete()\l# SwapComponents()\l# GlobalMoveProfile()\l# SlaveMoveProfile()\l# MoveProfile()\l# MoveProfile()\l# UpdateModeProfileSuffStat()\l# UpdateMatrices()\l# CreateMatrices()\l# DeleteMatrices()\l# CreateMatrix()\l# DeleteMatrix()\l# UpdateMatrix()\l}">
+<g id="a_node3"><a xlink:href="classMatrixMixtureProfileProcess.html" target="_top" target="_top" xlink:title="{MatrixMixtureProfileProcess\n||+ MatrixMixtureProfileProcess()\l+ ~MatrixMixtureProfileProcess()\l+ GetMatrix()\l# Create()\l# Delete()\l# SwapComponents()\l# GlobalMoveProfile()\l# SlaveMoveProfile()\l# MoveProfile()\l# MoveProfile()\l# UpdateModeProfileSuffStat()\l# UpdateMatrices()\l# CreateMatrices()\l# DeleteMatrices()\l# CreateMatrix()\l# DeleteMatrix()\l# UpdateMatrix()\l}">
 <polygon fill="none" stroke="black" points="361.774,-659.5 361.774,-892.5 522.774,-892.5 522.774,-659.5 361.774,-659.5"/>
 <text text-anchor="middle" x="442.274" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00">MatrixMixtureProfileProcess</text>
 <polyline fill="none" stroke="black" points="361.774,-873.5 522.774,-873.5 "/>
@@ -86,7 +86,7 @@
 </g>
 <!-- Node27 -->
 <g id="node15" class="node"><title>Node27</title>
-<g id="a_node15"><a xlink:href="classGTRMixtureProfileProcess.html" target="_top" xlink:title="{GTRMixtureProfileProcess\n||+ GTRMixtureProfileProcess()\l+ ~GTRMixtureProfileProcess()\l# Create()\l# Delete()\l# CreateMatrix()\l# UpdateMatrix()\l# GetGTRMatrix()\l# GetNormRate()\l# GetNormalizationFactor()\l}">
+<g id="a_node15"><a xlink:href="classGTRMixtureProfileProcess.html" target="_top" target="_top" xlink:title="{GTRMixtureProfileProcess\n||+ GTRMixtureProfileProcess()\l+ ~GTRMixtureProfileProcess()\l# Create()\l# Delete()\l# CreateMatrix()\l# UpdateMatrix()\l# GetGTRMatrix()\l# GetNormRate()\l# GetNormalizationFactor()\l}">
 <polygon fill="none" stroke="black" points="175.774,-454.5 175.774,-599.5 330.774,-599.5 330.774,-454.5 175.774,-454.5"/>
 <text text-anchor="middle" x="253.274" y="-587.5" font-family="Helvetica,sans-Serif" font-size="10.00">GTRMixtureProfileProcess</text>
 <polyline fill="none" stroke="black" points="175.774,-580.5 330.774,-580.5 "/>
@@ -111,7 +111,7 @@
 </g>
 <!-- Node16 -->
 <g id="node4" class="node"><title>Node16</title>
-<g id="a_node4"><a xlink:href="classMatrixProfileProcess.html" target="_top" xlink:title="{MatrixProfileProcess\n||+ MatrixProfileProcess()\l+ ~MatrixProfileProcess()\l+ GetMatrix()\l# CreateMatrices()\l# DeleteMatrices()\l# ProfileProposeMove()\l# UpdateMatrices()\l}">
+<g id="a_node4"><a xlink:href="classMatrixProfileProcess.html" target="_top" target="_top" xlink:title="{MatrixProfileProcess\n||+ MatrixProfileProcess()\l+ ~MatrixProfileProcess()\l+ GetMatrix()\l# CreateMatrices()\l# DeleteMatrices()\l# ProfileProposeMove()\l# UpdateMatrices()\l}">
 <polygon fill="none" stroke="black" points="339.274,-1160.5 339.274,-1283.5 467.274,-1283.5 467.274,-1160.5 339.274,-1160.5"/>
 <text text-anchor="middle" x="403.274" y="-1271.5" font-family="Helvetica,sans-Serif" font-size="10.00">MatrixProfileProcess</text>
 <polyline fill="none" stroke="black" points="339.274,-1264.5 467.274,-1264.5 "/>
@@ -134,7 +134,7 @@
 </g>
 <!-- Node28 -->
 <g id="node16" class="node"><title>Node28</title>
-<g id="a_node16"><a xlink:href="classGTRProfileProcess.html" target="_top" xlink:title="{GTRProfileProcess\n||+ GTRProfileProcess()\l+ ~GTRProfileProcess()\l+ GetNrr()\l+ GetRR()\l+ GetRRMean()\l+ SetRR()\l+ GetRRVarCoeff()\l+ GetRREntropy()\l+ rrindex()\l# Create()\l# Delete()\l# LogRRPrior()\l# SampleRR()\l# UpdateRRSuffStat()\l# GlobalUpdateRRSuffStat()\l# SlaveUpdateRRSuffStat()\l# MoveRR()\l}">
+<g id="a_node16"><a xlink:href="classGTRProfileProcess.html" target="_top" target="_top" xlink:title="{GTRProfileProcess\n||+ GTRProfileProcess()\l+ ~GTRProfileProcess()\l+ GetNrr()\l+ GetRR()\l+ GetRRMean()\l+ SetRR()\l+ GetRRVarCoeff()\l+ GetRREntropy()\l+ rrindex()\l# Create()\l# Delete()\l# LogRRPrior()\l# SampleRR()\l# UpdateRRSuffStat()\l# GlobalUpdateRRSuffStat()\l# SlaveUpdateRRSuffStat()\l# MoveRR()\l}">
 <polygon fill="none" stroke="black" points="202.774,-659.5 202.774,-892.5 343.774,-892.5 343.774,-659.5 202.774,-659.5"/>
 <text text-anchor="middle" x="273.274" y="-880.5" font-family="Helvetica,sans-Serif" font-size="10.00">GTRProfileProcess</text>
 <polyline fill="none" stroke="black" points="202.774,-873.5 343.774,-873.5 "/>
@@ -167,7 +167,7 @@
 </g>
 <!-- Node17 -->
 <g id="node5" class="node"><title>Node17</title>
-<g id="a_node5"><a xlink:href="classProfileProcess.html" target="_top" xlink:title="{ProfileProcess\n||+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
+<g id="a_node5"><a xlink:href="classProfileProcess.html" target="_top" target="_top" xlink:title="{ProfileProcess\n||+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
 <polygon fill="none" stroke="black" points="590.274,-1590 590.274,-2021 762.274,-2021 762.274,-1590 590.274,-1590"/>
 <text text-anchor="middle" x="676.274" y="-2009" font-family="Helvetica,sans-Serif" font-size="10.00">ProfileProcess</text>
 <polyline fill="none" stroke="black" points="590.274,-2002 762.274,-2002 "/>
@@ -218,7 +218,7 @@
 </g>
 <!-- Node22 -->
 <g id="node10" class="node"><title>Node22</title>
-<g id="a_node10"><a xlink:href="classMixtureProfileProcess.html" target="_top" xlink:title="{MixtureProfileProcess\n||+ MixtureProfileProcess()\l+ ~MixtureProfileProcess()\l+ GetProfile()\l+ GetNcomponent()\l+ GetNDisplayedComponent()\l+ GetNOccupiedComponent()\l+ GetNmodeMax()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ GetStatEnt()\l+ GetStatEnt()\l+ GetCenterStatEnt()\l+ GetMeanDirWeight()\l+ RenormalizeProfiles()\l+ Move()\l+ MoveDirWeights()\l# UpdateModeProfileSuffStat()\l# ProfileSuffStatLogProb()\l# LogStatProb()\l# ProfileSuffStatLogProb()\l# Create()\l# Delete()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# UpdateComponents()\l# GetAllocEntropy()\l# AddSite()\l# RemoveSite()\l# SampleProfile()\l# SampleHyper()\l# SampleAlloc()\l# SampleStat()\l# SampleStat()\l# SampleStat()\l# UpdateOccupancyNumbers()\l# ResampleEmptyProfiles()\l# LogProfilePrior()\l# LogHyperPrior()\l# LogAllocPrior()\l# LogStatPrior()\l# LogStatPrior()\l# SwapComponents()\l}">
+<g id="a_node10"><a xlink:href="classMixtureProfileProcess.html" target="_top" target="_top" xlink:title="{MixtureProfileProcess\n||+ MixtureProfileProcess()\l+ ~MixtureProfileProcess()\l+ GetProfile()\l+ GetNcomponent()\l+ GetNDisplayedComponent()\l+ GetNOccupiedComponent()\l+ GetNmodeMax()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ GetStatEnt()\l+ GetStatEnt()\l+ GetCenterStatEnt()\l+ GetMeanDirWeight()\l+ RenormalizeProfiles()\l+ Move()\l+ MoveDirWeights()\l# UpdateModeProfileSuffStat()\l# ProfileSuffStatLogProb()\l# LogStatProb()\l# ProfileSuffStatLogProb()\l# Create()\l# Delete()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# UpdateComponents()\l# GetAllocEntropy()\l# AddSite()\l# RemoveSite()\l# SampleProfile()\l# SampleHyper()\l# SampleAlloc()\l# SampleStat()\l# SampleStat()\l# SampleStat()\l# UpdateOccupancyNumbers()\l# ResampleEmptyProfiles()\l# LogProfilePrior()\l# LogHyperPrior()\l# LogAllocPrior()\l# LogStatPrior()\l# LogStatPrior()\l# SwapComponents()\l}">
 <polygon fill="none" stroke="black" points="545.274,-962.5 545.274,-1481.5 697.274,-1481.5 697.274,-962.5 545.274,-962.5"/>
 <text text-anchor="middle" x="621.274" y="-1469.5" font-family="Helvetica,sans-Serif" font-size="10.00">MixtureProfileProcess</text>
 <polyline fill="none" stroke="black" points="545.274,-1462.5 697.274,-1462.5 "/>
@@ -277,7 +277,7 @@
 </g>
 <!-- Node18 -->
 <g id="node6" class="node"><title>Node18</title>
-<g id="a_node6"><a xlink:href="classChrono.html" target="_top" xlink:title="{Chrono\n||+ Chrono()\l+ ~Chrono()\l+ Reset()\l+ Start()\l+ Stop()\l+ ToStream()\l+ FromStream()\l+ operator++()\l+ GetTime()\l+ GetTimePerCount()\l+ GetCount()\l}">
+<g id="a_node6"><a xlink:href="classChrono.html" target="_top" target="_top" xlink:title="{Chrono\n||+ Chrono()\l+ ~Chrono()\l+ Reset()\l+ Start()\l+ Stop()\l+ ToStream()\l+ FromStream()\l+ operator++()\l+ GetTime()\l+ GetTimePerCount()\l+ GetCount()\l}">
 <polygon fill="none" stroke="black" points="949.274,-2151.5 949.274,-2318.5 1059.27,-2318.5 1059.27,-2151.5 949.274,-2151.5"/>
 <text text-anchor="middle" x="1004.27" y="-2306.5" font-family="Helvetica,sans-Serif" font-size="10.00">Chrono</text>
 <polyline fill="none" stroke="black" points="949.274,-2299.5 1059.27,-2299.5 "/>
@@ -340,7 +340,7 @@
 </g>
 <!-- Node23 -->
 <g id="node11" class="node"><title>Node23</title>
-<g id="a_node11"><a xlink:href="classSubMatrix.html" target="_top" xlink:title="{SubMatrix\n||+ SubMatrix()\l+ ~SubMatrix()\l+ Create()\l+ operator()()\l+ GetRow()\l+ GetStationary()\l+ Stationary()\l+ GetNstate()\l+ GetRate()\l+ ScalarMul()\l+ isNormalised()\l+ Normalise()\l+ CorruptMatrix()\l+ UpdateMatrix()\l+ ActivatePowers()\l+ InactivatePowers()\l+ Power()\l+ GetUniformizationMu()\l+ GetEigenVal()\l+ GetEigenVect()\l+ GetInvEigenVect()\l+ GetFiniteTimeTransitionProb()\l+ DrawUniformizedTransition()\l+ DrawUniformizedSubstitution\lNumber()\l+ DrawOneStep()\l+ ToStream()\l+ CheckReversibility()\l+ GetDiagStat()\l+ GetUniSubCount()\l+ GetMeanUni()\l# ComputeExponential()\l# ComputeArray()\l# ComputeStationary()\l# UpdateRow()\l# UpdateStationary()\l# ComputePowers()\l# CreatePowers()\l# ArrayUpdated()\l# Diagonalise()\l}">
+<g id="a_node11"><a xlink:href="classSubMatrix.html" target="_top" target="_top" xlink:title="{SubMatrix\n||+ SubMatrix()\l+ ~SubMatrix()\l+ Create()\l+ operator()()\l+ GetRow()\l+ GetStationary()\l+ Stationary()\l+ GetNstate()\l+ GetRate()\l+ ScalarMul()\l+ isNormalised()\l+ Normalise()\l+ CorruptMatrix()\l+ UpdateMatrix()\l+ ActivatePowers()\l+ InactivatePowers()\l+ Power()\l+ GetUniformizationMu()\l+ GetEigenVal()\l+ GetEigenVect()\l+ GetInvEigenVect()\l+ GetFiniteTimeTransitionProb()\l+ DrawUniformizedTransition()\l+ DrawUniformizedSubstitution\lNumber()\l+ DrawOneStep()\l+ ToStream()\l+ CheckReversibility()\l+ GetDiagStat()\l+ GetUniSubCount()\l+ GetMeanUni()\l# ComputeExponential()\l# ComputeArray()\l# ComputeStationary()\l# UpdateRow()\l# UpdateStationary()\l# ComputePowers()\l# CreatePowers()\l# ArrayUpdated()\l# Diagonalise()\l}">
 <polygon fill="none" stroke="black" points="378.274,-1562.5 378.274,-2048.5 534.274,-2048.5 534.274,-1562.5 378.274,-1562.5"/>
 <text text-anchor="middle" x="456.274" y="-2036.5" font-family="Helvetica,sans-Serif" font-size="10.00">SubMatrix</text>
 <polyline fill="none" stroke="black" points="378.274,-2029.5 534.274,-2029.5 "/>
@@ -400,7 +400,7 @@
 </g>
 <!-- Node24 -->
 <g id="node12" class="node"><title>Node24</title>
-<g id="a_node12"><a xlink:href="classFiniteProfileProcess.html" target="_top" xlink:title="{FiniteProfileProcess\n||+ FiniteProfileProcess()\l+ ~FiniteProfileProcess()\l+ GetLogNPrior()\l+ SetFixedNcomponent()\l# DrawProfileFromPrior()\l# ReadStatFix()\l# SetStatFix()\l# IncrementalFiniteMove()\l# MoveHyper()\l# MoveWeightAlpha()\l# MoveNcomponent()\l# ResampleWeights()\l# Create()\l# Create()\l# Delete()\l# SampleAlloc()\l# SampleStat()\l# SampleHyper()\l# SampleWeights()\l# LogHyperPrior()\l# LogWeightPrior()\l}">
+<g id="a_node12"><a xlink:href="classFiniteProfileProcess.html" target="_top" target="_top" xlink:title="{FiniteProfileProcess\n||+ FiniteProfileProcess()\l+ ~FiniteProfileProcess()\l+ GetLogNPrior()\l+ SetFixedNcomponent()\l# DrawProfileFromPrior()\l# ReadStatFix()\l# SetStatFix()\l# IncrementalFiniteMove()\l# MoveHyper()\l# MoveWeightAlpha()\l# MoveNcomponent()\l# ResampleWeights()\l# Create()\l# Create()\l# Delete()\l# SampleAlloc()\l# SampleStat()\l# SampleHyper()\l# SampleWeights()\l# LogHyperPrior()\l# LogWeightPrior()\l}">
 <polygon fill="none" stroke="black" points="769.274,-637.5 769.274,-914.5 899.274,-914.5 899.274,-637.5 769.274,-637.5"/>
 <text text-anchor="middle" x="834.274" y="-902.5" font-family="Helvetica,sans-Serif" font-size="10.00">FiniteProfileProcess</text>
 <polyline fill="none" stroke="black" points="769.274,-895.5 899.274,-895.5 "/>
@@ -441,7 +441,7 @@
 </g>
 <!-- Node26 -->
 <g id="node14" class="node"><title>Node26</title>
-<g id="a_node14"><a xlink:href="classExpoConjugateGTRMixtureProfileProcess.html" target="_top" xlink:title="{ExpoConjugateGTRMixtureProfile\lProcess\n||+ ExpoConjugateGTRMixtureProfile\lProcess()\l+ ~ExpoConjugateGTRMixture\lProfileProcess()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# ProfileSuffStatLogProb()\l# SwapComponents()\l# LogStatProb()\l# Create()\l# Delete()\l# UpdateModeProfileSuffStat()\l# PoissonDiffLogSampling()\l}">
+<g id="a_node14"><a xlink:href="classExpoConjugateGTRMixtureProfileProcess.html" target="_top" target="_top" xlink:title="{ExpoConjugateGTRMixtureProfile\lProcess\n||+ ExpoConjugateGTRMixtureProfile\lProcess()\l+ ~ExpoConjugateGTRMixture\lProfileProcess()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# ProfileSuffStatLogProb()\l# SwapComponents()\l# LogStatProb()\l# Create()\l# Delete()\l# UpdateModeProfileSuffStat()\l# PoissonDiffLogSampling()\l}">
 <polygon fill="none" stroke="black" points="353.774,-205.5 353.774,-416.5 526.774,-416.5 526.774,-205.5 353.774,-205.5"/>
 <text text-anchor="start" x="361.774" y="-404.5" font-family="Helvetica,sans-Serif" font-size="10.00">ExpoConjugateGTRMixtureProfile</text>
 <text text-anchor="middle" x="440.274" y="-393.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -479,7 +479,7 @@
 </g>
 <!-- Node29 -->
 <g id="node17" class="node"><title>Node29</title>
-<g id="a_node17"><a xlink:href="classExpoConjugateGTRProfileProcess.html" target="_top" xlink:title="{ExpoConjugateGTRProfileProcess\n||+ ExpoConjugateGTRProfileProcess()\l+ ~ExpoConjugateGTRProfile\lProcess()\l+ Create()\l+ Delete()\l+ GetSiteProfileSuffStatCount()\l+ GetSiteProfileSuffStatBeta()\l+ MoveRR()\l}">
+<g id="a_node17"><a xlink:href="classExpoConjugateGTRProfileProcess.html" target="_top" target="_top" xlink:title="{ExpoConjugateGTRProfileProcess\n||+ ExpoConjugateGTRProfileProcess()\l+ ~ExpoConjugateGTRProfile\lProcess()\l+ Create()\l+ Delete()\l+ GetSiteProfileSuffStatCount()\l+ GetSiteProfileSuffStatBeta()\l+ MoveRR()\l}">
 <polygon fill="none" stroke="black" points="348.774,-460 348.774,-594 531.774,-594 531.774,-460 348.774,-460"/>
 <text text-anchor="middle" x="440.274" y="-582" font-family="Helvetica,sans-Serif" font-size="10.00">ExpoConjugateGTRProfileProcess</text>
 <polyline fill="none" stroke="black" points="348.774,-575 531.774,-575 "/>

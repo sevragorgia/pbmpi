@@ -1,28 +1,3 @@
 <map id="GeneralPathSuffStatMatrixMixtureProfileProcess.h" name="GeneralPathSuffStatMatrixMixtureProfileProcess.h">
-<area shape="rect" id="node2" href="$AACodonMutSelFiniteProfileProcess_8h.html" title="AACodonMutSelFiniteProfile\lProcess.h" alt="" coords="82,95,270,136"/>
-<area shape="rect" id="node9" href="$AACodonMutSelSBDPProfileProcess_8h.html" title="AACodonMutSelSBDPProfile\lProcess.h" alt="" coords="333,95,526,136"/>
-<area shape="rect" id="node13" href="$CodonMutSelFiniteProfileProcess_8h.html" title="CodonMutSelFiniteProfile\lProcess.h" alt="" coords="568,95,739,136"/>
-<area shape="rect" id="node17" href="$CodonMutSelSBDPProfileProcess_8h.html" title="CodonMutSelSBDPProfileProcess.h" alt="" coords="763,102,997,129"/>
-<area shape="rect" id="node21" href="$GeneralPathSuffStatGTRDPProfileProcess_8h.html" title="GeneralPathSuffStatGTRDPProfile\lProcess.h" alt="" coords="1021,95,1248,136"/>
-<area shape="rect" id="node23" href="$GeneralPathSuffStatGTRFiniteProfileProcess_8h.html" title="GeneralPathSuffStatGTRFinite\lProfileProcess.h" alt="" coords="1272,95,1475,136"/>
-<area shape="rect" id="node25" href="$GeneralPathSuffStatGTRSBDPProfileProcess_8h.html" title="GeneralPathSuffStatGTRSBDPProfile\lProcess.h" alt="" coords="1499,95,1743,136"/>
-<area shape="rect" id="node27" href="$GeneralPathSuffStatMatrixMixtureProfileProcess_8cpp.html" title="GeneralPathSuffStatMatrix\lMixtureProfileProcess.cpp" alt="" coords="1768,95,1947,136"/>
-<area shape="rect" id="node3" href="$AACodonMutSelFiniteSubstitutionProcess_8h.html" title="AACodonMutSelFiniteSubstitution\lProcess.h" alt="" coords="50,184,270,225"/>
-<area shape="rect" id="node4" href="$AACodonMutSelFinitePhyloProcess_8h.html" title="AACodonMutSelFinitePhylo\lProcess.h" alt="" coords="67,273,251,315"/>
-<area shape="rect" id="node5" href="$AACodonMutSelFinitePhyloProcess_8cpp.html" title="AACodonMutSelFinitePhylo\lProcess.cpp" alt="" coords="5,363,189,404"/>
-<area shape="rect" id="node6" href="$Model_8h.html" title="Model.h" alt="" coords="501,370,569,397"/>
-<area shape="rect" id="node7" href="$PB_8cpp.html" title="PB.cpp" alt="" coords="449,452,514,479"/>
-<area shape="rect" id="node8" href="$ReadPB_8cpp.html" title="ReadPB.cpp" alt="" coords="539,452,635,479"/>
-<area shape="rect" id="node10" href="$AACodonMutSelSBDPSubstitutionProcess_8h.html" title="AACodonMutSelSBDPSubstitution\lProcess.h" alt="" coords="301,184,526,225"/>
-<area shape="rect" id="node11" href="$AACodonMutSelSBDPPhyloProcess_8h.html" title="AACodonMutSelSBDPPhyloProcess.h" alt="" coords="275,281,523,307"/>
-<area shape="rect" id="node12" href="$AACodonMutSelSBDPPhyloProcess_8cpp.html" title="AACodonMutSelSBDPPhyloProcess.cpp" alt="" coords="214,370,477,397"/>
-<area shape="rect" id="node14" href="$CodonMutSelFiniteSubstitutionProcess_8h.html" title="CodonMutSelFiniteSubstitution\lProcess.h" alt="" coords="555,184,757,225"/>
-<area shape="rect" id="node15" href="$CodonMutSelFinitePhyloProcess_8h.html" title="CodonMutSelFinitePhyloProcess.h" alt="" coords="546,281,771,307"/>
-<area shape="rect" id="node16" href="$CodonMutSelFinitePhyloProcess_8cpp.html" title="CodonMutSelFinitePhyloProcess.cpp" alt="" coords="593,370,831,397"/>
-<area shape="rect" id="node18" href="$CodonMutSelSBDPSubstitutionProcess_8h.html" title="CodonMutSelSBDPSubstitution\lProcess.h" alt="" coords="787,184,994,225"/>
-<area shape="rect" id="node19" href="$CodonMutSelSBDPPhyloProcess_8h.html" title="CodonMutSelSBDPPhyloProcess.h" alt="" coords="795,281,1026,307"/>
-<area shape="rect" id="node20" href="$CodonMutSelSBDPPhyloProcess_8cpp.html" title="CodonMutSelSBDPPhyloProcess.cpp" alt="" coords="855,370,1099,397"/>
-<area shape="rect" id="node22" href="$GeneralPathSuffStatGTRDPProfileProcess_8cpp.html" title="GeneralPathSuffStatGTRDPProfile\lProcess.cpp" alt="" coords="1021,184,1248,225"/>
-<area shape="rect" id="node24" href="$GeneralPathSuffStatGTRFiniteProfileProcess_8cpp.html" title="GeneralPathSuffStatGTRFinite\lProfileProcess.cpp" alt="" coords="1272,184,1475,225"/>
-<area shape="rect" id="node26" href="$GeneralPathSuffStatGTRSBDPProfileProcess_8cpp.html" title="GeneralPathSuffStatGTRSBDPProfile\lProcess.cpp" alt="" coords="1499,184,1743,225"/>
+<area shape="rect" id="node2" href="$GeneralPathSuffStatMatrixMixtureProfileProcess_8cpp.html" title="GeneralPathSuffStatMatrix\lMixtureProfileProcess.cpp" alt="" coords="5,95,184,136"/>
 </map>

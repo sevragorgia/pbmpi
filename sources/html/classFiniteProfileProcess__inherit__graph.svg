@@ -47,7 +47,7 @@
 </g>
 <!-- Node3 -->
 <g id="node4" class="node"><title>Node3</title>
-<g id="a_node4"><a xlink:href="classMatrixFiniteProfileProcess.html" target="_top" xlink:title="{MatrixFiniteProfileProcess\n||+ MatrixFiniteProfileProcess()\l+ ~MatrixFiniteProfileProcess()\l# Create()\l# Create()\l# Delete()\l# GlobalIncrementalFiniteMove()\l# SlaveIncrementalFiniteMove()\l# IncrementalFiniteMove()\l}">
+<g id="a_node4"><a xlink:href="classMatrixFiniteProfileProcess.html" target="_top" target="_top" xlink:title="{MatrixFiniteProfileProcess\n||+ MatrixFiniteProfileProcess()\l+ ~MatrixFiniteProfileProcess()\l# Create()\l# Create()\l# Delete()\l# GlobalIncrementalFiniteMove()\l# SlaveIncrementalFiniteMove()\l# IncrementalFiniteMove()\l}">
 <polygon fill="none" stroke="black" points="378,-1146 378,-1280 536,-1280 536,-1146 378,-1146"/>
 <text text-anchor="middle" x="457" y="-1268" font-family="Helvetica,sans-Serif" font-size="10.00">MatrixFiniteProfileProcess</text>
 <polyline fill="none" stroke="black" points="378,-1261 536,-1261 "/>
@@ -71,7 +71,7 @@
 </g>
 <!-- Node14 -->
 <g id="node15" class="node"><title>Node14</title>
-<g id="a_node15"><a xlink:href="classPoissonFiniteProfileProcess.html" target="_top" xlink:title="{PoissonFiniteProfileProcess\n||+ PoissonFiniteProfileProcess()\l+ ~PoissonFiniteProfileProcess()\l+ Move()\l+ ToStream()\l+ FromStream()\l# Create()\l# Create()\l# Delete()\l# IncrementalFiniteMove()\l# GlobalIncrementalFiniteMove()\l# SlaveIncrementalFiniteMove()\l}">
+<g id="a_node15"><a xlink:href="classPoissonFiniteProfileProcess.html" target="_top" target="_top" xlink:title="{PoissonFiniteProfileProcess\n||+ PoissonFiniteProfileProcess()\l+ ~PoissonFiniteProfileProcess()\l+ Move()\l+ ToStream()\l+ FromStream()\l# Create()\l# Create()\l# Delete()\l# IncrementalFiniteMove()\l# GlobalIncrementalFiniteMove()\l# SlaveIncrementalFiniteMove()\l}">
 <polygon fill="none" stroke="black" points="646.5,-1129.5 646.5,-1296.5 807.5,-1296.5 807.5,-1129.5 646.5,-1129.5"/>
 <text text-anchor="middle" x="727" y="-1284.5" font-family="Helvetica,sans-Serif" font-size="10.00">PoissonFiniteProfileProcess</text>
 <polyline fill="none" stroke="black" points="646.5,-1277.5 807.5,-1277.5 "/>
@@ -98,7 +98,7 @@
 </g>
 <!-- Node1 -->
 <g id="node2" class="node"><title>Node1</title>
-<g id="a_node2"><a xlink:href="classMixtureProfileProcess.html" target="_top" xlink:title="{MixtureProfileProcess\n|# profile\l# allocprofile\l# dirweight\l# alloc\l# occupancy\l# Ncomponent\l# logstatprior\l# profilesuffstatlogprob\l|+ MixtureProfileProcess()\l+ ~MixtureProfileProcess()\l+ GetProfile()\l+ GetNcomponent()\l+ GetNDisplayedComponent()\l+ GetNOccupiedComponent()\l+ GetNmodeMax()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ GetStatEnt()\l+ GetStatEnt()\l+ GetCenterStatEnt()\l+ GetMeanDirWeight()\l+ RenormalizeProfiles()\l+ Move()\l+ MoveDirWeights()\l# UpdateModeProfileSuffStat()\l# ProfileSuffStatLogProb()\l# LogStatProb()\l# ProfileSuffStatLogProb()\l# Create()\l# Delete()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# UpdateComponents()\l# GetAllocEntropy()\l# AddSite()\l# RemoveSite()\l# SampleProfile()\l# SampleHyper()\l# SampleAlloc()\l# SampleStat()\l# SampleStat()\l# SampleStat()\l# UpdateOccupancyNumbers()\l# ResampleEmptyProfiles()\l# LogProfilePrior()\l# LogHyperPrior()\l# LogAllocPrior()\l# LogStatPrior()\l# LogStatPrior()\l# SwapComponents()\l}">
+<g id="a_node2"><a xlink:href="classMixtureProfileProcess.html" target="_top" target="_top" xlink:title="{MixtureProfileProcess\n|# profile\l# allocprofile\l# dirweight\l# alloc\l# occupancy\l# Ncomponent\l# logstatprior\l# profilesuffstatlogprob\l|+ MixtureProfileProcess()\l+ ~MixtureProfileProcess()\l+ GetProfile()\l+ GetNcomponent()\l+ GetNDisplayedComponent()\l+ GetNOccupiedComponent()\l+ GetNmodeMax()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ GetStatEnt()\l+ GetStatEnt()\l+ GetCenterStatEnt()\l+ GetMeanDirWeight()\l+ RenormalizeProfiles()\l+ Move()\l+ MoveDirWeights()\l# UpdateModeProfileSuffStat()\l# ProfileSuffStatLogProb()\l# LogStatProb()\l# ProfileSuffStatLogProb()\l# Create()\l# Delete()\l# CreateComponent()\l# DeleteComponent()\l# UpdateComponent()\l# UpdateComponents()\l# GetAllocEntropy()\l# AddSite()\l# RemoveSite()\l# SampleProfile()\l# SampleHyper()\l# SampleAlloc()\l# SampleStat()\l# SampleStat()\l# SampleStat()\l# UpdateOccupancyNumbers()\l# ResampleEmptyProfiles()\l# LogProfilePrior()\l# LogHyperPrior()\l# LogAllocPrior()\l# LogStatPrior()\l# LogStatPrior()\l# SwapComponents()\l}">
 <polygon fill="none" stroke="black" points="470,-1735.5 470,-2331.5 622,-2331.5 622,-1735.5 470,-1735.5"/>
 <text text-anchor="middle" x="546" y="-2319.5" font-family="Helvetica,sans-Serif" font-size="10.00">MixtureProfileProcess</text>
 <polyline fill="none" stroke="black" points="470,-2312.5 622,-2312.5 "/>
@@ -164,7 +164,7 @@
 </g>
 <!-- Node2 -->
 <g id="node3" class="node"><title>Node2</title>
-<g id="a_node3"><a xlink:href="classProfileProcess.html" target="_top" xlink:title="{ProfileProcess\n|# nsite\l# dim\l# activesuffstat\l# chronodp\l# chronostat\l# chronorr\l# burnin\l# statinfcount\l# totstatcount\l# mintotweight\l|+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
+<g id="a_node3"><a xlink:href="classProfileProcess.html" target="_top" target="_top" xlink:title="{ProfileProcess\n|# nsite\l# dim\l# activesuffstat\l# chronodp\l# chronostat\l# chronorr\l# burnin\l# statinfcount\l# totstatcount\l# mintotweight\l|+ ProfileProcess()\l+ ~ProfileProcess()\l+ GetVersion()\l+ GetStatInfCount()\l+ GetDim()\l+ GetNsite()\l+ GetProfile()\l+ GetStateSpace()\l+ LogProfilePrior()\l+ SampleProfile()\l+ GetMeanStationaryEntropy()\l+ GetSiteStationaryEntropy()\l+ UpdateSiteProfileSuffStat()\l+ GlobalUpdateSiteProfileSuffStat()\l+ SlaveUpdateSiteProfileSuffStat()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ ProfileSuffStatLogProb()\l+ ToStream()\l+ FromStream()\l+ SetBurnin()\l+ isObserved()\l+ GetMinStat()\l+ GetMinMinStat()\l# DrawProfileFromPrior()\l# GetNormalizationFactor()\l# Create()\l# Delete()\l# GetNprocs()\l# GetMyid()\l# GetSiteMin()\l# GetSiteMax()\l# GetEmpiricalFreq()\l# GetMinTotWeight()\l# SetMinTotWeight()\l}">
 <polygon fill="none" stroke="black" points="460,-2368.5 460,-2898.5 632,-2898.5 632,-2368.5 460,-2368.5"/>
 <text text-anchor="middle" x="546" y="-2886.5" font-family="Helvetica,sans-Serif" font-size="10.00">ProfileProcess</text>
 <polyline fill="none" stroke="black" points="460,-2879.5 632,-2879.5 "/>
@@ -224,7 +224,7 @@
 </g>
 <!-- Node4 -->
 <g id="node5" class="node"><title>Node4</title>
-<g id="a_node5"><a xlink:href="classAACodonMutSelFiniteProfileProcess.html" target="_top" xlink:title="{AACodonMutSelFiniteProfile\lProcess\n|# fixcodonprofile\l# fixomega\l|+ AACodonMutSelFiniteProfile\lProcess()\l+ ~AACodonMutSelFiniteProfile\lProcess()\l# Create()\l# Create()\l# Delete()\l# Move()\l# ToStream()\l# FromStream()\l# CreateMatrix()\l# UpdateMatrix()\l}">
+<g id="a_node5"><a xlink:href="classAACodonMutSelFiniteProfileProcess.html" target="_top" target="_top" xlink:title="{AACodonMutSelFiniteProfile\lProcess\n|# fixcodonprofile\l# fixomega\l|+ AACodonMutSelFiniteProfile\lProcess()\l+ ~AACodonMutSelFiniteProfile\lProcess()\l# Create()\l# Create()\l# Delete()\l# Move()\l# ToStream()\l# FromStream()\l# CreateMatrix()\l# UpdateMatrix()\l}">
 <polygon fill="none" stroke="black" points="24,-892.5 24,-1092.5 180,-1092.5 180,-892.5 24,-892.5"/>
 <text text-anchor="start" x="32" y="-1080.5" font-family="Helvetica,sans-Serif" font-size="10.00">AACodonMutSelFiniteProfile</text>
 <text text-anchor="middle" x="102" y="-1069.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -254,7 +254,7 @@
 </g>
 <!-- Node7 -->
 <g id="node8" class="node"><title>Node7</title>
-<g id="a_node8"><a xlink:href="classCodonMutSelFiniteProfileProcess.html" target="_top" xlink:title="{CodonMutSelFiniteProfile\lProcess\n||+ CodonMutSelFiniteProfile\lProcess()\l+ ~CodonMutSelFiniteProfile\lProcess()\l# Create()\l# Create()\l# Delete()\l# Move()\l# ToStream()\l# FromStream()\l# CreateMatrix()\l# UpdateMatrix()\l}">
+<g id="a_node8"><a xlink:href="classCodonMutSelFiniteProfileProcess.html" target="_top" target="_top" xlink:title="{CodonMutSelFiniteProfile\lProcess\n||+ CodonMutSelFiniteProfile\lProcess()\l+ ~CodonMutSelFiniteProfile\lProcess()\l# Create()\l# Create()\l# Delete()\l# Move()\l# ToStream()\l# FromStream()\l# CreateMatrix()\l# UpdateMatrix()\l}">
 <polygon fill="none" stroke="black" points="210.5,-898 210.5,-1087 353.5,-1087 353.5,-898 210.5,-898"/>
 <text text-anchor="start" x="218.5" y="-1075" font-family="Helvetica,sans-Serif" font-size="10.00">CodonMutSelFiniteProfile</text>
 <text text-anchor="middle" x="282" y="-1064" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -283,7 +283,7 @@
 </g>
 <!-- Node10 -->
 <g id="node11" class="node"><title>Node10</title>
-<g id="a_node11"><a xlink:href="classExpoConjugateGTRFiniteProfileProcess.html" target="_top" xlink:title="{ExpoConjugateGTRFiniteProfile\lProcess\n|# totchrono\l# profilechrono\l# incchrono\l|+ ExpoConjugateGTRFiniteProfile\lProcess()\l+ ~ExpoConjugateGTRFiniteProfile\lProcess()\l+ Move()\l+ ToStream()\l+ FromStream()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node11"><a xlink:href="classExpoConjugateGTRFiniteProfileProcess.html" target="_top" target="_top" xlink:title="{ExpoConjugateGTRFiniteProfile\lProcess\n|# totchrono\l# profilechrono\l# incchrono\l|+ ExpoConjugateGTRFiniteProfile\lProcess()\l+ ~ExpoConjugateGTRFiniteProfile\lProcess()\l+ Move()\l+ ToStream()\l+ FromStream()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="371.5,-898 371.5,-1087 542.5,-1087 542.5,-898 371.5,-898"/>
 <text text-anchor="start" x="379.5" y="-1075" font-family="Helvetica,sans-Serif" font-size="10.00">ExpoConjugateGTRFiniteProfile</text>
 <text text-anchor="middle" x="457" y="-1064" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -312,7 +312,7 @@
 </g>
 <!-- Node13 -->
 <g id="node14" class="node"><title>Node13</title>
-<g id="a_node14"><a xlink:href="classGeneralPathSuffStatGTRFiniteProfileProcess.html" target="_top" xlink:title="{GeneralPathSuffStatGTRFinite\lProfileProcess\n|# totchrono\l# profilechrono\l# incchrono\l|+ GeneralPathSuffStatGTRFinite\lProfileProcess()\l+ ~GeneralPathSuffStatGTRFinite\lProfileProcess()\l+ Move()\l+ ToStream()\l+ FromStream()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node14"><a xlink:href="classGeneralPathSuffStatGTRFiniteProfileProcess.html" target="_top" target="_top" xlink:title="{GeneralPathSuffStatGTRFinite\lProfileProcess\n|# totchrono\l# profilechrono\l# incchrono\l|+ GeneralPathSuffStatGTRFinite\lProfileProcess()\l+ ~GeneralPathSuffStatGTRFinite\lProfileProcess()\l+ Move()\l+ ToStream()\l+ FromStream()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="560.5,-898 560.5,-1087 727.5,-1087 727.5,-898 560.5,-898"/>
 <text text-anchor="start" x="568.5" y="-1075" font-family="Helvetica,sans-Serif" font-size="10.00">GeneralPathSuffStatGTRFinite</text>
 <text text-anchor="middle" x="644" y="-1064" font-family="Helvetica,sans-Serif" font-size="10.00">ProfileProcess</text>
@@ -341,7 +341,7 @@
 </g>
 <!-- Node5 -->
 <g id="node6" class="node"><title>Node5</title>
-<g id="a_node6"><a xlink:href="classAACodonMutSelFiniteSubstitutionProcess.html" target="_top" xlink:title="{AACodonMutSelFiniteSubstitution\lProcess\n||+ AACodonMutSelFiniteSubstitution\lProcess()\l+ ~AACodonMutSelFiniteSubstitution\lProcess()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node6"><a xlink:href="classAACodonMutSelFiniteSubstitutionProcess.html" target="_top" target="_top" xlink:title="{AACodonMutSelFiniteSubstitution\lProcess\n||+ AACodonMutSelFiniteSubstitution\lProcess()\l+ ~AACodonMutSelFiniteSubstitution\lProcess()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="0,-633.5 0,-767.5 180,-767.5 180,-633.5 0,-633.5"/>
 <text text-anchor="start" x="8" y="-755.5" font-family="Helvetica,sans-Serif" font-size="10.00">AACodonMutSelFiniteSubstitution</text>
 <text text-anchor="middle" x="90" y="-744.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -365,7 +365,7 @@
 </g>
 <!-- Node6 -->
 <g id="node7" class="node"><title>Node6</title>
-<g id="a_node7"><a xlink:href="classAACodonMutSelFinitePhyloProcess.html" target="_top" xlink:title="{AACodonMutSelFinitePhylo\lProcess\n|# dc\l# fixtopo\l# NSPR\l# NNNI\l# fixcodonprofile\l# fixomega\l# codetype\l# statespace\l# chronopruning\l# chronosuffstat\l# chronototal\l# chronocollapse\l# chronounfold\l|+ AACodonMutSelFinitePhylo\lProcess()\l+ AACodonMutSelFinitePhylo\lProcess()\l+ ~AACodonMutSelFinitePhylo\lProcess()\l+ SlaveExecute()\l+ SlaveComputeCVScore()\l+ SlaveUpdateParameters()\l+ GlobalUpdateParameters()\l+ GetLogProb()\l+ GetLogPrior()\l+ GetLogLikelihood()\l+ TraceHeader()\l+ Trace()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ ReadPB()\l+ Read()\l+ ReadMapStats()\l+ CountNonSynMapping()\l+ CountNonSynMapping()\l+ GlobalNonSynMapping()\l+ SlaveNonSynMapping()\l+ Move()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node7"><a xlink:href="classAACodonMutSelFinitePhyloProcess.html" target="_top" target="_top" xlink:title="{AACodonMutSelFinitePhylo\lProcess\n|# dc\l# fixtopo\l# NSPR\l# NNNI\l# fixcodonprofile\l# fixomega\l# codetype\l# statespace\l# chronopruning\l# chronosuffstat\l# chronototal\l# chronocollapse\l# chronounfold\l|+ AACodonMutSelFinitePhylo\lProcess()\l+ AACodonMutSelFinitePhylo\lProcess()\l+ ~AACodonMutSelFinitePhylo\lProcess()\l+ SlaveExecute()\l+ SlaveComputeCVScore()\l+ SlaveUpdateParameters()\l+ GlobalUpdateParameters()\l+ GetLogProb()\l+ GetLogPrior()\l+ GetLogLikelihood()\l+ TraceHeader()\l+ Trace()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ ReadPB()\l+ Read()\l+ ReadMapStats()\l+ CountNonSynMapping()\l+ CountNonSynMapping()\l+ GlobalNonSynMapping()\l+ SlaveNonSynMapping()\l+ Move()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="13.5,-0.5 13.5,-508.5 166.5,-508.5 166.5,-0.5 13.5,-0.5"/>
 <text text-anchor="start" x="21.5" y="-496.5" font-family="Helvetica,sans-Serif" font-size="10.00">AACodonMutSelFinitePhylo</text>
 <text text-anchor="middle" x="90" y="-485.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -423,7 +423,7 @@
 </g>
 <!-- Node8 -->
 <g id="node9" class="node"><title>Node8</title>
-<g id="a_node9"><a xlink:href="classCodonMutSelFiniteSubstitutionProcess.html" target="_top" xlink:title="{CodonMutSelFiniteSubstitution\lProcess\n||+ CodonMutSelFiniteSubstitution\lProcess()\l+ ~CodonMutSelFiniteSubstitution\lProcess()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node9"><a xlink:href="classCodonMutSelFiniteSubstitutionProcess.html" target="_top" target="_top" xlink:title="{CodonMutSelFiniteSubstitution\lProcess\n||+ CodonMutSelFiniteSubstitution\lProcess()\l+ ~CodonMutSelFiniteSubstitution\lProcess()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="198.5,-633.5 198.5,-767.5 365.5,-767.5 365.5,-633.5 198.5,-633.5"/>
 <text text-anchor="start" x="206.5" y="-755.5" font-family="Helvetica,sans-Serif" font-size="10.00">CodonMutSelFiniteSubstitution</text>
 <text text-anchor="middle" x="282" y="-744.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -447,7 +447,7 @@
 </g>
 <!-- Node9 -->
 <g id="node10" class="node"><title>Node9</title>
-<g id="a_node10"><a xlink:href="classCodonMutSelFinitePhyloProcess.html" target="_top" xlink:title="{CodonMutSelFinitePhyloProcess\n|# dc\l# fixtopo\l# NSPR\l# NNNI\l# codetype\l# statespace\l# chronopruning\l# chronosuffstat\l# chronototal\l# chronocollapse\l# chronounfold\l|+ CodonMutSelFinitePhyloProcess()\l+ CodonMutSelFinitePhyloProcess()\l+ ~CodonMutSelFinitePhyloProcess()\l+ SlaveExecute()\l+ SlaveUpdateParameters()\l+ GlobalUpdateParameters()\l+ GetLogProb()\l+ GetLogPrior()\l+ GetLogLikelihood()\l+ TraceHeader()\l+ Trace()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ ReadPB()\l+ Move()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node10"><a xlink:href="classCodonMutSelFinitePhyloProcess.html" target="_top" target="_top" xlink:title="{CodonMutSelFinitePhyloProcess\n|# dc\l# fixtopo\l# NSPR\l# NNNI\l# codetype\l# statespace\l# chronopruning\l# chronosuffstat\l# chronototal\l# chronocollapse\l# chronounfold\l|+ CodonMutSelFinitePhyloProcess()\l+ CodonMutSelFinitePhyloProcess()\l+ ~CodonMutSelFinitePhyloProcess()\l+ SlaveExecute()\l+ SlaveUpdateParameters()\l+ GlobalUpdateParameters()\l+ GetLogProb()\l+ GetLogPrior()\l+ GetLogLikelihood()\l+ TraceHeader()\l+ Trace()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ ReadPB()\l+ Move()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="190,-72 190,-437 372,-437 372,-72 190,-72"/>
 <text text-anchor="middle" x="281" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">CodonMutSelFinitePhyloProcess</text>
 <polyline fill="none" stroke="black" points="190,-418 372,-418 "/>
@@ -492,7 +492,7 @@
 </g>
 <!-- Node11 -->
 <g id="node12" class="node"><title>Node11</title>
-<g id="a_node12"><a xlink:href="classRASCATGTRSubstitutionProcess.html" target="_top" xlink:title="{RASCATGTRSubstitutionProcess\n||+ RASCATGTRSubstitutionProcess()\l+ ~RASCATGTRSubstitutionProcess()\l+ Create()\l+ Create()\l+ Delete()\l}">
+<g id="a_node12"><a xlink:href="classRASCATGTRSubstitutionProcess.html" target="_top" target="_top" xlink:title="{RASCATGTRSubstitutionProcess\n||+ RASCATGTRSubstitutionProcess()\l+ ~RASCATGTRSubstitutionProcess()\l+ Create()\l+ Create()\l+ Delete()\l}">
 <polygon fill="none" stroke="black" points="385,-650 385,-751 573,-751 573,-650 385,-650"/>
 <text text-anchor="middle" x="479" y="-739" font-family="Helvetica,sans-Serif" font-size="10.00">RASCATGTRSubstitutionProcess</text>
 <polyline fill="none" stroke="black" points="385,-732 573,-732 "/>
@@ -513,7 +513,7 @@
 </g>
 <!-- Node12 -->
 <g id="node13" class="node"><title>Node12</title>
-<g id="a_node13"><a xlink:href="classRASCATGTRFiniteGammaPhyloProcess.html" target="_top" xlink:title="{RASCATGTRFiniteGammaPhylo\lProcess\n|# fixtopo\l# NSPR\l# NNNI\l# dc\l|+ SlaveExecute()\l+ GlobalUpdateParameters()\l+ RASCATGTRFiniteGammaPhylo\lProcess()\l+ RASCATGTRFiniteGammaPhylo\lProcess()\l+ ~RASCATGTRFiniteGammaPhylo\lProcess()\l+ GetLogProb()\l+ GetLogPrior()\l+ GetLogLikelihood()\l+ SlaveUpdateParameters()\l+ TraceHeader()\l+ Trace()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ ReadPB()\l+ SlaveComputeCVScore()\l+ SlaveComputeSiteLogL()\l+ ReadRelRates()\l+ ReadSiteProfiles()\l# Create()\l# Delete()\l}">
+<g id="a_node13"><a xlink:href="classRASCATGTRFiniteGammaPhyloProcess.html" target="_top" target="_top" xlink:title="{RASCATGTRFiniteGammaPhylo\lProcess\n|# fixtopo\l# NSPR\l# NNNI\l# dc\l|+ SlaveExecute()\l+ GlobalUpdateParameters()\l+ RASCATGTRFiniteGammaPhylo\lProcess()\l+ RASCATGTRFiniteGammaPhylo\lProcess()\l+ ~RASCATGTRFiniteGammaPhylo\lProcess()\l+ GetLogProb()\l+ GetLogPrior()\l+ GetLogLikelihood()\l+ SlaveUpdateParameters()\l+ TraceHeader()\l+ Trace()\l+ Move()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ ReadPB()\l+ SlaveComputeCVScore()\l+ SlaveComputeSiteLogL()\l+ ReadRelRates()\l+ ReadSiteProfiles()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="390.5,-72 390.5,-437 567.5,-437 567.5,-72 390.5,-72"/>
 <text text-anchor="start" x="398.5" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">RASCATGTRFiniteGammaPhylo</text>
 <text text-anchor="middle" x="479" y="-414" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -558,7 +558,7 @@
 </g>
 <!-- Node15 -->
 <g id="node16" class="node"><title>Node15</title>
-<g id="a_node16"><a xlink:href="classRASCATFiniteSubstitutionProcess.html" target="_top" xlink:title="{RASCATFiniteSubstitution\lProcess\n||+ RASCATFiniteSubstitution\lProcess()\l+ ~RASCATFiniteSubstitution\lProcess()\l# Create()\l# Create()\l# Delete()\l}">
+<g id="a_node16"><a xlink:href="classRASCATFiniteSubstitutionProcess.html" target="_top" target="_top" xlink:title="{RASCATFiniteSubstitution\lProcess\n||+ RASCATFiniteSubstitution\lProcess()\l+ ~RASCATFiniteSubstitution\lProcess()\l# Create()\l# Create()\l# Delete()\l}">
 <polygon fill="none" stroke="black" points="745.5,-925.5 745.5,-1059.5 894.5,-1059.5 894.5,-925.5 745.5,-925.5"/>
 <text text-anchor="start" x="753.5" y="-1047.5" font-family="Helvetica,sans-Serif" font-size="10.00">RASCATFiniteSubstitution</text>
 <text text-anchor="middle" x="820" y="-1036.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process</text>
@@ -582,7 +582,7 @@
 </g>
 <!-- Node16 -->
 <g id="node17" class="node"><title>Node16</title>
-<g id="a_node17"><a xlink:href="classRASCATFiniteGammaPhyloProcess.html" target="_top" xlink:title="{RASCATFiniteGammaPhyloProcess\n|+ fixtopo\l+ NSPR\l+ NNNI\l+ dc\l|+ SlaveExecute()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ RASCATFiniteGammaPhyloProcess()\l+ RASCATFiniteGammaPhyloProcess()\l+ RASCATFiniteGammaPhyloProcess()\l+ ~RASCATFiniteGammaPhyloProcess()\l+ GetLogProb()\l+ GetLogPrior()\l+ GetLogLikelihood()\l+ TraceHeader()\l+ Trace()\l+ Move()\l+ ReadPB()\l+ SlaveComputeCVScore()\l+ SlaveComputeSiteLogL()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ Create()\l+ Delete()\l}">
+<g id="a_node17"><a xlink:href="classRASCATFiniteGammaPhyloProcess.html" target="_top" target="_top" xlink:title="{RASCATFiniteGammaPhyloProcess\n|+ fixtopo\l+ NSPR\l+ NNNI\l+ dc\l|+ SlaveExecute()\l+ GlobalUpdateParameters()\l+ SlaveUpdateParameters()\l+ RASCATFiniteGammaPhyloProcess()\l+ RASCATFiniteGammaPhyloProcess()\l+ RASCATFiniteGammaPhyloProcess()\l+ ~RASCATFiniteGammaPhyloProcess()\l+ GetLogProb()\l+ GetLogPrior()\l+ GetLogLikelihood()\l+ TraceHeader()\l+ Trace()\l+ Move()\l+ ReadPB()\l+ SlaveComputeCVScore()\l+ SlaveComputeSiteLogL()\l+ ToStreamHeader()\l+ ToStream()\l+ FromStream()\l+ Create()\l+ Delete()\l}">
 <polygon fill="none" stroke="black" points="721,-545.5 721,-855.5 919,-855.5 919,-545.5 721,-545.5"/>
 <text text-anchor="middle" x="820" y="-843.5" font-family="Helvetica,sans-Serif" font-size="10.00">RASCATFiniteGammaPhyloProcess</text>
 <polyline fill="none" stroke="black" points="721,-836.5 919,-836.5 "/>
