@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSequenceAlignment.html" title="SequenceAlignment" alt="" coords="5,81,144,108"/>
+<area shape="rect" id="node2" href="$classCodonSequenceAlignment.html" title="CodonSequenceAlignment" alt="" coords="193,5,369,32"/>
+<area shape="rect" id="node3" href="$classFileSequenceAlignment.html" title="FileSequenceAlignment" alt="" coords="202,56,361,83"/>
+<area shape="rect" id="node4" href="$classProteinSequenceAlignment.html" title="ProteinSequenceAlignment" alt="" coords="192,107,371,133"/>
+<area shape="rect" id="node5" href="$classZippedSequenceAlignment.html" title="ZippedSequenceAlignment" alt="" coords="193,157,370,184"/>
+</map>

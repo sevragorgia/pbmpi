@@ -1,0 +1,6 @@
+<map id="SimpleStateSpace" name="SimpleStateSpace">
+<area shape="rect" id="node3" href="$classDNAStateSpace.html" title="{DNAStateSpace\n||+ DNAStateSpace()\l+ ~DNAStateSpace()\l}" alt="" coords="5,417,152,509"/>
+<area shape="rect" id="node4" href="$classProteinStateSpace.html" title="{ProteinStateSpace\n||+ ProteinStateSpace()\l+ ~ProteinStateSpace()\l}" alt="" coords="177,417,335,509"/>
+<area shape="rect" id="node5" href="$classRNAStateSpace.html" title="{RNAStateSpace\n||+ RNAStateSpace()\l+ ~RNAStateSpace()\l}" alt="" coords="360,417,507,509"/>
+<area shape="rect" id="node2" href="$classStateSpace.html" title="{StateSpace\n||+ ~StateSpace()\l+ GetState()\l+ GetNstate()\l+ GetState()\l}" alt="" coords="197,5,315,127"/>
+</map>

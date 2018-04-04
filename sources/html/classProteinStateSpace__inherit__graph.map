@@ -1,0 +1,4 @@
+<map id="ProteinStateSpace" name="ProteinStateSpace">
+<area shape="rect" id="node2" href="$classSimpleStateSpace.html" title="{SimpleStateSpace\n|# Nstate\l# Alphabet\l# NAlphabetSet\l# AlphabetSet\l|+ SimpleStateSpace()\l+ SimpleStateSpace()\l+ GetState()\l+ GetNstate()\l+ GetState()\l+ GetCharState()\l}" alt="" coords="9,175,160,369"/>
+<area shape="rect" id="node3" href="$classStateSpace.html" title="{StateSpace\n||+ ~StateSpace()\l+ GetState()\l+ GetNstate()\l+ GetState()\l}" alt="" coords="25,5,144,127"/>
+</map>

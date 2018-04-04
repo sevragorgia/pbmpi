@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSubMatrix.html" title="SubMatrix" alt="" coords="5,101,87,128"/>
+<area shape="rect" id="node2" href="$classCodonSubMatrix.html" title="CodonSubMatrix" alt="" coords="135,69,253,96"/>
+<area shape="rect" id="node6" href="$classGTRSubMatrix.html" title="GTRSubMatrix" alt="" coords="139,132,249,159"/>
+<area shape="rect" id="node3" href="$classAACodonMutSelProfileSubMatrix.html" title="AACodonMutSelProfileSubMatrix" alt="" coords="301,5,516,32"/>
+<area shape="rect" id="node4" href="$classAAMutSelProfileSubMatrix.html" title="AAMutSelProfileSubMatrix" alt="" coords="320,56,497,83"/>
+<area shape="rect" id="node5" href="$classCodonMutSelProfileSubMatrix.html" title="CodonMutSelProfileSubMatrix" alt="" coords="310,107,507,133"/>
+<area shape="rect" id="node7" href="$classLGSubMatrix.html" title="LGSubMatrix" alt="" coords="359,157,458,184"/>
+</map>

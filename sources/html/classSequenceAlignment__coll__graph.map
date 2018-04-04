@@ -1,0 +1,4 @@
+<map id="SequenceAlignment" name="SequenceAlignment">
+<area shape="rect" id="node2" href="$classStateSpace.html" title="{StateSpace\n||+ ~StateSpace()\l+ GetState()\l+ GetNstate()\l+ GetState()\l}" alt="" coords="5,35,124,156"/>
+<area shape="rect" id="node3" href="$classTaxonSet.html" title="{TaxonSet\n||+ TaxonSet()\l+ TaxonSet()\l+ ~TaxonSet()\l+ GetNtaxa()\l+ GetTaxon()\l+ GetTaxonIndex()\l+ GetTaxonIndexWithIncompleteName()\l+ ToStream()\l}" alt="" coords="148,5,405,185"/>
+</map>

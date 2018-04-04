@@ -1,0 +1,3 @@
+<map id="Tree" name="Tree">
+<area shape="rect" id="node2" href="$classNewickTree.html" title="{NewickTree\n|# simplify\l|+ ~NewickTree()\l+ GetRoot()\l+ GetRoot()\l+ ToStream()\l+ ToStream()\l+ ToStreamSimplified()\l+ GetLeftMost()\l+ GetRightMost()\l+ GetNodeName()\l+ GetBranchName()\l+ Simplify()\l}" alt="" coords="20,5,176,229"/>
+</map>

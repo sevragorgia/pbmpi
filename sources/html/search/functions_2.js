@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['backup',['Backup',['../classBranchProcess.html#aff2be23f0431a2edbbdfd7e77fe5f716',1,'BranchProcess']]],
+  ['backwardfillmissingmap',['BackwardFillMissingMap',['../classPhyloProcess.html#abe7da31b5b8a1874937e08a925c98940',1,'PhyloProcess']]],
+  ['basicallocation',['BasicAllocation',['../classBipartitionList.html#a985c4c76ef89f43ab64be9b5b5cc9702',1,'BipartitionList']]],
+  ['bipartition',['Bipartition',['../classBipartition.html#aae747ff5034c03aab9e23e749c5a4645',1,'Bipartition::Bipartition(TaxaParameters *inParam)'],['../classBipartition.html#a4c235d6defa4140e5a666595ca28f694',1,'Bipartition::Bipartition(const Bipartition &amp;from)']]],
+  ['bipartitionlist',['BipartitionList',['../classBipartitionList.html#a250b18572c55cef61868eb371ea4ad67',1,'BipartitionList::BipartitionList(TreeList *inTreeList, double *probarray=0, double cutoff=0)'],['../classBipartitionList.html#a7fd8a920f513392cdc9d6905d044a351',1,'BipartitionList::BipartitionList(PBTree *tree, double weight=1)'],['../classBipartitionList.html#aaa37382f03ff8b9afe396b51ef0ef62c',1,'BipartitionList::BipartitionList(TaxaParameters *inParam)'],['../classBipartitionList.html#a4b7b2d6881865b13e6b86b6c3e30c020',1,'BipartitionList::BipartitionList(string FileName, int burnin=0, int every=1, int until=-1, double cutoff=0, bool rootonly=false)']]],
+  ['bipartitionpruning',['BipartitionPruning',['../classPBTree.html#afaf7e0fe377f0d5a145077dbc178815e',1,'PBTree::BipartitionPruning(BipartitionList *inList)'],['../classPBTree.html#a878cdc23f74aa41635ef43e708a05013',1,'PBTree::BipartitionPruning(BooleanBipartitionList *inList)'],['../classPolyNode.html#a2308e10065e29d57b48ad4611e4a14bb',1,'PolyNode::BipartitionPruning()']]],
+  ['bipartitionpruningwithsupports',['BipartitionPruningWithSupports',['../classPolyNode.html#a0cf1451f8af9093c3039c7b14f2729d2',1,'PolyNode']]],
+  ['bpcompare',['BPCompare',['../BipartitionList_8cpp.html#a929b4d4530044e47a4c1e40364f4a64e',1,'BPCompare(string *ChainName, int P, string reftreename, int burnin, int every, int until, int ps, int verbose, int mergeallbp, string OutFile, double cutoff, double conscutoff, bool rootonly, bool bench):&#160;BipartitionList.cpp'],['../BipartitionList_8h.html#ac77a8d5b48ee75ed08f8948588743655',1,'BPCompare(string *ChainName, int P, string reftreename, int burnin, int every, int until, int ps, int verbose, int mergeallbp, string OutFile, double cutoff, double conscutoff, bool rootonly=false, bool bench=false):&#160;BipartitionList.cpp']]],
+  ['branch',['Branch',['../classBranch.html#a69807434e069dd3f3ae54f5519679c9d',1,'Branch::Branch()'],['../classBranch.html#a27e521ecefbc5322320aa23d6929143a',1,'Branch::Branch(string s)'],['../classBranch.html#a48e65a5a4e18242f3c50249a49f1fdf1',1,'Branch::Branch(const Branch *from)']]],
+  ['branchlength',['BranchLength',['../classBranchLength.html#a66032ca9e790ca6bbe19ee31c5d5b416',1,'BranchLength']]],
+  ['branchlengthmove',['BranchLengthMove',['../classPhyloProcess.html#a7924a483d0a1821dda8532928d311136',1,'PhyloProcess']]],
+  ['branchmatrixpathconjugatetree',['BranchMatrixPathConjugateTree',['../classBranchMatrixPathConjugateTree.html#ae80798aca1e733d1b8cded2abab7e190',1,'BranchMatrixPathConjugateTree']]],
+  ['branchprocess',['BranchProcess',['../classBranchProcess.html#a82852a2b3e70dbb5b3d3a08f7b6fe0a0',1,'BranchProcess']]],
+  ['branchsimulate',['BranchSimulate',['../classSimulator.html#a44fef88ebf61ca0153451c919507903b',1,'Simulator']]],
+  ['branchsitepath',['BranchSitePath',['../classBranchSitePath.html#a18be5bb510cc705e667607ebda00575b',1,'BranchSitePath::BranchSitePath(int incount, int instate)'],['../classBranchSitePath.html#aa9fee7a104150edf507e94d87c3617e7',1,'BranchSitePath::BranchSitePath(int instate=-1)']]]
+];

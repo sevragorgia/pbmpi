@@ -1,0 +1,5 @@
+<map id="Tree" name="Tree">
+<area shape="rect" id="node2" href="$classNewickTree.html" title="{NewickTree\n||+ ~NewickTree()\l+ GetRoot()\l+ GetRoot()\l+ ToStream()\l+ ToStream()\l+ ToStreamSimplified()\l+ GetLeftMost()\l+ GetRightMost()\l+ GetNodeName()\l+ GetBranchName()\l+ Simplify()\l}" alt="" coords="5,226,161,450"/>
+<area shape="rect" id="node5" href="$classTaxonSet.html" title="{TaxonSet\n||+ TaxonSet()\l+ TaxonSet()\l+ ~TaxonSet()\l+ GetNtaxa()\l+ GetTaxon()\l+ GetTaxonIndex()\l+ GetTaxonIndexWithIncompleteName()\l+ ToStream()\l}" alt="" coords="379,248,636,428"/>
+<area shape="rect" id="node8" href="$classLink.html" title="{Link\n||+ Link()\l+ Link()\l+ Next()\l+ Out()\l+ GetBranch()\l+ GetNode()\l+ SetBranch()\l+ SetNode()\l+ GetNodeLeafSet()\l+ SetIndex()\l+ GetIndex()\l+ SetOut()\l+ SetNext()\l+ AppendTo()\l+ Insert()\l+ InsertOut()\l+ Knit()\l+ isLeaf()\l+ isUnary()\l+ isRoot()\l+ GetDegree()\l+ GetUp()\l}" alt="" coords="874,145,1013,531"/>
+</map>

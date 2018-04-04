@@ -1,0 +1,6 @@
+<map id="SequenceAlignment" name="SequenceAlignment">
+<area shape="rect" id="node2" href="$classCodonSequenceAlignment.html" title="{CodonSequenceAlignment\n||+ CodonSequenceAlignment()\l+ CodonSequenceAlignment()\l+ ~CodonSequenceAlignment()\l+ DeleteAAConstantSites()\l+ GetTotalDiversity()\l+ Nucleotide123Compositional\lHeterogeneity()\l+ NucleotideCompositionalHeterogeneity()\l+ AminoAcidCompositionalHeterogeneity()\l+ GetCodonStateSpace()\l+ ToStream()\l}" alt="" coords="5,761,275,985"/>
+<area shape="rect" id="node3" href="$classFileSequenceAlignment.html" title="{FileSequenceAlignment\n||+ FileSequenceAlignment()\l+ FileSequenceAlignment()\l}" alt="" coords="299,827,477,919"/>
+<area shape="rect" id="node4" href="$classProteinSequenceAlignment.html" title="{ProteinSequenceAlignment\n||+ ProteinSequenceAlignment()\l}" alt="" coords="502,835,701,912"/>
+<area shape="rect" id="node5" href="$classZippedSequenceAlignment.html" title="{ZippedSequenceAlignment\n||+ ZippedSequenceAlignment()\l+ ~ZippedSequenceAlignment()\l+ GetTemplate()\l+ GetZipSize()\l+ GetOrbitSize()\l+ GetStateFromZip()\l+ InOrbit()\l}" alt="" coords="725,791,931,956"/>
+</map>

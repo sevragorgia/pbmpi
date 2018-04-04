@@ -1,0 +1,3 @@
+<map id="AmphiNode" name="AmphiNode">
+<area shape="rect" id="node2" href="$classNode.html" title="{Node\n|+ up\l+ left\l+ right\l+ label\l+ branchLength\l|+ _init()\l+ Node()\l+ ~Node()\l+ isRoot()\l+ isLeaf()\l+ swap()\l+ upToRight()\l+ upToLeft()\l+ rootAt()\l+ rootAt2()\l+ getSize()\l+ getFullSize()\l+ getLength()\l+ Phylip()\l+ PhylipWithBranchLengths()\l+ PhylipWithBranchLengthsAnd\lSpeciesNames()\l+ PhylipWithSpeciesNames()\l+ Node()\l+ Node()\l+ Node()\l+ ~Node()\l+ GetName()\l+ SetName()\l+ GetIndex()\l+ SetIndex()\l}" alt="" coords="5,5,212,508"/>
+</map>

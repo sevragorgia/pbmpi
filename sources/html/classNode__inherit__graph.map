@@ -1,0 +1,3 @@
+<map id="Node" name="Node">
+<area shape="rect" id="node2" href="$classAmphiNode.html" title="{AmphiNode\n|+ next\l+ prev\l+ height\l|+ AmphiNode()\l+ ~AmphiNode()\l+ order()\l+ orderWithoutHeight()\l+ computeHeight()\l+ deepest()\l+ highest()\l+ computeLengths()\l+ makeTree()\l}" alt="" coords="31,556,186,780"/>
+</map>

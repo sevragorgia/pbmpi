@@ -1,0 +1,4 @@
+<map id="BranchMatrixPathConjugateTree" name="BranchMatrixPathConjugateTree">
+<area shape="rect" id="node2" href="$classPathConjugateTree.html" title="{PathConjugateTree\n|# lengthtree\l# data\l|+ PathConjugateTree()\l+ ~PathConjugateTree()\l+ GetLengthTree()\l+ GetData()\l+ GetTree()\l+ ActivateSufficientStatistic()\l+ InactivateSufficientStatistic()\l+ PrintSynNonSyn()\l+ PrintSuffStat()\l+ GetLogProb()\l+ ReadFromFile()\l# RecursiveGetLogProb()\l# RecursiveAddSuffStatFrom\lStream()\l# RecursivePrintSuffStat()\l# RecursivePrintSynNonSyn()\l# GetPathConjugate()\l# ActivateSufficientStatistic()\l# InactivateSufficientStatistic()\l}" alt="" coords="23,131,226,487"/>
+<area shape="rect" id="node3" href="$classBranchValPtrTree.html" title="{BranchValPtrTree\&lt; PathConjugate \&gt;\n||}" alt="" coords="7,5,242,83"/>
+</map>

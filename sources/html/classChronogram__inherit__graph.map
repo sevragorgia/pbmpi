@@ -1,0 +1,4 @@
+<map id="Chronogram" name="Chronogram">
+<area shape="rect" id="node2" href="$classNodeBranchProcess.html" title="{NodeBranchProcess\&lt;\l PosReal, PosReal \&gt;\n||+ val()\l+ val()\l+ setval()\l+ setval()\l+ drawSample()\l+ GetLogProb()\l+ GetLogProb()\l}" alt="" coords="75,389,226,569"/>
+<area shape="rect" id="node5" href="$classNodeBranchProcess.html" title="{NodeBranchProcess\&lt;\l U, V \&gt;\n||+ val()\l+ setval()\l+ val()\l+ setval()\l+ drawSample()\l+ GetLogProb()\l+ GetLogProb()\l}" alt="" coords="75,147,226,327"/>
+</map>

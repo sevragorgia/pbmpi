@@ -1,0 +1,4 @@
+<map id="DNAStateSpace" name="DNAStateSpace">
+<area shape="rect" id="node2" href="$classSimpleStateSpace.html" title="{SimpleStateSpace\n||+ SimpleStateSpace()\l+ SimpleStateSpace()\l+ GetState()\l+ GetNstate()\l+ GetState()\l+ GetCharState()\l}" alt="" coords="92,204,243,355"/>
+<area shape="rect" id="node3" href="$classStateSpace.html" title="{StateSpace\n||+ ~StateSpace()\l+ GetState()\l+ GetNstate()\l+ GetState()\l}" alt="" coords="5,5,124,127"/>
+</map>
