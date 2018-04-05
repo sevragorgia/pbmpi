@@ -1,7 +1,7 @@
 var searchData=
 [
   ['inactivatepowers',['InactivatePowers',['../classSubMatrix.html#a7c85051412e08e3402ecd7695db8bc4b',1,'SubMatrix']]],
-  ['inactivatesumoverrateallocations',['InactivateSumOverRateAllocations',['../classDGamRateProcess.html#a21ff2ec6616ddbdbdfefababa1b0c2a1',1,'DGamRateProcess::InactivateSumOverRateAllocations()'],['../classRateProcess.html#a96370f065069dd068edfb2b9b4c9143a',1,'RateProcess::InactivateSumOverRateAllocations()'],['../classUniformRateProcess.html#a4e7fb6fe6cad7e73783177ccd9a3af70',1,'UniformRateProcess::InactivateSumOverRateAllocations()']]],
+  ['inactivatesumoverrateallocations',['InactivateSumOverRateAllocations',['../classDGamRateProcess.html#a21ff2ec6616ddbdbdfefababa1b0c2a1',1,'DGamRateProcess::InactivateSumOverRateAllocations()'],['../classRateProcess.html#a96370f065069dd068edfb2b9b4c9143a',1,'RateProcess::InactivateSumOverRateAllocations()']]],
   ['incchrono',['incchrono',['../classExpoConjugateGTRSBDPProfileProcess.html#a9acebe3463a8021c0ea1c5ea2f2fa669',1,'ExpoConjugateGTRSBDPProfileProcess']]],
   ['incinit',['incinit',['../classModel.html#a0e1407d7c6844fe420c84f07fc28154e',1,'Model']]],
   ['incompletegamma',['IncompleteGamma',['../IncompleteGamma_8h.html#a8c5a652d9438a7fe7a701fa5021befea',1,'IncompleteGamma.h']]],

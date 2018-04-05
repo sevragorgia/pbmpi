@@ -84,7 +84,7 @@ var searchData=
   ['movebranchbeta',['MoveBranchBeta',['../classGammaBranchProcess.html#a247a06d2c6746200472dc9ca5a9ed9a5',1,'GammaBranchProcess']]],
   ['movedirweights',['MoveDirWeights',['../classMixtureProfileProcess.html#a7bcd3dc2dbed0c9e80508a6942463141',1,'MixtureProfileProcess']]],
   ['movehyper',['MoveHyper',['../classDPProfileProcess.html#a3e2e8f27575d089617d18e4c680f6c23',1,'DPProfileProcess']]],
-  ['movekappa',['movekappa',['../classDPProfileProcess.html#a8acbf2961d30efb70690048ba48a6b6a',1,'DPProfileProcess::movekappa()'],['../classDPProfileProcess.html#acf5d7e352fb319189436c1aab68c1e8e',1,'DPProfileProcess::MoveKappa(double tuning, int nrep)'],['../classSBDPProfileProcess.html#a947941ec9210fd11796defadf9d3a262',1,'SBDPProfileProcess::MoveKappa()']]],
+  ['movekappa',['MoveKappa',['../classDPProfileProcess.html#acf5d7e352fb319189436c1aab68c1e8e',1,'DPProfileProcess::MoveKappa()'],['../classSBDPProfileProcess.html#a947941ec9210fd11796defadf9d3a262',1,'SBDPProfileProcess::MoveKappa()'],['../classDPProfileProcess.html#a8acbf2961d30efb70690048ba48a6b6a',1,'DPProfileProcess::movekappa()']]],
   ['movelength',['MoveLength',['../classGammaBranchProcess.html#a04e0a95a16a0ecc0ea262cebc81d36db',1,'GammaBranchProcess']]],
   ['moveoccupiedcompalloc',['MoveOccupiedCompAlloc',['../classSBDPProfileProcess.html#aa1e63f4c2e1134f58c7a6e895a8d7177',1,'SBDPProfileProcess']]],
   ['moveprofile',['MoveProfile',['../classMatrixMixtureProfileProcess.html#aa2045dfa0c25cabc6a917de382a0893d',1,'MatrixMixtureProfileProcess::MoveProfile(double tuning=1, int n=1, int nrep=1)'],['../classMatrixMixtureProfileProcess.html#ad5726228de903ad61aa473ee794bd206',1,'MatrixMixtureProfileProcess::MoveProfile(int cat, double tuning, int n, int nrep)']]],

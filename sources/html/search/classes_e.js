@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['uniformrateprocess',['UniformRateProcess',['../classUniformRateProcess.html',1,'']]]
+  ['zippedsequencealignment',['ZippedSequenceAlignment',['../classZippedSequenceAlignment.html',1,'']]]
 ];

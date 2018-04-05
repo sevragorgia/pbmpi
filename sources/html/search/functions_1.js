@@ -1,7 +1,7 @@
 var searchData=
 [
   ['activatepowers',['ActivatePowers',['../classSubMatrix.html#a893d2cfae481cef7feb9647380ee0396',1,'SubMatrix']]],
-  ['activatesumoverrateallocations',['ActivateSumOverRateAllocations',['../classDGamRateProcess.html#a400f7e648005f3dfc754870d6e4b2aec',1,'DGamRateProcess::ActivateSumOverRateAllocations()'],['../classRateProcess.html#a91eff4c31a6e8574d88e33bfb95c8118',1,'RateProcess::ActivateSumOverRateAllocations()'],['../classUniformRateProcess.html#a7024822efcf784523f54f641cf42ae08',1,'UniformRateProcess::ActivateSumOverRateAllocations()']]],
+  ['activatesumoverrateallocations',['ActivateSumOverRateAllocations',['../classDGamRateProcess.html#a400f7e648005f3dfc754870d6e4b2aec',1,'DGamRateProcess::ActivateSumOverRateAllocations()'],['../classRateProcess.html#a91eff4c31a6e8574d88e33bfb95c8118',1,'RateProcess::ActivateSumOverRateAllocations()']]],
   ['addbranchlengthsuffstat',['AddBranchLengthSuffStat',['../classExpoConjugateGTRSubstitutionProcess.html#a3c37d9a9d59363038abd0d4719db9b1c',1,'ExpoConjugateGTRSubstitutionProcess::AddBranchLengthSuffStat()'],['../classGeneralPathSuffStatMatrixSubstitutionProcess.html#a3717446657a352886593fdc6f02ae400',1,'GeneralPathSuffStatMatrixSubstitutionProcess::AddBranchLengthSuffStat()']]],
   ['addgeneralpathratesuffstat',['AddGeneralPathRateSuffStat',['../classBranchSitePath.html#afc65335d0ad6eac3748729f91367dced',1,'BranchSitePath']]],
   ['addgeneralpathsuffstat',['AddGeneralPathSuffStat',['../classBranchSitePath.html#a99bd99bf1ca1c2f530ebc678436433dc',1,'BranchSitePath']]],

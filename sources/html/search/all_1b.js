@@ -56,6 +56,5 @@ var searchData=
   ['_7etaxonset',['~TaxonSet',['../classTaxonSet.html#aae282c0a41d3294fe48ebfd78bbf0f42',1,'TaxonSet']]],
   ['_7etree',['~Tree',['../classTree.html#abdc38545cf3f588725b5d8b8075b3866',1,'Tree']]],
   ['_7etreelist',['~TreeList',['../classTreeList.html#a0bdc7a9fdc1533ad9a62ea9711a547fb',1,'TreeList']]],
-  ['_7euniformrateprocess',['~UniformRateProcess',['../classUniformRateProcess.html#a099019d78d4deeffbc113c21e0841c15',1,'UniformRateProcess']]],
   ['_7ezippedsequencealignment',['~ZippedSequenceAlignment',['../classZippedSequenceAlignment.html#a3394f7c7dc8658b07c608d45ee87fb27',1,'ZippedSequenceAlignment']]]
 ];

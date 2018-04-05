@@ -1,7 +1,7 @@
 var searchData=
 [
   ['inactivatepowers',['InactivatePowers',['../classSubMatrix.html#a7c85051412e08e3402ecd7695db8bc4b',1,'SubMatrix']]],
-  ['inactivatesumoverrateallocations',['InactivateSumOverRateAllocations',['../classDGamRateProcess.html#a21ff2ec6616ddbdbdfefababa1b0c2a1',1,'DGamRateProcess::InactivateSumOverRateAllocations()'],['../classRateProcess.html#a96370f065069dd068edfb2b9b4c9143a',1,'RateProcess::InactivateSumOverRateAllocations()'],['../classUniformRateProcess.html#a4e7fb6fe6cad7e73783177ccd9a3af70',1,'UniformRateProcess::InactivateSumOverRateAllocations()']]],
+  ['inactivatesumoverrateallocations',['InactivateSumOverRateAllocations',['../classDGamRateProcess.html#a21ff2ec6616ddbdbdfefababa1b0c2a1',1,'DGamRateProcess::InactivateSumOverRateAllocations()'],['../classRateProcess.html#a96370f065069dd068edfb2b9b4c9143a',1,'RateProcess::InactivateSumOverRateAllocations()']]],
   ['incompletegamma',['IncompleteGamma',['../IncompleteGamma_8h.html#a8c5a652d9438a7fe7a701fa5021befea',1,'IncompleteGamma.h']]],
   ['incrementaldpmove',['IncrementalDPMove',['../classDPProfileProcess.html#a6026d04cdd0eef1ab51e7996d3e199dd',1,'DPProfileProcess::IncrementalDPMove()'],['../classMatrixSBDPProfileProcess.html#a473a66a2329915afd30944257d84a1bc',1,'MatrixSBDPProfileProcess::IncrementalDPMove()'],['../classSBDPProfileProcess.html#aee81625025a399370cefa038f42d8258',1,'SBDPProfileProcess::IncrementalDPMove(int nrep, double epsilon)=0'],['../classSBDPProfileProcess.html#ac07ad71ec20aab2b3438657c347935b5',1,'SBDPProfileProcess::IncrementalDPMove(int nrep)']]],
   ['incrementalsamplealloc',['IncrementalSampleAlloc',['../classSBDPProfileProcess.html#a28d15d4f19d26c648ce9d8059c346a1a',1,'SBDPProfileProcess']]],
