@@ -257,6 +257,7 @@ void SubstitutionProcess::Offset(double*** t, bool condalloc)	{
 //	(CPU level 2)
 //-------------------------------------------------------------------------
 
+//sevra: this method will ultimately called at the root and yield the likelihood of the topology.
 double SubstitutionProcess::ComputeLikelihood(double*** aux, bool condalloc)	{
 
 	for (int i=sitemin; i<sitemax; i++)	{
