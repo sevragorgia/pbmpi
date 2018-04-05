@@ -140,11 +140,16 @@ double GeneralPathSuffStatMatrixMixtureProfileProcess::LogStatProb(int site, int
 	return total;
 }
 
-
+/* sevra: I think this method is called at some point to add a site to a category.
+ * What I don't know, is whether this method will be call during the run, or only at the beginning to allocate sites to different categories. 
+ */
 void GeneralPathSuffStatMatrixMixtureProfileProcess::AddSite(int site, int cat)	{
 	alloc[site] = cat;
 	occupancy[cat] ++;
-		
+    
+    //sevra
+    cout << "adding site: " << site << "to category " << cat << ".\n";
+    
 	/*
 	if (activesuffstat)	{
 		profilerootcount[cat][GetSiteRootState(site)]++;
