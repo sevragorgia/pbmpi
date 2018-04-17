@@ -104,6 +104,11 @@ double GammaBranchProcess::LogHyperPrior()	{
 	// return -branchalpha - 10.0*branchbeta ; // + 2 * log(branchbeta);
 }
 
+/*sevra:
+ 
+ update branch lengths?
+ 
+ */
 double GammaBranchProcess::Move(double tuning, int nrep)	{
 	double total = MoveLength();
 	total += MoveBranchBeta(tuning,nrep);

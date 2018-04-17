@@ -108,6 +108,8 @@ Tree::Tree(const TaxonSet* intaxset)	{
 //sevra: method to make a tree
 void Tree::MakeRandomTree()	{
 
+  cout << "making the tree\n";
+  
 	int Ntaxa = taxset->GetNtaxa();
 	int* included = new int[Ntaxa];
 	for (int i=0; i<Ntaxa; i++)	{
@@ -335,6 +337,9 @@ void Tree::EraseInternalNodeName(Link * from)	{
 }
 
 void Tree::RegisterWith(const TaxonSet* intaxset,int myid)	{
+  
+  cout << "Registering tree\n";
+  
 	taxset = intaxset;
 	int tot = 0;
 	if(!RegisterWith(taxset,GetRoot(),tot)){

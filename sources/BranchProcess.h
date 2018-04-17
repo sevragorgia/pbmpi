@@ -95,6 +95,7 @@ class BranchProcess : public NewickTree {
   //sevra: set the initial branch lengths.
 	void SetLengthsFromNames()	{
 		if (blarray)	{
+      cout << "Setting Lengths from names\n";
 			RecursiveSetLengthsFromNames(GetRoot());
 		}
 		else	{

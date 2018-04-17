@@ -79,7 +79,7 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 		codetype = incodetype;
 		dc = indc;
 		kappaprior = inkappaprior;
-        dirweightprior = indirweightprior;
+    dirweightprior = indirweightprior;
 		SetMinTotWeight(inmintotweight);
 
 		datafile = indatafile;
@@ -281,7 +281,11 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 
 		propchrono.Start();
 		if (! fixbl)	{
-      //sevra: branchlengthmove is in PhyloProcess
+      /*sevra: branchlengthmove is in PhyloProcess
+       
+       why moving two times? this involves calculating lots of likelihoods, I guess.
+       
+       */
       cout << "Adjusting branch lenghts " << tuning << "\n";
 			BranchLengthMove(tuning);
 			cout << "Adjusting branch lenghts " << 0.1*tuning << "\n";
@@ -294,7 +298,13 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 		}
 		propchrono.Stop();
 
-		
+		/*do something five times...
+     
+     I guess this is the category moving part...
+     
+     and again is doing things two or three times with different tuning params...
+     
+     */
 		for (int rep=0; rep<5; rep++)	{
       
       //sevra:
@@ -303,6 +313,11 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 			GlobalCollapse();
 
 			if (! fixbl)	{
+        /*
+         sevra
+         update the branch lengths?
+         */
+        
 				GammaBranchProcess::Move(tuning,10);
 				GammaBranchProcess::Move(0.1*tuning,10);
 			}

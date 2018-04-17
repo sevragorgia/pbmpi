@@ -166,22 +166,40 @@ double BranchProcess::RecursiveTotalLength(const Link* from)	{
 	return total;
 }
 
-/*sevra: this set the length of the branches?
-
-there is something really fucked up here... names are not set in this code, thus all branches will be 1e-10...*/
+/*sevra: this set the length of the branches?*/
 void BranchProcess::RecursiveSetLengthsFromNames(const Link* from)	{
 	if (! from->isRoot())	{
+    
+    /*sevra: this was the original code
+    
 		double l = atof(from->GetBranch()->GetName().c_str());
+		
+		I wonder whether should be rather be:
+    double l = atof(from->GetNode()->GetName().c_str());
+     
+     also, apparently atof will only result in a number if the text passed as an argument is a number.
+     As a result, all branches get the same length 1e-10 after this method is called.
+    
+    I guess this method set the branch lengths when importing a tree from a file.
+    
+     */
+    
+    double l = atof(from->GetBranch()->GetName().c_str());
+    
+    cout << "attempting to set branch length: " << l << ", for branch " << from->GetBranch()->GetName() << "\n";
+    
     
     if (l > 0){
-      cout << "attempting to set branch length: " << l << "for branch " << from->GetBranch()->GetName() << "\n";
+      cout << "+l\n";
     }
     
 		if (l < 0)	{
+      cout << "-l\n";
 			cerr << "error in BranchProcess::SetLengthsFromFile : negative branch length: " << l << '\n';
 			exit(1);
 		}
 		if (l == 0)	{
+      cout << "0=l\n";
       //sevra. All branches are set to this value for some strange reason... maybe change it to be sampled from a distribution?
 			l = 1e-10;
 			// cerr << "warning: null branch length\n";
