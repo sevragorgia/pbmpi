@@ -280,9 +280,12 @@ class Model	{
 
 	double Move(double tuning, int nrep)	{
 		double total = 0;
+    //sevra
+    cout << "in Move 1 " << nrep << "\n";
 		for (int rep=0; rep<nrep; rep++)	{
 			total += process->Move(tuning);
 		}
+		cout << total/nrep << "\n";
 		return total / nrep;
 	}
 
@@ -318,6 +321,8 @@ class Model	{
 				process->SetBurnin(false);
 			}
 
+			//sevra
+			cout << "in Run\n";
 			Move(1,every);
 			
 			process->IncSize();

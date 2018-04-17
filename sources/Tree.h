@@ -50,7 +50,6 @@ class Branch {
 	string name;
 
 	public:
-
 	Branch() : index(0) , name("") {}
 	Branch(string s) : index(0) , name(s) {}
 	Branch(const Branch* from) : index(from->index), name(from->name) {}

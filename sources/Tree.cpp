@@ -105,6 +105,7 @@ Tree::Tree(const TaxonSet* intaxset)	{
 
 }
 
+//sevra: method to make a tree
 void Tree::MakeRandomTree()	{
 
 	int Ntaxa = taxset->GetNtaxa();

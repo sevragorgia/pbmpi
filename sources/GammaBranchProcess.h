@@ -52,6 +52,7 @@ class GammaBranchProcess : public virtual BranchProcess	{
 
 	protected:
 
+    //sevra: branch lenghts?
 	virtual void Create(Tree* intree, double inalpha = 1, double inbeta = 10)	{
 		BranchProcess::Create(intree);
 		branchalpha = inalpha;

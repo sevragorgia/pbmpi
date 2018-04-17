@@ -67,8 +67,13 @@ void BranchProcess::MoveBranch(const Branch* branch, double m)	{
 		cerr << "error in branchprocess::Movebranch: null branch\n";
 		exit(1);
 	}
+	
 	int index = branch->GetIndex();
-	bkarray[index] = blarray[index];
+	
+  //sevra: this is the method that is called to update branch lengths
+	cout << "proposing bl move for branch " << index << ", m=" << m << ", " << exp(m) << "\n"; 
+	
+  bkarray[index] = blarray[index];
 	blarray[index] *= exp(m);
 }
 
@@ -78,9 +83,17 @@ double BranchProcess::ProposeMove(const Branch* branch, double tuning)	{
 		cerr << "error in branchprocess::Movebranch: null branch\n";
 		exit(1);
 	}
+	
+	//sevra: I think branches are updated here.
+	cout << "proposing bl move: ";
+  
 	int index = branch->GetIndex();
 	bkarray[index] = blarray[index];
 	double m = tuning * (rnd::GetRandom().Uniform() - 0.5);
+  
+  //sevra
+  cout << "m,  " << exp(m) << "\n";
+  
 	blarray[index] *= exp(m);
 	return m;
 }
@@ -153,14 +166,23 @@ double BranchProcess::RecursiveTotalLength(const Link* from)	{
 	return total;
 }
 
+/*sevra: this set the length of the branches?
+
+there is something really fucked up here... names are not set in this code, thus all branches will be 1e-10...*/
 void BranchProcess::RecursiveSetLengthsFromNames(const Link* from)	{
 	if (! from->isRoot())	{
 		double l = atof(from->GetBranch()->GetName().c_str());
+    
+    if (l > 0){
+      cout << "attempting to set branch length: " << l << "for branch " << from->GetBranch()->GetName() << "\n";
+    }
+    
 		if (l < 0)	{
 			cerr << "error in BranchProcess::SetLengthsFromFile : negative branch length: " << l << '\n';
 			exit(1);
 		}
 		if (l == 0)	{
+      //sevra. All branches are set to this value for some strange reason... maybe change it to be sampled from a distribution?
 			l = 1e-10;
 			// cerr << "warning: null branch length\n";
 		}
@@ -171,12 +193,16 @@ void BranchProcess::RecursiveSetLengthsFromNames(const Link* from)	{
 			exit(1);
 		}
 		*/
+    
+    //cout << "setting branch " << from->GetBranch()->GetIndex() << ", " << l << "\n";
+    
 		SetLength(from->GetBranch(),l);
 	}
 	for (const Link* link=from->Next(); link!=from; link=link->Next())	{
 		RecursiveSetLengthsFromNames(link->Out());
 	}
 }
+
 
 void BranchProcess::RecursiveSetNamesFromLengths(const Link* from)	{
 

@@ -388,6 +388,8 @@ void PhyloProcess::SampleSubstitutionMappings(const Link* from)	{
 }
 
 // MPI master functions
+
+/* sevra: moves on branch lenghts*/
 double PhyloProcess::BranchLengthMove(double tuning)	{
 
 	// uses condlmap[0] as auxiliary variable
@@ -448,6 +450,9 @@ double PhyloProcess::LocalBranchLengthMove(const Link* from, double tuning)	{
 
 	double currentloglikelihood = logL;
 	double currentlogprior = LogBranchLengthPrior(from->GetBranch());
+  
+  //sevra: this method is, likely, the one yielding the new branch length
+  cout << "LocalBranchLengthMove: " << tuning << "\n";
 	double loghastings = GlobalProposeMove(from->GetBranch(),tuning);
 	// double loghastings = ProposeMove(from->GetBranch(),tuning);
 
@@ -459,8 +464,15 @@ double PhyloProcess::LocalBranchLengthMove(const Link* from, double tuning)	{
 	double newlogprior = LogBranchLengthPrior(from->GetBranch());
 	double delta = newlogprior + newloglikelihood - currentlogprior - currentloglikelihood + loghastings;
 	
+  //sevra
+  
+  cout << "bl delta = " << delta << "\n";
+  
 	int accepted = (log(rnd::GetRandom().Uniform()) < delta);
 	if (!accepted)	{
+    //sevra
+    cout << "BL move rejected\n";
+    
 		GlobalRestore(from->GetBranch());
 		// Restore(from->GetBranch());
 		GlobalPropagate(0,from,GetLength(from->GetBranch()));
@@ -469,7 +481,11 @@ double PhyloProcess::LocalBranchLengthMove(const Link* from, double tuning)	{
 		// ComputeNodeLikelihood(from);
 		// not useful: done by ComputeNodeLikelihood(from) just above
 		// logL = currentloglikelihood;
-	}
+	}else{//sevra
+  
+    cout << "BL move accepted\n";
+    
+  }
 	return (double) accepted;
 }
 
@@ -1426,6 +1442,9 @@ double PhyloProcess::GlobalProposeMove(const Branch* branch, double tuning)	{
 	args.time = m;
 	args.condalloc = branch->GetIndex();
 	MPI_Bcast(&args,1,Propagate_arg,0,MPI_COMM_WORLD);
+  
+  //sevra: this moves the branch? method in BranchProcess?
+  cout << "in GlobalProposeMove " << m << "\n";
 	MoveBranch(branch,m);
 	return m;
 }

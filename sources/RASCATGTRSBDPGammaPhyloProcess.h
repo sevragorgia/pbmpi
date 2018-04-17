@@ -61,11 +61,11 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 
 	using MixtureProfileProcess::LogStatPrior;
 
-        virtual void SlaveExecute(MESSAGE);
+  virtual void SlaveExecute(MESSAGE);
 	void GlobalUpdateParameters();
 	void SlaveUpdateParameters();
 
-
+  //constructor
 	RASCATGTRSBDPGammaPhyloProcess(string indatafile, string treefile, int nratecat, int iniscodon, GeneticCodeType incodetype, string inrrtype, int infixtopo, int inNSPR, int inNNNI, int inkappaprior, double indirweightprior, double inmintotweight, int indc, int incinit, int me, int np)	{
 		myid = me;
 		nprocs = np;
@@ -93,11 +93,14 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 		else	{
 			plaindata = new FileSequenceAlignment(datafile,0,myid);
 		}
+		
 		if (dc)	{
 			plaindata->DeleteConstantSites();
 		}
+		
 		const TaxonSet* taxonset = plaindata->GetTaxonSet();
 		if (treefile == "None")	{
+      //sevra: create new tree
 			tree = new Tree(taxonset);
 			if (myid == 0)	{
 				tree->MakeRandomTree();
@@ -270,21 +273,33 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 	}
 
 	double Move(double tuning = 1.0)	{
+    
+    //sevra
+    cout << "in Move 2\n";
 
 		chronototal.Start();
 
 		propchrono.Start();
 		if (! fixbl)	{
+      //sevra: branchlengthmove is in PhyloProcess
+      cout << "Adjusting branch lenghts " << tuning << "\n";
 			BranchLengthMove(tuning);
-			BranchLengthMove(0.1 * tuning);
+			cout << "Adjusting branch lenghts " << 0.1*tuning << "\n";
+      BranchLengthMove(0.1 * tuning);
 		}
 		if (! fixtopo)	{
+			//sevra
+      cout << "Adjusting topology\n";
 			MoveTopo(NSPR,NNNI);
 		}
 		propchrono.Stop();
 
 		
 		for (int rep=0; rep<5; rep++)	{
+      
+      //sevra:
+      cout << "here\n";
+      
 			GlobalCollapse();
 
 			if (! fixbl)	{
@@ -299,10 +314,11 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 
 			GlobalUpdateParameters();
 			ExpoConjugateGTRSBDPProfileProcess::Move(1,1,2);
+      /* sevra
 			if (iscodon){
 				ExpoConjugateGTRSBDPProfileProcess::Move(0.1,1,3);
 				ExpoConjugateGTRSBDPProfileProcess::Move(0.01,1,3);
-			}
+			}*/
 			GlobalUpdateParameters();
 
 			if ((! fixrr) && (! fixbl)){
@@ -357,6 +373,7 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 
 	protected:
 
+    //sevra: here are the branch lenghts defined?
 	virtual void Create(Tree* intree, SequenceAlignment* indata, int ncat, string inrrtype, int insitemin,int insitemax)	{
 		ExpoConjugateGTRPhyloProcess::Create(intree,indata,indata->GetNstate(),insitemin,insitemax);
 		RASCATGTRSBDPSubstitutionProcess::Create(indata->GetNsite(),ncat,indata->GetNstate(),inrrtype,insitemin,insitemax);

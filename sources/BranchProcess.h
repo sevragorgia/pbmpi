@@ -40,6 +40,8 @@ class BranchProcess : public NewickTree {
 
 	double GetLength(const Branch* branch) {return branch ? blarray[branch->GetIndex()] : 0;}
 	double GetLength(const Branch* branch) const {return branch ? blarray[branch->GetIndex()] : 0;}
+	
+	//sevra: set the branch length
 	void SetLength(const Branch* branch, double inlength) {
 		if (! branch)	{
 			cerr << "error in branch process: null branch\n";
@@ -90,6 +92,7 @@ class BranchProcess : public NewickTree {
 	
 	double RecursiveTotalLength(const Link* from);
 
+  //sevra: set the initial branch lengths.
 	void SetLengthsFromNames()	{
 		if (blarray)	{
 			RecursiveSetLengthsFromNames(GetRoot());
@@ -157,6 +160,7 @@ class BranchProcess : public NewickTree {
 		return tree->GetNlink();
 	}
 
+	//sevra: set branch lengths
 	virtual void Create(Tree* intree) {
 		tree = intree;
 		blarray = new double[GetNbranch()];

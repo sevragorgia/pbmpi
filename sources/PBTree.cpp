@@ -35,6 +35,7 @@ void PBTree::FinishCreation()	{
 }
 
 void PBTree::SetNames()	{
+  cout << "@@@@@ in SetNames\n";
 	if (! mParam)	{
 		cerr << "error in PBTree:SetNames\n";
 		exit(1);
