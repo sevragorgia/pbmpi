@@ -453,6 +453,7 @@ double PhyloProcess::LocalBranchLengthMove(const Link* from, double tuning)	{
   
   //sevra: this method is, likely, the one yielding the new branch length
   cout << "LocalBranchLengthMove: " << tuning << "\n";
+  
 	double loghastings = GlobalProposeMove(from->GetBranch(),tuning);
 	// double loghastings = ProposeMove(from->GetBranch(),tuning);
 
@@ -565,18 +566,38 @@ double PhyloProcess::LocalNonMPIBranchLengthMove(const Link* from, double tuning
 	return (double) accepted;
 }
 
+
+/*sevra
+ * update the topology.
+ */
 double PhyloProcess::MoveTopo(int spr, int nni){
 	double success = 0;
-
+  //sevra
+  cout << "Moving the topology " << spr << ", " << nni << "\n";
+  
+  cout << size << " " << topoburnin << "\n";
+  
 	if (size >= topoburnin)	{
+    
+    /*sevra
+     * SPR
+     */
+    
+    cout << "Starting SPR\n";
 		success += GibbsSPR(spr);
+    
 		for(int i=0; i<nni; i++){
-			success += GibbsNNI(0.1,1);
+      /* sevra
+       * NNI*/      
+      
+      cout << "Doing NNI\n";
+      success += GibbsNNI(0.1,1);
 		}
 	}
 	return success;
 }
 
+//sevra
 double PhyloProcess::GibbsSPR(int nrep)	{
 	// useless, assuming that preceding move maintains conditinal likelihoods correctly updated
 	GlobalUpdateConditionalLikelihoods();
@@ -588,10 +609,22 @@ double PhyloProcess::GibbsSPR(int nrep)	{
 	}
 	*/
 
+  /* sevra
+   * 
+   * a number of SPR moves are done per call to the Move method. Default is set to 10
+   * 
+   * 
+   */
+  
+  
 	double naccepted = 0;
 	for (int rep=0; rep<nrep; rep++)	{
+    //sevra
+    cout << "SPR rep " << rep;
 		naccepted += GibbsSPR();
 	}
+	
+	
 	// necessary, assuming that following move assumes likelihoods are updated
 	/*
 	GlobalComputeNodeLikelihood(GetRoot()->Next());
@@ -700,7 +733,10 @@ int PhyloProcess::GibbsSPR()	{
 	}
 	GlobalAttach(down,up,i->first.first,i->first.second);
 	GlobalUpdateConditionalLikelihoods();
-	return accepted;
+	
+  cout << ": " << accepted << "\n";
+  
+  return accepted;
 }
 
 void PhyloProcess::RecursiveGibbsSPRScan(Link* from, Link* fromup, Link* down, Link* up, double* loglarray, int& n)	{

@@ -272,6 +272,12 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 		ResetMaxWeightError();
 	}
 
+	/*sevra:
+   * likely method implementing a pb "cycle"
+   * 
+   *   
+   */
+  
 	double Move(double tuning = 1.0)	{
     
     //sevra
@@ -291,6 +297,7 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 			cout << "Adjusting branch lenghts " << 0.1*tuning << "\n";
       BranchLengthMove(0.1 * tuning);
 		}
+		
 		if (! fixtopo)	{
 			//sevra
       cout << "Adjusting topology\n";
@@ -315,7 +322,10 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 			if (! fixbl)	{
         /*
          sevra
-         update the branch lengths?
+         this is updating something along the branches?
+         
+         and is doing it ten times... with two tuning values...
+         
          */
         
 				GammaBranchProcess::Move(tuning,10);
@@ -323,11 +333,17 @@ class RASCATGTRSBDPGammaPhyloProcess : public virtual ExpoConjugateGTRPhyloProce
 			}
 
 			GlobalUpdateParameters();
+      
+      /* sevra
+       * and here... is doing the same thing 10 times for 3 tuning values...
+       */
+      
 			DGamRateProcess::Move(tuning,10);
 			DGamRateProcess::Move(0.3*tuning,10);
 			DGamRateProcess::Move(0.03*tuning,10);
 
 			GlobalUpdateParameters();
+      
 			ExpoConjugateGTRSBDPProfileProcess::Move(1,1,2);
       /* sevra
 			if (iscodon){

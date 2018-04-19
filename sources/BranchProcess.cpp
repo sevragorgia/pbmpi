@@ -71,7 +71,8 @@ void BranchProcess::MoveBranch(const Branch* branch, double m)	{
 	int index = branch->GetIndex();
 	
   //sevra: this is the method that is called to update branch lengths
-	cout << "proposing bl move for branch " << index << ", m=" << m << ", " << exp(m) << "\n"; 
+  // apparently multiplies the current brach by some factor
+	cout << "proposing bl move for branch " << index << ". Current bl = " << blarray[index] << ", m=" << m << ", exp(m)=" << exp(m) << ", new bl " << blarray[index]*exp(m) << "\n"; 
 	
   bkarray[index] = blarray[index];
 	blarray[index] *= exp(m);

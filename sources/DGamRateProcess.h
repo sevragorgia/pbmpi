@@ -71,6 +71,9 @@ class DGamRateProcess : public virtual RateProcess {
 		return total / GetNcat();
 	}
 
+	/* sevra
+   * move alpha? for the DP?
+	*/
 	double Move(double tuning = 1, int nrep = 1)	{
 		GlobalUpdateSiteRateSuffStat();
 		chronorate.Start();

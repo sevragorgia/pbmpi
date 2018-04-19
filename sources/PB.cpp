@@ -59,7 +59,7 @@ int main(int argc, char* argv[])	{
 	int fixtopo = 0;
 	int fixcodonprofile = 1;
 	int fixomega = 1;
-	int NSPR = 10;
+	int NSPR = 10; //this controls the number of spr rearrangements?
 	int NNNI = 0;
 	int fixbl = 0;
 	int fixncomp = 0;

@@ -102,23 +102,35 @@ double DGamRateProcess::RateSuffStatLogProb()	{
 	return total;
 }
 
+/* sevra
+ * move alpha, for the DP?
+ */
 double DGamRateProcess::MoveAlpha(double tuning, int nrep)	{
 
 	GlobalUpdateRateSuffStat();
 	int naccepted = 0;
 	for (int rep=0; rep<nrep; rep++)	{
-		double bkalpha = alpha;
+    
+    double bkalpha = alpha;
 		double deltalogprob = -LogRatePrior() - RateSuffStatLogProb();
 		double m = tuning * (rnd::GetRandom().Uniform() - 0.5);
 		double e = exp(m);
 		double newalpha = alpha * e;
-		SetAlpha(newalpha);
+		
+    //sevra
+    cout << "moving alpha = " << alpha << ", with tuning " << tuning << " to " << newalpha;
+    
+    SetAlpha(newalpha);
 		deltalogprob += m + LogRatePrior() + RateSuffStatLogProb();
 		int accepted = (log(rnd::GetRandom().Uniform()) < deltalogprob);
 		if (accepted)	{
+      //sevra
+      cout << ". Accepted\n";
 			naccepted++;
 		}
 		else	{
+      //sevra
+      cout << ". Rejected\n";
 			SetAlpha(bkalpha);
 		}
 	}

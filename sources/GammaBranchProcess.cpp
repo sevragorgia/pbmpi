@@ -106,7 +106,7 @@ double GammaBranchProcess::LogHyperPrior()	{
 
 /*sevra:
  
- update branch lengths?
+ update branch lenght priors?
  
  */
 double GammaBranchProcess::Move(double tuning, int nrep)	{
@@ -116,20 +116,32 @@ double GammaBranchProcess::Move(double tuning, int nrep)	{
 	return total;
 }
 
+/*
+ * sevra
+ * update beta. Need to check the prior on the branch lengths 
+ */
 double GammaBranchProcess::MoveBranchBeta(double tuning, int nrep)	{
 	int Naccepted = 0;
 	for (int rep=0; rep<nrep; rep++)	{
 		double deltalogprob = - LogHyperPrior() - LogLengthPrior() - LengthSuffStatLogProb();
 		double m = tuning * (rnd::GetRandom().Uniform() - 0.5);
 		double e = exp(m);
+    
+    //sevra
+    cout << "Updating branch beta with tuning " << tuning << " from " << branchbeta << " to " << branchbeta*e;
+    
 		branchbeta *= e;
 		deltalogprob += LogHyperPrior() + LogLengthPrior() + LengthSuffStatLogProb();
 		deltalogprob += m;
 		int accepted = (log(rnd::GetRandom().Uniform()) < deltalogprob);
 		if (accepted)	{
+      //sevra
+      cout << ". Accepted move.\n";
 			Naccepted ++;
 		}
 		else	{
+      //sevra
+      cout << ". Reject move.\n";
 			branchbeta /= e;
 		}
 	}
